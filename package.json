@@ -4,7 +4,7 @@
   "description": "JSON file containing CAR guideline recommendations",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo \"JSON file is already built\""
   },
   "author": "",
   "license": "ISC",
