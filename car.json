@@ -1,0 +1,4292 @@
+{
+  "version": "1.0",
+  "options": [
+    {
+      "n": "H01",
+      "v": "Sinus Disease"
+    },
+    {
+      "n": "H01A",
+      "v": "Acute and Chronic Sinusitis",
+      "p": "H01"
+    },
+    {
+      "n": "H01A_1",
+      "v": "Sinus Disease: X-Ray",
+      "t": "1. In adults with sinus disease, we recommend against XR. (↓↓)",
+      "p": "H01A"
+    },
+    {
+      "n": "H01A_2",
+      "v": "Uncomplicated Acute Sinusitis: initial imaging",
+      "t": "2. In adults with uncomplicated acute sinusitis (≤4 weeks), we recommend against imaging. (↓↓)",
+      "p": "H01A"
+    },
+    {
+      "n": "H01A_3",
+      "v": "Acute Sinusitis with Complications: CT",
+      "t": "3. In adults with acute sinusitis with suspected complications, we recommend CT as the initial imaging modality. (↑↑)",
+      "p": "H01A"
+    },
+    {
+      "n": "H01A_3_1",
+      "v": "Sinusitis with Intraorbital/Intracranial Complications: MRI",
+      "t": "↪ 3.1 In adults where there is clinical or radiologic concern for intraorbital or intracranial complication, we suggest MRI as the next imaging modality.",
+      "p": "H01A_3"
+    },
+    {
+      "n": "H01A_4",
+      "v": "Chronic or Recurrent Acute Sinusitis: CT",
+      "t": "4. In adults who meet the definition (e.g., Canadian Consensus Guidelines) of chronic sinusitis OR for recurrent acute sinusitis, we suggest CT as the initial imaging modality (↑).",
+      "p": "H01A"
+    },
+    {
+      "n": "H01B",
+      "v": "Sinonasal Tumours",
+      "p": "H01"
+    },
+    {
+      "n": "H01B_1",
+      "v": "Suspected Sinonasal Tumour: Initial CT",
+      "t": "1. In adults with suspected sinonasal tumour, we recommend CT as the initial imaging modality. (↑↑)",
+      "p": "H01B"
+    },
+    {
+      "n": "H01B_2",
+      "v": "Sinonasal Tumour Follow-up: MRI",
+      "t": "↪ 1.1 In adults with suspected sinonasal tumour on CT, we recommend <b>MRI</b> as the next imaging modality. (↑↑)",
+      "p": "H01B"
+    },
+    {
+      "n": "H02",
+      "v": "Tinnitus"
+    },
+    {
+      "n": "H02A",
+      "v": "Pulsatile Tinnitus",
+      "p": "H02"
+    },
+    {
+      "n": "H02A_1",
+      "v": "Pulsatile Tinnitus: initial imaging",
+      "t": "1. In adults with pulsatile tinnitus, we suggest CT/CTA or MRI/MRA as the initial imaging modality.",
+      "p": "H02A"
+    },
+    {
+      "n": "H02B",
+      "v": "Non-pulsatile Tinnitus",
+      "p": "H02"
+    },
+    {
+      "n": "H02B_1",
+      "v": "Symmetrical Non-pulsatile Tinnitus",
+      "t": "1. In adults with symmetrical atraumatic non-pulsatile tinnitus with no associated neurological signs and symptoms, we recommend against imaging. (↓↓)",
+      "p": "H02B"
+    },
+    {
+      "n": "H02B_2",
+      "v": "Asymmetric Non-pulsatile Tinnitus",
+      "t": "2. In adults with associated neurological signs and symptoms꙳ OR with asymmetric atraumatic non-pulsatile tinnitus, we recommend MRI of <b>internal auditory canals</b> as the initial imaging modality. (↑↑)",
+      "p": "H02B"
+    },
+    {
+      "n": "H02B_2_1",
+      "v": "Internal Auditory Canal Assessment: MRI unavailable/contraindicated",
+      "t": "↪ 2.1 If MRI internal auditory canals is unavailable or contraindicated, we recommend CT. (↑↑)",
+      "p": "H02B_2"
+    },
+    {
+      "n": "H03",
+      "v": "Thyroid and Parathyroid Disease"
+    },
+    {
+      "n": "H03A",
+      "v": "Palpable Nodule and Goiter",
+      "t": "Palpable nodule, including goiter",
+      "p": "H03"
+    },
+    {
+      "n": "H03A_1",
+      "v": "Thyroid Nodule/Goiter: initial imaging",
+      "t": "1. In adults with palpable thyroid nodule or goiter, we recommend US as the initial imaging modality. (↑↑)",
+      "p": "H03A"
+    },
+    {
+      "n": "H03A_1_1",
+      "v": "Thyroid nodule/goiter with suspicion for invasive thyroid cancer: next imaging",
+      "t": "↪ 1.1 If further investigation is required to evaluate for indications such as suspicion of invasive thyroid cancer, substernal and deep extension, tracheal compression, we recommend CT as the next imaging modality. (↑↑)",
+      "p": "H03A_1"
+    },
+    {
+      "n": "H03B",
+      "v": "Thyrotoxicosis and Hyperthyroidism",
+      "p": "H03"
+    },
+    {
+      "n": "H03B_1",
+      "v": "Thyrotoxicosis/Hyperthyroidism: initial imaging",
+      "t": "1. In adults with biochemical confirmation of thyrotoxicosis or hyperthyroidism (i.e., supressed TSH), we recommend US as the initial imaging modality. (↑↑)",
+      "p": "H03B"
+    },
+    {
+      "n": "H03B_1_1",
+      "v": "Thyroid Focal Abnormality",
+      "t": "↪ 1.1 If focal abnormality is detected on US, we suggest NM. (↑)",
+      "p": "H03B_1"
+    },
+    {
+      "n": "H03C",
+      "v": "Primary Hyperparathyroidism",
+      "p": "H03"
+    },
+    {
+      "n": "H03C_1",
+      "v": "Primary Hyperparathyroidism: initial imaging",
+      "t": "1. In adults with biochemically proven primary hyperparathyroidism, we recommend <b>US and NM</b> as the initial imaging modalities for operative consideration. (↑↑)",
+      "p": "H03C"
+    },
+    {
+      "n": "H03C_1_1",
+      "v": "Primary Hyperparathyroidism: next imaging",
+      "t": "↪ 1.1 If US and NM are nondiagnostic or discordant, we suggest CT as the next imaging modality at the physicians’ discretion. (↑)",
+      "p": "H03C_1"
+    },
+    {
+      "n": "H04",
+      "v": "Neck mass of unknown origin, including salivary gland mass"
+    },
+    {
+      "n": "H04_1",
+      "v": "Suspicious Neck Mass: initial imaging",
+      "t": "1. In adults with neck mass of unknown origin with clinical concern for malignancy, we recommend CT as the initial imaging modality. (↑↑)",
+      "p": "H04"
+    },
+    {
+      "n": "H04_2",
+      "v": "Non-suspicious Neck Mass: initial imaging",
+      "t": "2. In adults with neck mass of unknown origin with low clinical concern for malignancy, we recommend US as the initial imaging modality. (↑↑)",
+      "p": "H04"
+    },
+    {
+      "n": "H04_2_1",
+      "v": "Neck Mass Characterization: next imaging",
+      "t": "↪ 2.1 If further investigation is required to characterize the mass, we recommend CT or MRI as the next imaging modality based on US findings. (↑↑)",
+      "p": "H04_2"
+    },
+    {
+      "n": "H05",
+      "v": "Acute Sialadenitis"
+    },
+    {
+      "n": "H05_1",
+      "v": "Acute Sialadenitis: initial imaging",
+      "t": "1. In adults with suspected acute sialadenitis with or without stone, we recommend CT as the initial imaging modality. (EPc)",
+      "p": "H05"
+    },
+    {
+      "n": "H05_1_1",
+      "v": "Sialadenitis Alternative: alternative imaging",
+      "t": "↪ 1.1 If CT is unavailable, we recommend US as the initial imaging modality. (EPc)",
+      "p": "H05_1"
+    },
+    {
+      "n": "H06",
+      "v": "Chronic Salivary Conditions"
+    },
+    {
+      "n": "H06_1",
+      "v": "Chronic Salivary Disease: initial imaging",
+      "t": "1. In adults with xerostomia, suspected chronic sialadenitis, or suspected autoimmune/connective tissue disease, we recommend US or CT as the initial imaging modality. (↑↑ or EPc)",
+      "p": "H06"
+    },
+    {
+      "n": "H06_1_1",
+      "v": "Salivary Disease Follow-up: next imaging",
+      "t": "↪ 1.1  If further investigation is required, we suggest MRI/MR sialography as the next imaging modality. (↑)",
+      "p": "H06_1"
+    },
+    {
+      "n": "H07",
+      "v": "Temporomandibular Joint Dysfunction"
+    },
+    {
+      "n": "H07_1",
+      "v": "TMJ Dysfunction",
+      "t": "1. In adults with temporomandibular joint dysfunction, we suggest against imaging, unless surgery is being considered. (↓)",
+      "p": "H07"
+    },
+    {
+      "n": "H07_1_1",
+      "v": "TMJ dysfunction/TMD after conservative management failure",
+      "t": "↪ 1.1 In adults with clinically significant mechanical symptoms suggestive of temporomandibular joint dysfunction where surgery is being considered after failure of conservative management, we recommend MRI. (↑↑)",
+      "p": "H07_1"
+    },
+    {
+      "n": "M1",
+      "v": "Osteomyelitis Including Diabetic Foot",
+      "t": "Osteomyelitis, including diabetic foot"
+    },
+    {
+      "n": "M1_1",
+      "v": "Suspected Osteomyelitis / diabetic foot: initial imaging",
+      "t": "1. In adults with suspected osteomyelitis, including the diabetic foot, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "M1"
+    },
+    {
+      "n": "M1_1_1",
+      "v": "Osteomyelitis: next imaging",
+      "t": "↪ 1.1 If further investigation is required, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M1_1"
+    },
+    {
+      "n": "M1_1_2",
+      "v": "Osteomyelitis: alternative imaging",
+      "t": "↪ 1.2 If MRI is unavailable or contraindicated, we suggest CT (with contrast) or NM (bone scan). For bone scan, the radioisotope and protocol employed may vary based on clinical presentation, regional practice preferences and resource availability. (↑)",
+      "p": "M1_1"
+    },
+    {
+      "n": "M1_2",
+      "v": "Osteomyelitis sequestra evaluation / biopsy guidance",
+      "t": "2. In adults with suspected osteomyelitis, we recommend CT for evaluation of sequestra or for guiding biopsy. (↑↑)",
+      "p": "M1"
+    },
+    {
+      "n": "M1_3",
+      "v": "Osteomyelitis,﹘superficial collection evaluation",
+      "t": "3. In adults with suspected osteomyelitis, where MRI or CT were not performed, we suggest US to evaluate for superficial fluid collections. (↑)",
+      "p": "M1"
+    },
+    {
+      "n": "M2",
+      "v": "Septic Arthritis"
+    },
+    {
+      "n": "M2_1",
+      "v": "Septic Arthritis: initial imaging",
+      "t": "1. In adults with suspected septic arthritis, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "M2"
+    },
+    {
+      "n": "M2_1_1",
+      "v": "Septic Arthritis: next imaging",
+      "t": "↪ 1.1 If further investigation is required, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M2_1"
+    },
+    {
+      "n": "M2_1_2",
+      "v": "Septic Arthritis: alternative imaging",
+      "t": "↪ 1.2 If MRI is unavailable or contraindicated, we suggest CT (with contrast). (↑)",
+      "p": "M2_1"
+    },
+    {
+      "n": "M2_2",
+      "v": "Septic arthritis﹘joint effusion and juxta-articular fluid collections: evaluation",
+      "t": "2. In adults with suspected septic arthritis, where MRI or CT were not performed, we suggest US to evaluate for effusion or juxta-articular fluid collections. (↑)",
+      "p": "M2"
+    },
+    {
+      "n": "M2_3",
+      "v": "Arthrocentesis Guidance",
+      "t": "3. In adults with suspected septic arthritis, we suggest US or Fluoroscopy to facilitate arthrocentesis, immediately after XR, if bedside arthrocentesis is not feasible. (EPc)",
+      "p": "M2"
+    },
+    {
+      "n": "M3",
+      "v": "Soft Tissue Infection"
+    },
+    {
+      "n": "M3_1",
+      "v": "Soft Tissue Infection: initial imaging",
+      "t": "1. In adults with suspected soft tissue infection, including necrotizing fasciitis, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "M3"
+    },
+    {
+      "n": "M3_2",
+      "v": "Deep Soft Tissue Infection: next imaging",
+      "t": "2. In adults with suspected deep or aggressive soft tissue infection, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M3"
+    },
+    {
+      "n": "M3_2_1",
+      "v": "Deep Soft Tissue Infection: alternative imaging",
+      "t": "↪ 2.1 If MRI is unavailable or contraindicated, we suggest CT (with contrast). (↑)",
+      "p": "M3_2"
+    },
+    {
+      "n": "M3_3",
+      "v": "Soft Tissue Infection﹘superficial collections: evaluation",
+      "t": "3. In adults with suspected soft tissue infection, we suggest US to evaluate for superficial fluid collections. (↑)",
+      "p": "M3"
+    },
+    {
+      "n": "M3_3_1",
+      "v": "Complex Soft Tissue Infection",
+      "t": "↪ 3.1 If further investigation is required, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M3_3"
+    },
+    {
+      "n": "M3_3_2",
+      "v": "Alternative Complex Infection Imaging",
+      "t": "↪ 3.2 If MRI is unavailable or contraindicated, we suggest CT (with contrast). (↑)",
+      "p": "M3_3"
+    },
+    {
+      "n": "M4",
+      "v": "Primary Bone Tumour",
+      "t": "Bone tumour — Primary"
+    },
+    {
+      "n": "M4_1",
+      "v": "Suspected Primary Bone Tumour: initial imaging",
+      "t": "1. In adults with suspected primary bone tumour, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "M4"
+    },
+    {
+      "n": "M4_1_1",
+      "v": "Bone Tumour Further Investigation",
+      "t": "↪ 1.1 If further investigation is required, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M4_1"
+    },
+    {
+      "n": "M4_1_2",
+      "v": "Alternative Bone Tumour Imaging",
+      "t": "↪ 1.2 If MRI is unavailable or contraindicated, we suggest CT (with contrast). (↑)",
+      "p": "M4_1"
+    },
+    {
+      "n": "M4_1_3",
+      "v": "Equivocal Bone Tumour",
+      "t": "↪ 1.3 If XR, MRI or CT remain equivocal, we suggest NM (bone scan). (EPc)",
+      "p": "M4_1"
+    },
+    {
+      "n": "M5",
+      "v": "Bone Metastases",
+      "t": "Bone tumour — Metastases"
+    },
+    {
+      "n": "M5_1",
+      "v": "Known Primary Cancer",
+      "t": "1. In adults with known primary cancer (non-myeloma), we recommend NM (bone scan) as the initial imaging modality to assess for skeletal metastases. (↑↑)",
+      "p": "M5"
+    },
+    {
+      "n": "M5_2",
+      "v": "Focal Symptomatic Sites",
+      "t": "2. In adults with suspected bone metastases, we recommend XR as the initial imaging modality for assessment of focal symptomatic sites, or for correlation with a NM, MRI or CT finding. (↑↑)",
+      "p": "M5"
+    },
+    {
+      "n": "M5_3",
+      "v": "Local Metastasis Assessment",
+      "t": "3. In adults with metastases seen on XR requiring further local assessment or staging, we recommend MRI. (↑↑)",
+      "p": "M5"
+    },
+    {
+      "n": "M5_3_1",
+      "v": "Alternative Metastasis Assessment",
+      "t": "↪ 3.1 If MRI is unavailable or contraindicated, we suggest CT (with contrast). (↑)",
+      "p": "M5_3"
+    },
+    {
+      "n": "M5_4",
+      "v": "Skeletal Survey",
+      "t": "4. In adults with suspected metastases, we recommend against skeletal survey XR. (↓↓)",
+      "p": "M5"
+    },
+    {
+      "n": "M5_5",
+      "v": "Advanced Metastasis Imaging Techniques",
+      "t": "5. In adults with suspected bone metastases, whole-body CT, whole-body MRI, and PET are evolving techniques and may be used depending on regional practice preferences and resource availability. (EPc)",
+      "p": "M5"
+    },
+    {
+      "n": "M6",
+      "v": "Myeloma",
+      "t": "Bone tumour — Myeloma"
+    },
+    {
+      "n": "M6_1",
+      "v": "Myeloma staging: initial imaging",
+      "t": "1. In adults with suspected myeloma, we recommend whole-body CT (low dose) or PET/CT as the initial imaging modality for staging. (↑↑)",
+      "p": "M6"
+    },
+    {
+      "n": "M6_1_1",
+      "v": "Myeloma staging: next imaging",
+      "t": "↪ 1.1 If whole-body CT or PET/CT is negative or unavailable, we recommend whole-body MRI as the next imaging modality. (↑↑)",
+      "p": "M6_1"
+    },
+    {
+      "n": "M6_1_2",
+      "v": "Myeloma staging: alternative imaging",
+      "t": "↪ 1.2 If whole-body CT, PET/CT, and MRI are unavailable or contraindicated, we suggest XR (skeletal survey). (↑)",
+      "p": "M6_1"
+    },
+    {
+      "n": "M6_2",
+      "v": "Known Myeloma﹘focal symptomatic sites: assessment",
+      "t": "2. In adults with known myeloma, we recommend XR for assessment of focal symptomatic sites, or for correlation with an MRI or CT finding. (↑↑)",
+      "p": "M6"
+    },
+    {
+      "n": "M6_3",
+      "v": "Myeloma﹘bone scan / NM: not recommended",
+      "t": "3. In adults with suspected myeloma, we recommend against NM (bone scan). (↓↓)",
+      "p": "M6"
+    },
+    {
+      "n": "M7",
+      "v": "Soft Tissue Mass or Tumour"
+    },
+    {
+      "n": "M7_1",
+      "v": "Superficial Soft Tissue Mass or Tumour: initial imaging",
+      "t": "1. In adults with superficial soft tissue mass, we recommend US as the initial imaging modality. (↑↑)",
+      "p": "M7"
+    },
+    {
+      "n": "M7_1_1",
+      "v": "Superficial Mass or Tumour: next imaging",
+      "t": "↪ 1.1 If further investigation is required, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M7_1"
+    },
+    {
+      "n": "M7_2",
+      "v": "Deep Soft Tissue Mass or Tumour: initial imaging",
+      "t": "2. In adults with deep or large soft tissue mass (≥5 cm), we recommend MRI as the initial imaging modality. (↑↑)",
+      "p": "M7"
+    },
+    {
+      "n": "M7_2_1",
+      "v": "Deep Soft Tissue Mass or Tumour: alternative imaging",
+      "t": "↪ 2.1 If MRI is unavailable or contraindicated, we suggest CT (with contrast). (↑)",
+      "p": "M7_2"
+    },
+    {
+      "n": "M7_3",
+      "v": "Superficial Soft Tissue Mass or Tumour: Bone Involvement Assessment",
+      "t": "3. In adults with soft tissue masses, we recommend XR for evaluation of calcification, or if bone/joint involvement is suspected, after US. (↑↑)",
+      "p": "M7"
+    },
+    {
+      "n": "M8",
+      "v": "Non-periarticular Soft Tissue Pain",
+      "t": "Soft tissue pain (non-periarticular)"
+    },
+    {
+      "n": "M8_1",
+      "v": "Soft Tissue Pain: initial imaging",
+      "t": "1. In adults with non-joint soft tissue pain, we recommend US as the initial imaging modality. (EPc)",
+      "p": "M8"
+    },
+    {
+      "n": "M8_1_1",
+      "v": "Complex Soft Tissue Pain",
+      "t": "↪ 1.1 If further investigation is required, we recommend MRI as the next imaging modality. (EPc)",
+      "p": "M8_1"
+    },
+    {
+      "n": "M8_1_2",
+      "v": "Alternative Pain Imaging",
+      "t": "↪ 1.2 If MRI is unavailable or contraindicated, we suggest CT (with contrast). (EPc)",
+      "p": "M8_1"
+    },
+    {
+      "n": "M8_2",
+      "v": "Regional Bone Assessment",
+      "t": "2. In adults with non-joint soft tissue pain, we suggest XR for evaluation of regional bone pathology. (EPc)",
+      "p": "M8"
+    },
+    {
+      "n": "M9",
+      "v": "Osteoarthritis/Crystalline Arthropathy/Gout/Pseudogout",
+      "t": "Osteoarthritis/ Crystalline Arthropathy"
+    },
+    {
+      "n": "M9_1",
+      "v": "Suspected Arthritis",
+      "t": "1. In adults with suspected osteoarthritis or crystalline arthropathy, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "M9"
+    },
+    {
+      "n": "M9_2",
+      "v": "Gout Assessment",
+      "t": "2. In adults with suspected gout, we suggest US as a complement to XR to identify tophi. (↑)",
+      "p": "M9"
+    },
+    {
+      "n": "M9_3",
+      "v": "Advanced Gout Imaging",
+      "t": "3. In adults with suspected gout, CT (dual-energy) may be used depending on regional practice preferences and resource availability. (EPc)",
+      "p": "M9"
+    },
+    {
+      "n": "M10",
+      "v": "Inflammatory Arthropathy",
+      "t": "Inflammatory Arthropathy (Rheumatoid/ Peripheral Spondyloarthropathy)"
+    },
+    {
+      "n": "M10_1",
+      "v": "Suspected Inflammatory Arthritis",
+      "t": "1. In adults with suspected inflammatory arthropathy, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "M10"
+    },
+    {
+      "n": "M10_1_1",
+      "v": "Synovitis Evaluation",
+      "t": "↪ 1.1 If further investigation is required for evaluation of findings such as effusion, synovitis, erosions and enthesitis, we suggest US as the next imaging modality. (↑)",
+      "p": "M10_1"
+    },
+    {
+      "n": "M10_1_2",
+      "v": "Multifocal Joint Assessment",
+      "t": "↪ 1.2 In adults with multifocal joint pain, we suggest NM (bone scan) as an alternative to US to determine the distribution of synovitis. (↑)",
+      "p": "M10_1"
+    },
+    {
+      "n": "M10_1_3",
+      "v": "Advanced Arthritis Assessment",
+      "t": "↪ 1.3 If further investigation is required for evaluation of findings such as acute synovitis, cartilage damage, erosions, and bone marrow edema OR as an alternative to US, we suggest MRI as the next imaging modality. (↑)",
+      "p": "M10_1"
+    },
+    {
+      "n": "M11",
+      "v": "Axial Spondyloarthropathy",
+      "t": "Spondyloarthropathy (Axial)"
+    },
+    {
+      "n": "M11_1",
+      "v": "Initial Spondyloarthropathy Assessment",
+      "t": "1. In adults with suspected axial spondyloarthropathy, we recommend XR of the sacroiliac joints ± spine as the initial imaging investigation. (↑↑)",
+      "p": "M11"
+    },
+    {
+      "n": "M11_1_1",
+      "v": "Advanced Spondyloarthropathy",
+      "t": "↪ 1.1 If further investigation is required, we recommend MRI of the sacroiliac joints ± spine as the next imaging investigation. (↑↑)",
+      "p": "M11_1"
+    },
+    {
+      "n": "M11_1_2",
+      "v": "Alternative Spondyloarthropathy: CT",
+      "t": "↪ 1.2 If MRI is unavailable or contraindicated, we suggest CT of the sacroiliac joints ± spine. (↑)",
+      "p": "M11_1"
+    },
+    {
+      "n": "M11_2",
+      "v": "Spondyloarthropathy Nuclear Medicine: Not Recommended",
+      "t": "2. In adults with suspected axial spondyloarthropathy, we recommend against NM (bone scan). (↓↓)",
+      "p": "M11"
+    },
+    {
+      "n": "M12",
+      "v": "Non-joint Bone Pain",
+      "t": "Bone pain (non-joint)"
+    },
+    {
+      "n": "M12_1",
+      "v": "Non-traumatic Bone Pain: initial imaging",
+      "t": "1. In adults with non-traumatic, non-joint bone pain, we recommend XR of the symptomatic area(s) as the initial imaging modality. (↑↑)",
+      "p": "M12"
+    },
+    {
+      "n": "M12_1_1",
+      "v": "Complex Bone Pain: MRI",
+      "t": "↪ 1.1 If further investigation is required, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M12_1"
+    },
+    {
+      "n": "M12_1_2",
+      "v": "Alternative Pain Assessment",
+      "t": "↪ 1.2 If MRI is unavailable or contraindicated, we suggest CT. (EPc)",
+      "p": "M12_1"
+    },
+    {
+      "n": "M12_1_3",
+      "v": "Limited Access Pain Assessment",
+      "t": "↪ 1.3 If CT is unavailable, we recommend NM (bone scan). (↑↑)",
+      "p": "M12_1"
+    },
+    {
+      "n": "M13",
+      "v": "Metabolic Bone Disease",
+      "t": "Metabolic bone disease, including osteoporosis and osteomalacia"
+    },
+    {
+      "n": "M13_1",
+      "v": "Osteoporosis Assessment / Bone Mineral Density",
+      "t": "1. In adults with suspected osteoporosis, we recommend Dual-energy X-ray absorptiometry (DEXA) for the measurement of bone mineral density. (↑↑)",
+      "p": "M13"
+    },
+    {
+      "n": "M13_2",
+      "v": "Focal Metabolic Disease",
+      "t": "2. In adults with suspected metabolic bone disease with pain or focal area of concern, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "M13"
+    },
+    {
+      "n": "M13_2_1",
+      "v": "Complex Metabolic Disease",
+      "t": "↪ 2.1 If further investigation is required, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M13_2"
+    },
+    {
+      "n": "M13_2_2",
+      "v": "Alternative Metabolic Assessment",
+      "t": "↪ 2.2 If MRI is not available or is contraindicated, we suggest CT to evaluate focal pain. (↑)",
+      "p": "M13_2"
+    },
+    {
+      "n": "M13_3",
+      "v": "Multifocal Disease",
+      "t": "3. In adults with suspected metabolic bone disease with multi-focal areas of pain or concern, we suggest NM (bone scan) as the initial imaging modality. (↑)",
+      "p": "M13"
+    },
+    {
+      "n": "M14",
+      "v": "Stress Fracture",
+      "t": "Stress fracture (insufficiency, fatigue)"
+    },
+    {
+      "n": "M14_1",
+      "v": "Stress Fracture: initial imaging",
+      "t": "1. In adults with suspected stress (fatigue or insufficiency) fracture, we recommend XR of the area of interest as the initial imaging modality. (↑↑)",
+      "p": "M14"
+    },
+    {
+      "n": "M14_1_1",
+      "v": "Stress Fracture: follow-up imaging",
+      "t": "↪ 1.1 If further investigation is required for evaluation of suspected stress fracture, we recommend MRI for the pelvis and hip and suggest MRI for any other sites as the next imaging modality. (↑↑/EPc)",
+      "p": "M14_1"
+    },
+    {
+      "n": "M14_1_2",
+      "v": "Stress Fracture: Alternative Assessment",
+      "t": "↪ 1.2 If MRI is unavailable or is contraindicated or would result in a clinically significant delay in diagnosis, we suggest CT. (↑)",
+      "p": "M14_1"
+    },
+    {
+      "n": "M14_1_3",
+      "v": "Stress Fracture: CT Unavailable",
+      "t": "↪ 1.3 If CT is unavailable, we suggest NM (bone scan). (↑)",
+      "p": "M14_1"
+    },
+    {
+      "n": "M15",
+      "v": "Chest Wall Pain"
+    },
+    {
+      "n": "M15_1",
+      "v": "Non-traumatic Chest Wall: initial imaging",
+      "t": "1. In adults with non-traumatic chest wall pain, we recommend XR of the chest ± ribs as the initial imaging investigation. (↑↑)",
+      "p": "M15"
+    },
+    {
+      "n": "M15_1_1",
+      "v": "Focal Chest Wall: follow-up imaging",
+      "t": "↪ 1.1 If further investigation is required for evaluation of focal chest wall or joint area of concern, we suggest US as the next imaging modality. (↑)",
+      "p": "M15_1"
+    },
+    {
+      "n": "M15_1_2",
+      "v": "Complex Chest Wall: Further Investigation",
+      "t": "↪ 1.2 If further investigation is required, we recommend MRI. (↑↑)",
+      "p": "M15_1"
+    },
+    {
+      "n": "M15_1_3",
+      "v": "Diffuse Chest Wall Pathology: follow-up imaging",
+      "t": "↪ 1.3 If further investigation is required for evaluation of diffuse chest wall or intra-thoracic pathology, we recommend CT as the next imaging modality. (↑↑)",
+      "p": "M15_1"
+    },
+    {
+      "n": "M16",
+      "v": "Shoulder Pain or Instability"
+    },
+    {
+      "n": "M16_1",
+      "v": "Shoulder Assessment: initial imaging",
+      "t": "1. In adults with shoulder pain or instability, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "M16"
+    },
+    {
+      "n": "M16_1_1",
+      "v": "Shoulder Assessment: follow-up imaging / Rotator Cuff Assessment",
+      "t": "↪ 1.1 If further investigation is required for evaluation of soft tissue pathology, such as rotator cuff tear, tendinopathy, effusion, bursitis, soft tissue calcification, or extra-articular impingement, we recommend US as the next imaging modality. (↑↑)",
+      "p": "M16_1"
+    },
+    {
+      "n": "M16_1_2",
+      "v": "Shoulder Assessment: Further Investigation",
+      "t": "↪ 1.2 If further investigation is required OR as an alternative to US, we recommend MRI. (↑↑)",
+      "p": "M16_1"
+    },
+    {
+      "n": "M17",
+      "v": "Elbow pain"
+    },
+    {
+      "n": "M17_1",
+      "v": "Elbow joint pain: initial imaging",
+      "t": "1. In adults with elbow joint pain of suspected articular origin, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "M17"
+    },
+    {
+      "n": "M17_1_1",
+      "v": "Elbow joint pain: follow-up imaging",
+      "t": "↪ 1.1 If further investigation is required, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M17_1"
+    },
+    {
+      "n": "M17_2",
+      "v": "Elbow tendon / nerve compression / effusion / synovitis / bursitis: initial imaging",
+      "t": "2. In adults with elbow pain with suspected tendon pathology, nerve compression, effusion, synovitis, or bursitis, we recommend XR or US as the initial imaging modality. (↑↑)",
+      "p": "M17"
+    },
+    {
+      "n": "M17_2_1",
+      "v": "Elbow tendon / nerve compression / effusion / synovitis / bursitis: follow-up imaging",
+      "t": "↪ 2.1 If further investigation is required, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M17_2"
+    },
+    {
+      "n": "M17_3",
+      "v": "Elbow bone pre-operative evaluation",
+      "t": "3. In adults with elbow pain, after XR, we suggest CT for evaluation of clinically relevant bone anatomy, in the context of pre-operative planning. (↑)",
+      "p": "M17"
+    },
+    {
+      "n": "M18",
+      "v": "Hand and wrist pain"
+    },
+    {
+      "n": "M18_1",
+      "v": "Hand/wrist joint pain: initial imaging",
+      "t": "1. In adults with hand and/or wrist joint pain, we suggest XR as the initial imaging modality. (↑)",
+      "p": "M18"
+    },
+    {
+      "n": "M18_1_1",
+      "v": "Hand/wrist joint: follow-up imaging",
+      "t": "↪ 1.1 If further investigation is required, we suggest MRI. (↑)",
+      "p": "M18_1"
+    },
+    {
+      "n": "M18_1_2",
+      "v": "Hand/wrist ligament and capsule evaluation, MRI unavailable",
+      "t": "↪ 1.2 If MRI is unavailable or contraindicated, we suggest CT arthrography for the evaluation of the triangulofibrocartilaginous complex (TFCC), intrinsic ligaments of the wrist or capsule. (↑)",
+      "p": "M18_1"
+    },
+    {
+      "n": "M18_2",
+      "v": "Hand/wrist soft tissue pathology / ganglion cyst / synovitis / tenosynovitis: initial imaging",
+      "t": "2. In adults with hand and/or wrist pain suspected to be soft tissue related, such as ganglion cyst, synovitis, tenosynovitis, we suggest US as the initial imaging modality. (↑)",
+      "p": "M18"
+    },
+    {
+      "n": "M18_2_1",
+      "v": "Hand/wrist soft tissue - Alternative imaging",
+      "t": "↪ 2.1 As an alternative to US, we suggest MRI. (↑)",
+      "p": "M18_2"
+    },
+    {
+      "n": "M18_3",
+      "v": "Hand/wrist pain, Follow-up Imaging for chronic scaphoid fracture or pre-operative evaluation",
+      "t": "3. In adults with hand and/or wrist pain, after XR, we suggest CT for evaluation of bone anatomy, chronic scaphoid fracture OR in the context of pre-operative planning. (↑)",
+      "p": "M18"
+    },
+    {
+      "n": "M19",
+      "v": "MSK pelvis and hip pain"
+    },
+    {
+      "n": "M19_1",
+      "v": "Hip pain: initial imaging",
+      "t": "1. In adults with hip pain, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "M19"
+    },
+    {
+      "n": "M19_2",
+      "v": "Hip internal derangement evaluation (labral tear, osteochondral injury, intraarticular body)",
+      "t": "2. For evaluation of internal derangement of the hip such as labral tear, osteochondral injury, or intraarticular body and if further investigation is required, we recommend MR arthrography or high-field MRI (i.e., 3T). (↑↑/EPc)",
+      "p": "M19"
+    },
+    {
+      "n": "M19_2_1",
+      "v": "Hip internal derangement - Alternative imaging",
+      "t": "↪ 2.1 If MRI is unavailable or is contraindicated, we suggest CT arthrography for evaluation for internal derangement of the hip. (↑)",
+      "p": "M19_2"
+    },
+    {
+      "n": "M19_3",
+      "v": "Deep soft tissue pathology assessment",
+      "t": "3. For evaluation of deep soft tissue pathology, after XR, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M19"
+    },
+    {
+      "n": "M19_4",
+      "v": "Superficial soft tissue pathology: follow-up imaging",
+      "t": "4. For evaluation of superficial soft tissue pathology, after XR, we recommend US or MRI as the next imaging modality. (↑↑)",
+      "p": "M19"
+    },
+    {
+      "n": "M19_5",
+      "v": "Hip pain anatomy pre-operative evaluation",
+      "t": "5. In adults with hip pain, we suggest CT for evaluation of clinically relevant bone anatomy, typically in the context of pre-operative planning. (EPc)",
+      "p": "M19"
+    },
+    {
+      "n": "M19_6",
+      "v": "Pelvic pain: initial imaging",
+      "t": "6. In adults with musculoskeletal pelvic pain, we suggest XR as the initial imaging modality. (EPc)",
+      "p": "M19"
+    },
+    {
+      "n": "M19_6_1",
+      "v": "Pelvic pain: follow-up imaging",
+      "t": "↪ 6.1 If further investigation is required, we suggest MRI as the next imaging modality. (EPc)",
+      "p": "M19_6"
+    },
+    {
+      "n": "M19_6_2",
+      "v": "Pelvic soft tissue pathology assessment",
+      "t": "↪ 6.2 If MRI is unavailable or contraindicated, we suggest US if pathology is favoured to be soft tissue related. (EPc)",
+      "p": "M19_6"
+    },
+    {
+      "n": "M19_6_3",
+      "v": "Pelvic bone pathology assessment",
+      "t": "↪ 6.3 If MRI is unavailable or contraindicated, we suggest CT or NM (bone scan) if pathology is favoured to be osseous. (EPc)",
+      "p": "M19_6"
+    },
+    {
+      "n": "M20",
+      "v": "Knee pain"
+    },
+    {
+      "n": "M20_1",
+      "v": "Knee joint pain: initial imaging",
+      "t": "1. In adults with knee joint pain, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "M20"
+    },
+    {
+      "n": "M20_1_1",
+      "v": "Knee joint pain: follow-up imaging",
+      "t": "↪ 1.1 If further investigation is required, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M20_1"
+    },
+    {
+      "n": "M20_1_2",
+      "v": "Knee joint pain: follow-up imaging, MRI unavailable (meniscal tear, chondral defects)",
+      "t": "↪ 1.2 If MRI is unavailable or contraindicated, we suggest CT arthrography to evaluate for findings such as meniscal tear or chondral defects. (↑)",
+      "p": "M20_1"
+    },
+    {
+      "n": "M20_2",
+      "v": "Knee pain, soft tissue: initial imaging",
+      "t": "2. In adults with knee pain suspected to be soft tissue related, such as extensor mechanism pathology, bursitis, joint effusion, and popliteal cyst/mass, we recommend US as the initial imaging modality. (↑↑)",
+      "p": "M20"
+    },
+    {
+      "n": "M20_2",
+      "v": "Knee pain (extensor mechanism pathology, bursitis, joint effusion, popliteal cyst/mass): initial imaging",
+      "p": "M20"
+    },
+    {
+      "n": "M20_2_1",
+      "v": "Knee pain, soft tissue - Alternative imaging",
+      "t": "↪ 2.1 As an alternative to US, we recommend MRI. (↑↑)",
+      "p": "M20_2"
+    },
+    {
+      "n": "M20_3",
+      "v": "Chronic knee joint pain, bone anatomy - Pre-operative evaluation",
+      "t": "3. In adults with chronic knee joint pain, after XR, we suggest CT for evaluation of clinically relevant bone anatomy in scenarios such as patellofemoral maltracking, osteochondral defect, or intraarticular bodies OR in the context of pre-operative planning. (↑ OR EPc)",
+      "p": "M20"
+    },
+    {
+      "n": "M21",
+      "v": "Ankle pain"
+    },
+    {
+      "n": "M21_1",
+      "v": "Ankle pain: initial imaging",
+      "t": "1. In adults with ankle pain, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "M21"
+    },
+    {
+      "n": "M21_1_1",
+      "v": "Ankle pain: follow-up imaging (effusion, tendon abnormality)",
+      "t": "↪ 1.1 If further investigation is required for evaluation of effusion or tendon abnormality, we recommend US as the next imaging modality. (↑↑)",
+      "p": "M21_1"
+    },
+    {
+      "n": "M21_1_2",
+      "v": "Ankle pain: Further Imaging (ligament and osteochondral evaluation)",
+      "t": "↪ 1.2 If further investigation is required to evaluate for findings such as osteochondral lesion or unstable ligament tears, or as an alternative to US for tendon pathology, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M21_1"
+    },
+    {
+      "n": "M21_2",
+      "v": "Ankle pain: osteochondral efect, intraarticular bodies, tarsal coalition / pre-operative evaluation",
+      "t": "2. In adults with ankle pain, after XR, we suggest CT for evaluation of clinically significant bone anatomy in scenarios such as osteochondral defect, intraarticular bodies, tarsal coalition OR in the context of pre-operative planning. (↑ OR EPc)",
+      "p": "M21"
+    },
+    {
+      "n": "M22",
+      "v": "Foot pain"
+    },
+    {
+      "n": "M22_1",
+      "v": "Foot pain: initial imaging",
+      "t": "1. In adults with foot pain, we suggest XR as the initial imaging modality. (↑)",
+      "p": "M22"
+    },
+    {
+      "n": "M22_2",
+      "v": "Foot pain, soft tissue related: initial imaging",
+      "t": "2. In adults with foot pain suspected to be soft tissue related, such as plantar fasciitis, tendon pathology, bursitis, Morton’s neuroma, we suggest US as the next imaging modality. (↑)",
+      "p": "M22"
+    },
+    {
+      "n": "M22_2_1",
+      "v": "Foot pain: stress fracture, osteochondral defect, tarsal coalition, plantar fasciitis, tarsal tunnel syndrome, tnedon pathology, or Morton's neuroma",
+      "t": "↪ 2.1 If further investigation is required for evaluation for findings such as stress fracture, tarsal coalition, plantar fasciitis, tarsal tunnel syndrome, tendon pathology, or Morton’s neuroma, we suggest MRI. (↑)",
+      "p": "M22_2"
+    },
+    {
+      "n": "M22_3",
+      "v": "Foot pain: stress fracture, osteochondral defect or pre-operative evaluation",
+      "t": "3. In adults with foot pain, after XR, we suggest CT for evaluation of pathologies such as stress fracture, osteochondral defect OR for evaluation of clinically relevant bone anatomy, typically in the context of pre-operative planning. (↑↑ OR EPc)",
+      "p": "M22"
+    },
+    {
+      "n": "M22_4",
+      "v": "Foot pain: suspected stress fracture, alternative assessment",
+      "t": "4. In adults with foot pain suspected to be a stress fracture, if MRI and CT are unavailable or contraindicated, we suggest NM (bone scan). (↑)",
+      "p": "M22"
+    },
+    {
+      "n": "M23",
+      "v": "Orthopedic hardware/arthroplasty pain/symptoms"
+    },
+    {
+      "n": "M23_1",
+      "v": "Orthopedic hardware/arthroplasty pain: initial imaging",
+      "t": "1. In adults with orthopedic hardware/arthroplasty pain or symptoms, we recommend XR as the initial imaging modality, to evaluate for findings such as fracture, dislocation, periprosthetic osteolysis, or hardware fracture/loosening. (↑↑)",
+      "p": "M23"
+    },
+    {
+      "n": "M23_1_1",
+      "v": "Orthopedic hardware/arthroplasty pain: follow-up imaging",
+      "t": "↪ 1.1 If further investigation is required for evaluation of periprosthetic osteolysis or fracture, we recommend CT as the next imaging modality. Metal artifact reduction parameters should be implemented. (↑↑)",
+      "p": "M23_1"
+    },
+    {
+      "n": "M23_1_2",
+      "v": "Orthopedic hardware/arthroplasty pain: alternative imaging",
+      "t": "↪ 1.2 In adults with orthopedic hardware/arthroplasty pain or symptoms suspicious for infection, loosening, or fracture, we recommend NM (bone scan) when CT is negative, indeterminate, or unavailable. (↑↑)",
+      "p": "M23_1"
+    },
+    {
+      "n": "M23_2",
+      "v": "Orthopedic hardware/arthroplasty pain, soft tissue evaluation: follow-up imaging",
+      "t": "2. In adults with orthopedic hardware/arthroplasty pain or symptoms suspected to be related to soft tissue pathology, after XR, we recommend MRI as the next imaging modality. Metal artifact reduction sequences should be implemented. (↑↑)",
+      "p": "M23"
+    },
+    {
+      "n": "M23_2_1",
+      "v": "Orthopedic hardware/arthroplasty pain, soft tissue evaluation: alternative imaging",
+      "t": "↪ 2.1 If MRI is not available or contraindicated, we suggest CT (with contrast). (↑)",
+      "p": "M23_2"
+    },
+    {
+      "n": "M23_3",
+      "v": "Orthopedic hardware/arthroplasty pain, superficial fluid collections",
+      "t": "3. In adults with orthopedic hardware/arthroplasty pain or symptoms, we recommend US to evaluate for superficial fluid collections. (↑↑)",
+      "p": "M23"
+    },
+    {
+      "n": "M23_4",
+      "v": "Orthopedic hardware/arthroplasty pain, septic arthritis evaluation",
+      "t": "4. In adults with orthopedic hardware/arthroplasty pain or symptoms concerning for septic arthritis, after XR, we suggest US or Fluoroscopy to facilitate arthrocentesis. (EPc)",
+      "p": "M23"
+    },
+    {
+      "n": "M24",
+      "v": "Avascular necrosis/bone infarction"
+    },
+    {
+      "n": "M24_1",
+      "v": "Avascular necrosis: initial imaging",
+      "t": "1. In adults with suspected avascular necrosis/bone infarction, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "M24"
+    },
+    {
+      "n": "M24_1_1",
+      "v": "Avascular necrosis: next imaging",
+      "t": "↪ 1.1 If further investigation is required for evaluation of avascular necrosis, we recommend MRI as the next imaging modality. (↑↑)",
+      "p": "M24_1"
+    },
+    {
+      "n": "M24_1_2",
+      "v": "Avascular necrosis: alternative imaging (NM)",
+      "t": "↪ 1.2 If MRI is unavailable or is contraindicated, we suggest NM (bone scan). (↑)",
+      "p": "M24_1"
+    },
+    {
+      "n": "M24_1_3",
+      "v": "Avascular necrosis: alternative imaging (CT)",
+      "t": "↪ 1.3 If MRI and NM (bone scan) are unavailable or contraindicated, we suggest CT. (↑)",
+      "p": "M24_1"
+    },
+    {
+      "n": "M25",
+      "v": "Complex regional pain syndrome (CRPS)",
+      "t": "Complex regional pain syndrome"
+    },
+    {
+      "n": "M25_1",
+      "v": "Complex regional pain syndrome (CRPS): initial imaging",
+      "t": "1. In adults with suspected complex regional pain syndrome, we suggest XR as the initial imaging modality. (↑↑)",
+      "p": "M25"
+    },
+    {
+      "n": "M25_1_1",
+      "v": "Complex regional pain syndrome (CRPS): next imaging",
+      "t": "↪ 1.1 If further investigation is required, we suggest NM (bone scan) as the next imaging modality. (EPc)",
+      "p": "M25_1"
+    },
+    {
+      "n": "M25_1_2",
+      "v": "Complex regional pain syndrome (CRPS): alternative imaging",
+      "t": "↪ 1.2 If NM is unavailable or is contraindicated, we suggest MRI. (EPc)",
+      "p": "M25_1"
+    },
+    {
+      "n": "CV01",
+      "v": "Acute chest pain syndromes"
+    },
+    {
+      "n": "CV01A",
+      "v": "Acute coronary syndrome: ST elevation myocardial infarction (STEMI)",
+      "p": "CV01"
+    },
+    {
+      "n": "CV01A_1",
+      "v": "Initial STEMI assessment",
+      "t": "1. In patients meeting criteria for STEMI (i.e., ECG), we recommend invasive coronary angiography as the initial imaging modality. (↑↑)",
+      "p": "CV01A"
+    },
+    {
+      "n": "CV01A_1_1",
+      "v": "STEMI alternative evaluation",
+      "t": "↪ 1.1 In cases of diagnostic uncertainty OR if immediate invasive coronary angiography is unavailable, we suggest chest XR and bedside TTE/POCUS (if available) to evaluate for other potential causes of chest pain, but this should not delay care. (↑)",
+      "p": "CV01A_1"
+    },
+    {
+      "n": "CV01B",
+      "v": "Acute coronary syndrome: non-STEMI",
+      "p": "CV01"
+    },
+    {
+      "n": "CV01B_1",
+      "v": "Initial non-STEMI assessment",
+      "t": "1. In patients with suspected non-STEMI, we recommend chest XR (to rule out other causes of chest pain) and bedside TTE/POCUS (if available, to evaluate for ventricular function and rule out pericardial effusion) as the initial imaging modalities. (↑↑)",
+      "p": "CV01B"
+    },
+    {
+      "n": "CV01B_1_1",
+      "v": "High-risk non-STEMI evaluation",
+      "t": "↪ 1.1 In higher-risk patients, we recommend invasive coronary angiography as the next imaging modality. (↑↑)",
+      "p": "CV01B_1"
+    },
+    {
+      "n": "CV01B_1_2",
+      "v": "Low-risk non-STEMI evaluation",
+      "t": "↪ 1.2 In lower-risk patients, we recommend invasive coronary angiography or CCTA as the next imaging modality, depending on clinical parameters. (↑↑)",
+      "p": "CV01B_1"
+    },
+    {
+      "n": "CV01C",
+      "v": "Acute coronary syndrome: unstable angina",
+      "p": "CV01"
+    },
+    {
+      "n": "CV01C_1",
+      "v": "Initial unstable angina assessment",
+      "t": "1. In patients with suspected unstable angina (i.e., negative cardiac troponin), we recommend chest XR (to rule out other causes of chest pain) and bedside TTE/POCUS (if available, to evaluate for ventricular function and rule out pericardial effusion) as the initial imaging modalities. (↑↑)",
+      "p": "CV01C"
+    },
+    {
+      "n": "CV01C_1_1",
+      "v": "Unstable angina risk stratification",
+      "t": "↪ 1.1 For assessment of coronary artery disease and for risk stratification, we recommend CCTA. (↑↑)",
+      "p": "CV01C_1"
+    },
+    {
+      "n": "CV01C_2",
+      "v": "Refractory unstable angina assessment",
+      "t": "2. In patients with suspected unstable angina with ongoing chest pain not relieved with medical management, we recommend invasive coronary angiography. (↑↑)",
+      "p": "CV01C"
+    },
+    {
+      "n": "CV01D",
+      "v": "Acute aortic syndrome",
+      "p": "CV01"
+    },
+    {
+      "n": "CV01D_1",
+      "v": "Initial acute aortic syndrome assessment",
+      "t": "1. For patients with suspected acute aortic syndrome, we recommend CTA (preferably cardiac-gated, if available) as the initial imaging modality. (↑↑)",
+      "p": "CV01D"
+    },
+    {
+      "n": "CV01D_1_1",
+      "v": "Acute aortic syndrome alternative evaluation",
+      "t": "↪ 1.1 If CTA is contraindicated, we recommend TEE or MRA as alternative imaging modalities. (↑↑)",
+      "p": "CV01D_1"
+    },
+    {
+      "n": "CV01E",
+      "v": "Pulmonary embolism",
+      "p": "CV01"
+    },
+    {
+      "n": "CV01E_1",
+      "v": "Low/intermediate risk PE exclusion",
+      "t": "1. In patients with suspected pulmonary embolism with low or intermediate pretest probability (as determined by a structured risk assessment tool) with a negative D-dimer, we recommend against CTA/MRA/VQ scan. (↓↓)",
+      "p": "CV01E"
+    },
+    {
+      "n": "CV01E_2",
+      "v": "Low/intermediate risk PE assessment",
+      "t": "2. In patients with suspected pulmonary embolism with low or intermediate pretest probability (as determined by a structured risk assessment tool) with a positive D-dimer test, we recommend CT pulmonary angiography (CTPA) as the initial imaging modality. (↑↑)",
+      "p": "CV01E"
+    },
+    {
+      "n": "CV01E_2_1",
+      "v": "Initial PE alternative assessment",
+      "t": "↪ 2.1 If immediate CTPA is not available, we recommend chest XR as the next imaging modality to exclude other causes of chest pain. (↑↑)",
+      "p": "CV01E_2"
+    },
+    {
+      "n": "CV01E_2_2",
+      "v": "PE contraindicated CT alternatives",
+      "t": "↪ 2.2 If CT pulmonary angiography is contraindicated, we suggest VQ scan or MR pulmonary angiography as an alternative. (↑)",
+      "p": "CV01E_2"
+    },
+    {
+      "n": "CV01E_3",
+      "v": "High risk PE assessment",
+      "t": "3. In patients with suspected pulmonary embolism and high pretest probability (as determined by a structured risk assessment tool) or in patients with recurrent pulmonary embolism, we recommend CTPA as the initial imaging modality. (↑↑)",
+      "p": "CV01E"
+    },
+    {
+      "n": "CV01E_3_1",
+      "v": "High risk PE alternative assessment",
+      "t": "↪ 3.1 If immediate CTPA is not available, we recommend chest XR as the next imaging modality to exclude other causes of chest pain. (↑↑)",
+      "p": "CV01E_3"
+    },
+    {
+      "n": "CV01E_3_2",
+      "v": "High risk PE contraindicated CT alternatives",
+      "t": "↪ 3.2 If CT pulmonary angiography is contraindicated, we suggest VQ scan or MR pulmonary angiography as an alternative. (↑)",
+      "p": "CV01E_3"
+    },
+    {
+      "n": "CV01E_4",
+      "v": "Pregnancy high risk PE initial assessment",
+      "t": "4. For pregnant patients with high pretest probability (as determined by a structured risk assessment tool) of pulmonary embolism, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "p": "CV01E"
+    },
+    {
+      "n": "CV01E_4_1",
+      "v": "Pregnancy PE follow-up assessment",
+      "t": "↪ 4.1 If chest XR does not explain the clinical presentation and further imaging is required, we recommend Doppler US as the next imaging modality. (↑↑)",
+      "p": "CV01E_4"
+    },
+    {
+      "n": "CV01E_4_2",
+      "v": "Pregnancy PE: next imaging",
+      "t": "↪ 4.2 If Doppler US is negative, we recommend CTPA or NM (VQ scan) as the next imaging modality. (↑↑)",
+      "p": "CV01E_4"
+    },
+    {
+      "n": "CV01E_5",
+      "v": "Chronic thromboembolic pulmonary hypertension assessment",
+      "t": "5. In patients with pulmonary hypertension suspected to be secondary to chronic thromboembolic disease (CTEPH), we recommend VQ scan as the initial imaging modality. (EPc)",
+      "p": "CV01E"
+    },
+    {
+      "n": "CV01E_5_1",
+      "v": "CTEPH alternative evaluation",
+      "t": "↪ 5.1 If VQ scan is non-diagnostic, indeterminate for chronic pulmonary embolism, or unavailable, we recommend CTPA as an alternative. Dual energy CT technology or iodine subtraction maps can increase CTPA sensitivity to detect chronic pulmonary embolism. (EPc)",
+      "p": "CV01E_5"
+    },
+    {
+      "n": "CV01F",
+      "v": "Acute myocarditis",
+      "p": "CV01"
+    },
+    {
+      "n": "CV01F_1",
+      "v": "Initial myocarditis assessment",
+      "t": "1. In patients with suspected acute myocarditis, we recommend TTE followed by cardiac MRI as the initial imaging modalities. (↑↑)",
+      "p": "CV01F"
+    },
+    {
+      "n": "CV01F_1_1",
+      "v": "Myocarditis coronary evaluation",
+      "t": "↪ 1.1 If cardiac MRI does not demonstrate acute myocarditis and if invasive coronary angiography has not been performed, we suggest CCTA as the next imaging modality to exclude obstructive coronary artery disease in appropriately selected patients. (↑)",
+      "p": "CV01F_1"
+    },
+    {
+      "n": "CV01G",
+      "v": "Acute pericarditis",
+      "p": "CV01"
+    },
+    {
+      "n": "CV01G_1",
+      "v": "Initial pericarditis assessment",
+      "t": "1. In patients with suspected acute pericarditis, we recommend bedside TTE/POCUS or TEE as the initial imaging modality to assess presence of pericardial thickening, effusion, as well as ventricular function and constrictive physiology. (↑↑)",
+      "p": "CV01G"
+    },
+    {
+      "n": "CV01G_1_1",
+      "v": "Pericarditis management guidance",
+      "t": "↪ 1.1 If further imaging is required to guide management (i.e., pericardiocentesis), we suggest CT (preferably cardiac-gated, if available) as the next imaging modality. (↑)",
+      "p": "CV01G_1"
+    },
+    {
+      "n": "CV01G_1_2",
+      "v": "Pericarditis advanced evaluation",
+      "t": "↪ 1.2 If TTE is inconclusive regarding acute pericarditis or constrictive physiology, we suggest cardiac MRI as an alternative. (↑)",
+      "p": "CV01G_1"
+    },
+    {
+      "n": "CV01H",
+      "v": "Non-cardiac chest pain",
+      "p": "CV01"
+    },
+    {
+      "n": "CV02",
+      "v": "Chronic chest pain"
+    },
+    {
+      "n": "CV02A",
+      "v": "Suspected chronic ischemic heart disease",
+      "p": "CV02"
+    },
+    {
+      "n": "CV02A_1",
+      "v": "Established CAD intermediate risk assessment",
+      "t": "1. In patients with established chronic ischemic heart disease with recurrent chest pain symptoms despite guideline directed medical therapy and intermediate risk/pre-test probability or known non-obstructive CAD, we suggest anatomical (CCTA), functional (stress NM, stress echo) imaging, or stress MR as the initial imaging modalities. (↑)",
+      "p": "CV02A"
+    },
+    {
+      "n": "CV02A_1_1",
+      "v": "CAD invasive investigation guidance",
+      "t": "↪ 1.1 To identify patients who may benefit from further investigation with invasive coronary angiography, we suggest CT-fractional flow reserve (CT-FFR). (↑)",
+      "p": "CV02A_1"
+    },
+    {
+      "n": "CV02A_2",
+      "v": "Established CAD high risk assessment",
+      "t": "2. In patients with established chronic ischemic heart disease with recurrent chest pain symptoms despite guideline directed medical therapy and high risk/pre-test probability, we recommend invasive coronary angiography as the initial imaging modality. (↑↑)",
+      "p": "CV02A"
+    },
+    {
+      "n": "CV02A_3",
+      "v": "Post-revascularization evaluation",
+      "t": "3. In patients with established chronic ischemic heart disease with prior coronary revascularization with percutaneous coronary intervention (PCI) or coronary artery bypass grafts (CABG) and with recurrent chest pain symptoms, we suggest CCTA to evaluate for stent (especially if stent > 3mm) or graft patency. (↑)",
+      "p": "CV02A"
+    },
+    {
+      "n": "CV02A_3_1",
+      "v": "Post-revascularization ischemia assessment",
+      "t": "↪ 3.1 If evaluation for ischemia to account for symptoms is important, we recommend NM (myocardial perfusion scan). (↑↑)",
+      "p": "CV02A_3"
+    },
+    {
+      "n": "CV02A_4",
+      "v": "Low risk CAD screening exclusion",
+      "t": "4. In patients with stable chest pain without established ischemic heart disease presenting to the outpatient clinic and at low risk/pre-test likelihood of having obstructive CAD (as determined by a structured assessment tool), routine imaging investigations are not recommended. (↓↓)",
+      "p": "CV02A"
+    },
+    {
+      "n": "CV02A_4_1",
+      "v": "Selected populations CAD screening",
+      "t": "↪ 4.1 In selected patient populations, we suggest calcium score CT (for excluding calcified plaque and identifying patients at low likelihood of obstructive CAD) or exercise ECG testing. (↑)",
+      "p": "CV02A_4"
+    },
+    {
+      "n": "CV02A_5",
+      "v": "Non-established CAD moderate/high risk assessment",
+      "t": "5. In patients without established chronic ischemic heart disease with recurrent stable chest pain symptoms and intermediate or high risk/pre-test probability, we recommend CCTA for diagnosis of CAD, risk prognostication and guiding of treatment decisions. (↑↑)",
+      "p": "CV02A"
+    },
+    {
+      "n": "CV02A_5_1",
+      "v": "CAD functional assessment",
+      "t": "↪ 5.1 For diagnosis of myocardial ischemia and estimation of risk of major adverse cardiovascular events (MACE), we recommend functional imaging (stress echocardiography or PET/SPECT MPI or CMR). (↑↑)",
+      "p": "CV02A_5"
+    },
+    {
+      "n": "CV02B",
+      "v": "Non-cardiac chest pain",
+      "p": "CV02"
+    },
+    {
+      "n": "CV03",
+      "v": "Cardiovascular screening and risk stratification (calcium score CT)"
+    },
+    {
+      "n": "CV03_1",
+      "v": "Low risk cardiovascular screening exclusion",
+      "t": "1. In asymptomatic low-risk adults, we suggest against routine cardiovascular imaging screening and risk stratification. (↓)",
+      "p": "CV03"
+    },
+    {
+      "n": "CV03_2",
+      "v": "Intermediate/high risk cardiovascular screening",
+      "t": "2. In asymptomatic intermediate-risk adults, we recommend calcium score CT for optimal risk stratification to guide medical management. In high-risk patients reluctant to initiate optimal medical management, calcium score CT can provide useful information for patient counselling. (↑↑)",
+      "p": "CV03"
+    },
+    {
+      "n": "CV04",
+      "v": "Pericardial syndromes"
+    },
+    {
+      "n": "CV04A",
+      "v": "Acute pericarditis",
+      "p": "CV04"
+    },
+    {
+      "n": "CV04B",
+      "v": "Pericardial effusion",
+      "p": "CV04"
+    },
+    {
+      "n": "CV04B_1",
+      "v": "Initial pericardial effusion assessment",
+      "t": "1. In patients with suspected pericardial effusion, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV04B"
+    },
+    {
+      "n": "CV04B_1_1",
+      "v": "Constrictive physiology evaluation",
+      "t": "↪ 1.1 If there is suspected effusive constrictive/constrictive physiology, we suggest CT (preferably cardiac-gated, if available) as the next imaging modality to evaluate for pericardial thickness, pericardial effusion, and calcification. (↑)",
+      "p": "CV04B_1"
+    },
+    {
+      "n": "CV04B_1_2",
+      "v": "Constrictive physiology advanced assessment",
+      "t": "↪ 1.2 If TTE is inconclusive for effusive constrictive/constrictive physiology, we recommend cardiac MRI as the next imaging modality. (↑↑)",
+      "p": "CV04B_1"
+    },
+    {
+      "n": "CV04B_1_3",
+      "v": "Constrictive physiology definitive evaluation",
+      "t": "↪ 1.3 If cardiac MRI is inconclusive for effusive constrictive/constrictive physiology, we recommend cardiac catheterization. (↑↑)",
+      "p": "CV04B_1"
+    },
+    {
+      "n": "CV04C",
+      "v": "Constrictive pericarditis",
+      "p": "CV04"
+    },
+    {
+      "n": "CV04C_1",
+      "v": "Initial constrictive pericarditis assessment",
+      "t": "1. In patients with suspected constrictive pericarditis, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV04C"
+    },
+    {
+      "n": "CV04C_1_1",
+      "v": "Constrictive pericarditis anatomical evaluation",
+      "t": "↪ 1.1 If there is suspected constrictive physiology, we suggest CT (preferably cardiac-gated, if available) as the next imaging modality to evaluate for pericardial thickness and calcification. (↑)",
+      "p": "CV04C_1"
+    },
+    {
+      "n": "CV04C_1_2",
+      "v": "Constrictive pericarditis advanced assessment",
+      "t": "↪ 1.2 If TTE is inconclusive for constrictive physiology, we recommend cardiac MRI as the next imaging modality. (↑↑)",
+      "p": "CV04C_1"
+    },
+    {
+      "n": "CV04C_1_3",
+      "v": "Constrictive pericarditis definitive evaluation",
+      "t": "↪ 1.3 If cardiac MRI is inconclusive for constrictive physiology, we recommend cardiac catheterization. (↑↑)",
+      "p": "CV04C_1"
+    },
+    {
+      "n": "CV05",
+      "v": "Intracardiac/pericardial mass"
+    },
+    {
+      "n": "CV05A",
+      "v": "Normal variant",
+      "p": "CV05"
+    },
+    {
+      "n": "CV05A_1",
+      "v": "CT-detected cardiac mass initial assessment",
+      "t": "1. In patients with a suspected intracardiac or pericardial mass (versus normal variant) detected on chest CT, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV05A"
+    },
+    {
+      "n": "CV05A_1_1",
+      "v": "Cardiac mass advanced characterization",
+      "t": "↪ 1.1 If further imaging is required, we recommend cardiac MRI as the next imaging modality. (↑↑)",
+      "p": "CV05A_1"
+    },
+    {
+      "n": "CV05A_1_2",
+      "v": "Cardiac mass alternative evaluation",
+      "t": "↪ 1.2 If cardiac MRI is not tolerated, is unavailable, or is contraindicated, we recommend cardiac CT as an alternative imaging modality. (↑↑)",
+      "p": "CV05A_1"
+    },
+    {
+      "n": "CV05A_2",
+      "v": "Echo-detected cardiac mass assessment",
+      "t": "2. In patients with a suspected intracardiac or pericardial mass (versus normal variant) incidentally detected on TTE, we recommend cardiac MRI for further characterization. (↑↑)",
+      "p": "CV05A"
+    },
+    {
+      "n": "CV05A_2_1",
+      "v": "Echo-detected mass alternative evaluation",
+      "t": "↪ 2.1 If cardiac MRI is not tolerated, is unavailable, or is contraindicated, we recommend cardiac CT as the next imaging modality. (↑↑)",
+      "p": "CV05A_2"
+    },
+    {
+      "n": "CV05B",
+      "v": "Masses",
+      "p": "CV05"
+    },
+    {
+      "n": "CV05B_1",
+      "v": "CT-detected confirmed mass assessment",
+      "t": "1. In patients with intracardiac or pericardial mass detected on chest CT, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV05B"
+    },
+    {
+      "n": "CV05B_1_1",
+      "v": "Confirmed mass advanced characterization",
+      "t": "↪ 1.1 If further imaging is required, we recommend cardiac MRI as the next imaging modality. (↑↑)",
+      "p": "CV05B_1"
+    },
+    {
+      "n": "CV05B_1_2",
+      "v": "Confirmed mass alternative evaluation",
+      "t": "↪ 1.2 If cardiac MRI is not tolerated, is unavailable, or is contraindicated, we recommend cardiac CT as an alternative imaging modality. (↑↑)",
+      "p": "CV05B_1"
+    },
+    {
+      "n": "CV05B_2",
+      "v": "Echo-detected confirmed mass assessment",
+      "t": "2. In patients with intracardiac or pericardial mass detected on TTE, we recommend cardiac MRI for further characterization. (↑↑)",
+      "p": "CV05B"
+    },
+    {
+      "n": "CV05B_2_1",
+      "v": "Echo-detected confirmed mass alternatives",
+      "t": "↪ 2.1 If cardiac MRI is not tolerated, is unavailable, or is contraindicated, we recommend cardiac CT as the next imaging modality. Cardiac PET may be helpful to guide management. (↑↑)",
+      "p": "CV05B_2"
+    },
+    {
+      "n": "CV06",
+      "v": "Suspected valvular disease"
+    },
+    {
+      "n": "CV06A",
+      "v": "Aortic valve",
+      "p": "CV06"
+    },
+    {
+      "n": "CV06A_1",
+      "v": "Initial aortic stenosis assessment",
+      "t": "1. In patients with suspected aortic valve stenosis, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV06A"
+    },
+    {
+      "n": "CV06A_1_1",
+      "v": "Low flow aortic stenosis evaluation",
+      "t": "↪ 1.1 If the severity of the aortic valve stenosis is unclear (for example in suspected low flow low gradient severe aortic valve stenosis), we recommend calcium score CT of the aortic valve as the next imaging modality. (↑↑)",
+      "p": "CV06A_1"
+    },
+    {
+      "n": "CV06A_1_2",
+      "v": "Aortic stenosis complications assessment",
+      "t": "↪ 1.2 In patients with suspected aortic valve stenosis where pulmonary edema is suspected, we recommend chest XR as the next imaging modality. (↑↑)",
+      "p": "CV06A_1"
+    },
+    {
+      "n": "CV06A_2",
+      "v": "Aortic valve regurgitation",
+      "t": "2. In patients with suspected aortic valve regurgitation, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV06A"
+    },
+    {
+      "n": "CV06A_2_1",
+      "v": "Aortic valve regurgitation - Further imaging",
+      "t": "↪ 2.1 If further imaging is required due to poor acoustic windows or if information about ventricular size and function is required, we recommend cardiac MRI as the next imaging modality or TEE if the mechanism or severity of aortic valve regurgitation is unclear. (↑↑)",
+      "p": "CV06A_2"
+    },
+    {
+      "n": "CV06A_2_2",
+      "v": "Aortic valve regurgitation - Alternative imaging",
+      "t": "↪ 2.2 If MRI is not tolerated, is unavailable, or is contraindicated, we recommend cardiac CT as an alternative imaging modality for evaluation of ventricular size and function. (↑↑)",
+      "p": "CV06A_2"
+    },
+    {
+      "n": "CV06A_2_3",
+      "v": "Aortic valve regurgitation - Suspected pulmonary edema",
+      "t": "↪ 2.3 In patients with suspected aortic valve regurgitation where pulmonary edema is suspected, we recommend chest XR as the next imaging modality. (↑↑)",
+      "p": "CV06A_2"
+    },
+    {
+      "n": "CV06A_3",
+      "v": "Aortic valve disease - Further evaluation",
+      "t": "3. After completing TTE for aortic valve disease, we recommend TEE for suspected infective endocarditis, to further characterize stenosis severity or mechanism of regurgitation, and for ruling out aortic root abscess. (↑↑)",
+      "p": "CV06A"
+    },
+    {
+      "n": "CV06A_3_1",
+      "v": "Aortic valve disease - Suspected aortic root abscess",
+      "t": "↪ 3.1 If there is concern for aortic root abscess and TEE is contraindicated, we recommend cardiac CT. (↑↑)",
+      "p": "CV06A_3"
+    },
+    {
+      "n": "CV06A_4",
+      "v": "Prosthetic valve - Suspected infective endocarditis",
+      "t": "4. In patients with prosthetic valve, we recommend TTE and TEE for suspected infective endocarditis, to further characterize stenosis severity or mechanism of regurgitation, and for ruling out aortic root abscess. (↑↑)",
+      "p": "CV06A"
+    },
+    {
+      "n": "CV06A_4_1",
+      "v": "Prosthetic valve - Suspected aortic root abscess",
+      "t": "↪ 4.1 If there is concern for aortic root abscess and TEE is contraindicated, we recommend cardiac CT. (↑↑)",
+      "p": "CV06A_4"
+    },
+    {
+      "n": "CV06B",
+      "v": "Mitral valve",
+      "p": "CV06"
+    },
+    {
+      "n": "CV06B_1",
+      "v": "Mitral valve stenosis",
+      "t": "1. In patients with suspected mitral valve stenosis, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV06B"
+    },
+    {
+      "n": "CV06B_1_1",
+      "v": "Mitral valve stenosis - Intervention contemplated",
+      "t": "↪ 1.1 If intervention is contemplated or required, we recommend TEE as the next imaging modality. (↑↑)",
+      "p": "CV06B_1"
+    },
+    {
+      "n": "CV06B_2",
+      "v": "Mitral valve stenosis - Suspected pulmonary edema",
+      "t": "2. In patients with suspected mitral valve stenosis where pulmonary edema is suspected, we recommend chest XR as the next imaging modality. (↑↑)",
+      "p": "CV06B"
+    },
+    {
+      "n": "CV06B_3",
+      "v": "Mitral valve regurgitation",
+      "t": "3. In patients with suspected mitral valve regurgitation, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV06B"
+    },
+    {
+      "n": "CV06B_3_1",
+      "v": "Mitral valve regurgitation - Mechanism or severity unclear",
+      "t": "↪ 3.1 If the mechanism or severity is unclear on TTE, we recommend TEE as the next imaging modality. (↑↑)",
+      "p": "CV06B_3"
+    },
+    {
+      "n": "CV06B_3_2",
+      "v": "Mitral valve regurgitation - Further imaging",
+      "t": "↪ 3.2 If further imaging is required due to poor acoustic windows OR if information about ventricular size and function or confirmation of mitral regurgitation severity is required, we recommend cardiac MRI as the next imaging modality (↑↑). (↑↑)",
+      "p": "CV06B_3"
+    },
+    {
+      "n": "CV06B_4",
+      "v": "Mitral valve regurgitation - Suspected pulmonary edema",
+      "t": "4. In patients with suspected mitral valve regurgitation where pulmonary edema is suspected, we recommend chest XR as the next imaging modality. (↑↑)",
+      "p": "CV06B"
+    },
+    {
+      "n": "CV06C",
+      "v": "Pulmonary valve",
+      "p": "CV06"
+    },
+    {
+      "n": "CV06C_1",
+      "v": "Suspected pulmonary valve disease",
+      "t": "1. In patients with suspected pulmonary valve disease, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV06C"
+    },
+    {
+      "n": "CV06C_1_1",
+      "v": "Suspected pulmonary valve disease - Further imaging",
+      "t": "↪ 1.1 If further imaging is required due to poor acoustic windows or if information about ventricular size and function is required (e.g., tetralogy of Fallot), we recommend cardiac MRI as the next imaging modality. (↑↑)",
+      "p": "CV06C_1"
+    },
+    {
+      "n": "CV06C_1_2",
+      "v": "Suspected pulmonary valve disease - Alternative imaging",
+      "t": "↪ 1.2 If cardiac MRI is not tolerated, is unavailable, or is contraindicated, we recommend cardiac CT as an alternative imaging modality. (↑↑)",
+      "p": "CV06C_1"
+    },
+    {
+      "n": "CV06C_2",
+      "v": "Pulmonary valve disease - Further evaluation",
+      "t": "2. After completing TTE for pulmonary valve disease, we suggest TEE for suspected infective endocarditis, to further characterize stenosis severity or mechanism of regurgitation, and for ruling out abscess. (↑)",
+      "p": "CV06C"
+    },
+    {
+      "n": "CV06C_3",
+      "v": "Suspected pulmonary valve disease - Complex pathology",
+      "t": "3. In patients with suspected pulmonary valve disease where supra and sub-valvular pathologies are possible based on TTE findings, we recommend cardiac MRI as the next imaging modality. (↑↑)",
+      "p": "CV06C"
+    },
+    {
+      "n": "CV06C_3_1",
+      "v": "Suspected pulmonary valve disease - Alternative imaging",
+      "t": "↪ 3.1 If cardiac MRI is not tolerated, is unavailable, or is contraindicated, we recommend cardiac CT as an alternative imaging modality. (↑↑)",
+      "p": "CV06C_3"
+    },
+    {
+      "n": "CV06D",
+      "v": "Tricuspid valve",
+      "p": "CV06"
+    },
+    {
+      "n": "CV06D_1",
+      "v": "Suspected tricuspid valve disease",
+      "t": "1. In patients with suspected tricuspid valve disease, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV06D"
+    },
+    {
+      "n": "CV06D_1_1",
+      "v": "Suspected tricuspid valve disease - Further imaging",
+      "t": "↪ 1.1 If further imaging is required due to poor acoustic windows or if information about ventricular size and function is required, we recommend cardiac MRI as the next imaging modality. (↑↑)",
+      "p": "CV06D_1"
+    },
+    {
+      "n": "CV06D_1_2",
+      "v": "Suspected tricuspid valve disease - Alternative imaging",
+      "t": "↪ 1.2 If cardiac MRI is not tolerated, is unavailable, or is contraindicated, we recommend cardiac CT as an alternative imaging modality. (↑↑)",
+      "p": "CV06D_1"
+    },
+    {
+      "n": "CV06D_2",
+      "v": "Tricuspid valve disease - Further evaluation",
+      "t": "2. After completing TTE for tricuspid valve disease, we suggest TEE for suspected infective endocarditis, to further characterize stenosis severity or mechanism of regurgitation, and for ruling out abscess. (↑)",
+      "p": "CV06D"
+    },
+    {
+      "n": "CV07",
+      "v": "Cardiomyopathy"
+    },
+    {
+      "n": "CV07A",
+      "v": "Cardiomyopathy: dilated",
+      "p": "CV07"
+    },
+    {
+      "n": "CV07A_1",
+      "v": "Suspected dilated cardiomyopathy",
+      "t": "1. In patients with suspected dilated cardiomyopathy, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV07A"
+    },
+    {
+      "n": "CV07A_1_1",
+      "v": "Suspected dilated cardiomyopathy - Evaluate for ischemic cause",
+      "t": "↪ 1.1 If ischemic dilated cardiomyopathy is a possibility, we recommend invasive catheter angiography for further evaluation. (↑↑)",
+      "p": "CV07A_1"
+    },
+    {
+      "n": "CV07A_1_2",
+      "v": "Suspected dilated cardiomyopathy - Alternative to invasive angiography",
+      "t": "↪ 1.2 If invasive catheter angiography is unavailable, we recommend CCTA as an alternative. (↑↑)",
+      "p": "CV07A_1"
+    },
+    {
+      "n": "CV07A_1_3",
+      "v": "Suspected dilated cardiomyopathy - Further imaging",
+      "t": "↪ 1.3 If there is no significant obstructive coronary artery disease based on invasive catheter angiography or CCTA results and further imaging is required, we recommend cardiac MRI as the next imaging modality. (↑↑)",
+      "p": "CV07A_1"
+    },
+    {
+      "n": "CV07A_1_4",
+      "v": "Suspected dilated cardiomyopathy - Alternative to cardiac MRI",
+      "t": "↪ 1.4 If information about ventricular size and function is required (and if ventricular size/function is unreliable by TTE) and cardiac MRI is not tolerated, is unavailable, or is contraindicated, we recommend cardiac CT. (↑↑)",
+      "p": "CV07A_1"
+    },
+    {
+      "n": "CV07A_1_5",
+      "v": "Suspected dilated cardiomyopathy - Further alternatives",
+      "t": "↪ 1.5 If cardiac CT is not available, we suggest NM (MUGA). NM (myocardial perfusion scan) may also be helpful to exclude significant ischemia as a cause of dilated cardiomyopathy. (↑)",
+      "p": "CV07A_1"
+    },
+    {
+      "n": "CV07B",
+      "v": "Cardiomyopathy: hypertrophic",
+      "p": "CV07"
+    },
+    {
+      "n": "CV07B_1",
+      "v": "Suspected hypertrophic cardiomyopathy",
+      "t": "1. In patients with suspected hypertrophic cardiomyopathy, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV07B"
+    },
+    {
+      "n": "CV07B_1_1",
+      "v": "Suspected hypertrophic cardiomyopathy - Further imaging",
+      "t": "↪ 1.1 If further imaging is required, we recommend cardiac MRI as the next imaging modality. MRI can be helpful when echocardiography is inconclusive, when other diagnoses are possible (e.g., amyloidosis, athlete’s heart, storage disease, etc.), or when information about maximum wall thickness, ejection fraction, presence of apical aneurysm or extent of late gadolinium enhancement will influence decision to insert an implantable cardioverter-defibrillator (ICD). (↑↑)",
+      "p": "CV07B_1"
+    },
+    {
+      "n": "CV07B_1_2",
+      "v": "Suspected hypertrophic cardiomyopathy - Alternative to cardiac MRI",
+      "t": "↪ 1.2 If information about ventricular size and function or maximum wall thickness is required AND cardiac MRI is not tolerated, is unavailable, or is contraindicated, we recommend cardiac CT. (↑↑)",
+      "p": "CV07B_1"
+    },
+    {
+      "n": "CV07B_1_3",
+      "v": "Suspected hypertrophic cardiomyopathy - Evaluate for coronary artery disease",
+      "t": "↪ 1.3 To rule out obstructive coronary artery disease as a cause of patient symptoms, we recommend invasive catheter angiography in carefully selected patients. (↑↑)",
+      "p": "CV07B_1"
+    },
+    {
+      "n": "CV07B_1_4",
+      "v": "Suspected hypertrophic cardiomyopathy - Alternative to invasive angiography",
+      "t": "↪ 1.4 If invasive catheter angiography is unavailable, we recommend CCTA as an alternative. (↑↑)",
+      "p": "CV07B_1"
+    },
+    {
+      "n": "CV07C",
+      "v": "Cardiomyopathy: restrictive",
+      "p": "CV07"
+    },
+    {
+      "n": "CV07C_1",
+      "v": "Suspected restrictive/infiltrative cardiomyopathy",
+      "t": "1. In patients with suspected restrictive/infiltrative cardiomyopathy, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV07C"
+    },
+    {
+      "n": "CV07C_1_1",
+      "v": "Suspected restrictive/infiltrative cardiomyopathy - Further imaging",
+      "t": "↪ 1.1 If further imaging is required, we recommend cardiac MRI as the next imaging modality. (↑↑)",
+      "p": "CV07C_1"
+    },
+    {
+      "n": "CV07C_1_2",
+      "v": "Suspected restrictive/infiltrative cardiomyopathy - Alternative to cardiac MRI",
+      "t": "↪ 1.2 If information about ventricular size and function is required and cardiac MRI is not tolerated, is unavailable, or is contraindicated, we recommend cardiac CT. (↑↑)",
+      "p": "CV07C_1"
+    },
+    {
+      "n": "CV07C_1_3",
+      "v": "Suspected cardiac sarcoidosis",
+      "t": "↪ 1.3 In patients with suspected cardiac sarcoidosis, we recommend FDG-PET-CT. (↑↑)",
+      "p": "CV07C_1"
+    },
+    {
+      "n": "CV07C_1_4",
+      "v": "Suspected cardiac amyloidosis",
+      "t": "↪ 1.4 In patients with suspected cardiac amyloidosis, if further imaging is required, we recommend NM (pyrophosphate scan) as the next imaging modality. (↑↑)",
+      "p": "CV07C_1"
+    },
+    {
+      "n": "CV07D",
+      "v": "Cardiomyopathy: arrhythmogenic",
+      "p": "CV07"
+    },
+    {
+      "n": "CV07D_1",
+      "v": "Suspected arrhythmogenic cardiomyopathy",
+      "t": "1. In patients with suspected arrhythmogenic cardiomyopathy, we recommend TTE as the initial imaging modality. (↑↑)",
+      "p": "CV07D"
+    },
+    {
+      "n": "CV07D_1_1",
+      "v": "Suspected arrhythmogenic cardiomyopathy - Further imaging",
+      "t": "↪ 1.1 If further imaging is required, we recommend cardiac MRI as the next imaging modality. (↑↑)",
+      "p": "CV07D_1"
+    },
+    {
+      "n": "CV07D_1_2",
+      "v": "Suspected arrhythmogenic cardiomyopathy - Alternative to cardiac MRI",
+      "t": "↪ 1.2 If information about ventricular size and function is required and cardiac MRI is not tolerated, is unavailable, or is contraindicated, we recommend cardiac CT. (↑↑)",
+      "p": "CV07D_1"
+    },
+    {
+      "n": "CV07D_1_3",
+      "v": "Suspected arrhythmogenic cardiomyopathy - Evaluate for coronary artery disease",
+      "t": "↪ 1.3 If obstructive coronary artery disease needs to be ruled out as the cause for arrhythmia, we recommend invasive catheter angiography. (↑↑)",
+      "p": "CV07D_1"
+    },
+    {
+      "n": "CV07D_1_4",
+      "v": "Suspected arrhythmogenic cardiomyopathy - Alternative to invasive angiography",
+      "t": "↪ 1.4 If invasive catheter angiography is unavailable, we recommend CCTA as an alternative. (↑↑)",
+      "p": "CV07D_1"
+    },
+    {
+      "n": "CV08",
+      "v": "Aorta"
+    },
+    {
+      "n": "CV08A",
+      "v": "Thoraco-abdominal aneurysm",
+      "p": "CV08"
+    },
+    {
+      "n": "CV08A_1",
+      "v": "Thoracic/thoraco-abdominal aortic aneurysm",
+      "t": "1. In patients with thoracic aortic aneurysm identified by TTE, we recommend chest CTA (preferably cardiac-gated) for baseline measurement and surveillance. In younger patients with thoraco-abdominal aortic aneurysm identified by TTE, MRA may be performed for baseline measurement and surveillance. Surgical consultation could be considered for aortas >4.5 cm in size. (↑↑)",
+      "p": "CV08A"
+    },
+    {
+      "n": "CV08A_2",
+      "v": "Suspected abdominal aortic aneurysm",
+      "t": "2. In patients without underlying aortopathy with suspected abdominal aortic aneurysm (AAA) based on physical examination, we recommend US as the initial imaging modality. (↑↑)",
+      "p": "CV08A"
+    },
+    {
+      "n": "CV08A_2_1",
+      "v": "Abdominal aortic aneurysm - Small diameter",
+      "t": "↪ 2.1 If US demonstrates aortic diameter between 2.5 and 3.0 cm, we suggest re-evaluation with US after 10 years. (↑↑)",
+      "p": "CV08A_2"
+    },
+    {
+      "n": "CV08A_2_2",
+      "v": "Abdominal aortic aneurysm - Moderate diameter",
+      "t": "↪ 2.2 If US demonstrates aortic diameter between 3.0 and 3.9 cm, we recommend repeat US at 3-year intervals. (↑↑)",
+      "p": "CV08A_2"
+    },
+    {
+      "n": "CV08A_2_3",
+      "v": "Abdominal aortic aneurysm - Larger diameter",
+      "t": "↪ 2.3 If US demonstrates aortic diameter between 4.0 and 4.9 cm, we recommend annual surveillance with US or CT. Surgical consultation could be considered for aortas >4.5 cm in size. For detailed recommendations for patients with underlying aortopathies and sex specific recommendations, see ACC/AHA guideline [30]. (↑↑)",
+      "p": "CV08A_2"
+    },
+    {
+      "n": "CV08A_3",
+      "v": "Thoraco-abdominal aneurysm - Suspected symptoms",
+      "t": "3. In patients with symptoms suspected to be related to thoraco-abdominal aneurysm, we recommend CT with contrast. (↑↑)",
+      "p": "CV08A"
+    },
+    {
+      "n": "CV08B",
+      "v": "Vasculitis",
+      "p": "CV08"
+    },
+    {
+      "n": "CV08B_1",
+      "v": "Suspected aortitis",
+      "t": "1. In patients with suspected vasculitis involving the aorta (i.e., aortitis), we recommend MRA for baseline measurement and surveillance, especially in young patients. (↑↑)",
+      "p": "CV08B"
+    },
+    {
+      "n": "CV08B_1_1",
+      "v": "Suspected aortitis - Alternative to MRA",
+      "t": "↪ 1.1 If MRA is not tolerated, is unavailable, or is contraindicated, we recommend CTA for baseline measurement and surveillance. (↑↑)",
+      "p": "CV08B_1"
+    },
+    {
+      "n": "CV08B_1_2",
+      "v": "Suspected aortitis - Further imaging if inconclusive",
+      "t": "↪ 1.2 If MRA or CTA results are inconclusive regarding disease activity, we suggest FDG-PET-CT or MR-PET. (↑)",
+      "p": "CV08B_1"
+    },
+    {
+      "n": "CV09",
+      "v": "Venous thrombosis"
+    },
+    {
+      "n": "CV09_1",
+      "v": "Suspected deep vein thrombosis - Low pre-test probability and negative D-dimer",
+      "t": "1. In patients with suspected deep vein thrombosis with low pre-test probability (as determined by a structured risk assessment tool) AND negative D-dimer, we recommend no imaging. (↓↓)",
+      "p": "CV09"
+    },
+    {
+      "n": "CV09_1_1",
+      "v": "Suspected deep vein thrombosis - D-dimer unavailable",
+      "t": "↪ 1.1 If D-dimer is unavailable, we recommend interim therapeutic anticoagulation and Doppler US. (↑↑)",
+      "p": "CV09_1"
+    },
+    {
+      "n": "CV09_1_2",
+      "v": "Suspected deep vein thrombosis - Further imaging if inconclusive",
+      "t": "↪ 1.2 If US is inconclusive or of poor quality and further imaging is required, we recommend CTV or MRV as the next imaging modality, with preference for MRV in younger patients. (↑↑)",
+      "p": "CV09_1"
+    },
+    {
+      "n": "CV09_2",
+      "v": "Suspected deep vein thrombosis - Intermediate/high pre-test probability or positive D-dimer",
+      "t": "2. In patients with suspected deep vein thrombosis based with intermediate/high pre-test probability (as determined by a structured risk assessment tool) and/or positive D-dimer, we recommend Doppler US as the initial imaging modality. (↑↑)",
+      "p": "CV09"
+    },
+    {
+      "n": "CV09_3",
+      "v": "Suspected superficial venous thrombosis",
+      "t": "3. In patients with superficial venous thrombosis, we suggest Doppler US as the initial imaging modality. (↑)",
+      "p": "CV09"
+    },
+    {
+      "n": "CV10",
+      "v": "Peripheral vascular disease"
+    },
+    {
+      "n": "CV10A",
+      "v": "Upper and lower extremities",
+      "p": "CV10"
+    },
+    {
+      "n": "CV10A_1",
+      "v": "Suspected peripheral arterial disease",
+      "t": "1. In patients with suspected upper or lower extremity peripheral vascular (arterial) disease based on symptoms or other clinical features and an abnormal ankle-brachial index (ABI < 0.9), we recommend Doppler US for further evaluation. (↑↑)",
+      "p": "CV10A"
+    },
+    {
+      "n": "CV10A_1_1",
+      "v": "Peripheral arterial disease - Further imaging",
+      "t": "↪ 1.1 If further imaging is required, we recommend CTA or MRA as the next imaging modality. (↑↑)",
+      "p": "CV10A_1"
+    },
+    {
+      "n": "CV10A_2",
+      "v": "Established peripheral arterial disease - Recurrent symptoms",
+      "t": "2. In patients with established upper or lower extremity peripheral vascular (arterial) disease with recurrent symptoms, we recommend CTA or MRA as the initial imaging modality. (↑↑)",
+      "p": "CV10A"
+    },
+    {
+      "n": "CV10B",
+      "v": "Vascular malformation",
+      "p": "CV10"
+    },
+    {
+      "n": "CV10B_1",
+      "v": "Suspected vascular malformation",
+      "t": "1. In patients with suspected vascular malformation, to further characterize and guide further management, we recommend time-resolved MRA as the initial imaging modality. In patients presenting with an extremity mass and suspected vascular malformation, Doppler US could be performed as the initial test. (↑↑)",
+      "p": "CV10B"
+    },
+    {
+      "n": "CV10B_1_1",
+      "v": "Vascular malformation - Alternative to time-resolved MRA",
+      "t": "↪ 1.1 If MRA is not tolerated, is unavailable, or is contraindicated, we recommend CTA as an alternative. (↑↑)",
+      "p": "CV10B_1"
+    },
+    {
+      "n": "CV10B_1_2",
+      "v": "Vascular malformation - High flow lesions",
+      "t": "↪ 1.2 To guide further management for high flow vascular malformations, we recommend invasive catheter angiography. (↑↑)",
+      "p": "CV10B_1"
+    },
+    {
+      "n": "CV10C",
+      "v": "Entrapment and compression syndromes",
+      "p": "CV10"
+    },
+    {
+      "n": "CV10C_1",
+      "v": "Suspected entrapment or compression syndrome",
+      "t": "1. In patients with entrapment and compression syndromes involving the extremities where venous thrombosis is also of concern, we recommend Doppler US as the initial imaging modality. (↑↑)",
+      "p": "CV10C"
+    },
+    {
+      "n": "CV10C_1_1",
+      "v": "Entrapment/compression syndrome - Further imaging if inconclusive",
+      "t": "↪ 1.1 If Doppler US is negative or indeterminate and additional imaging is required, we recommend MRA as the next imaging modality. (↑↑)",
+      "p": "CV10C_1"
+    },
+    {
+      "n": "CV10C_1_2",
+      "v": "Entrapment/compression syndrome - Alternative to MRA",
+      "t": "↪ 1.2 If MRA is not tolerated, is unavailable, or is contraindicated, we recommend CTA as an alternative. (↑↑)",
+      "p": "CV10C_1"
+    },
+    {
+      "n": "TH01",
+      "v": "Screening/asymptomatic individuals"
+    },
+    {
+      "n": "TH01A",
+      "v": "Pre-employment screening",
+      "p": "TH01"
+    },
+    {
+      "n": "TH01A_1",
+      "v": "Pre-employment screening - Routine chest X-ray not recommended",
+      "t": "1. For most individuals we recommend against routine chest XR for pre-employment screening, except in specific circumstances (see Recommendation 2). (↓↓)",
+      "p": "TH01A"
+    },
+    {
+      "n": "TH01A_2",
+      "v": "Pre-employment screening - Chest X-ray for high-risk or certain occupations",
+      "t": "2. In individuals at high-risk for tuberculosis or in certain occupations (e.g., deep water divers), we recommend routine chest XR if one has not been done recently. (↑↑)",
+      "p": "TH01A"
+    },
+    {
+      "n": "TH01A_3",
+      "v": "Pre-employment screening - Chest X-ray for positive TB test",
+      "t": "3. In individuals with positive latent tuberculosis testing, we recommend chest XR to exclude active tuberculosis. (↑↑)",
+      "p": "TH01A"
+    },
+    {
+      "n": "TH01B",
+      "v": "Asbestos exposure",
+      "p": "TH01"
+    },
+    {
+      "n": "TH01B_1",
+      "v": "Asymptomatic asbestos exposure - Chest X-ray",
+      "t": "1. In asymptomatic individuals who have had occupational exposure to asbestos and require imaging for documentation or confirmation of injury, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "p": "TH01B"
+    },
+    {
+      "n": "TH01B_1_1",
+      "v": "Asbestos exposure - High-resolution CT if chest X-ray equivocal",
+      "t": "↪ 1.1 In individuals with equivocal chest XR and/or a high clinical suspicion for occupational lung disease, we recommend high-resolution CT as the next imaging modality. (EPc)",
+      "p": "TH01B_1"
+    },
+    {
+      "n": "TH01C",
+      "v": "Routine in-patient radiographs",
+      "p": "TH01"
+    },
+    {
+      "n": "TH01C_1",
+      "v": "Inpatients - Routine chest X-ray not recommended",
+      "t": "1. In in-patients, we recommend against routine chest XR. (EPc)",
+      "p": "TH01C"
+    },
+    {
+      "n": "TH02",
+      "v": "Non-specific chest pain"
+    },
+    {
+      "n": "TH02_1",
+      "v": "Non-specific chest pain - Chest X-ray as initial imaging",
+      "t": "1. In stable patients where imaging is clinically or biochemically indicated, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "p": "TH02"
+    },
+    {
+      "n": "TH02_1_1",
+      "v": "Non-specific chest pain - Further investigation guided by clinical evaluation",
+      "t": "↪ 1.1 If the chest XR is normal or equivocal, we suggest that further investigations should be guided after clinical consideration of etiology. (꙳)",
+      "p": "TH02_1"
+    },
+    {
+      "n": "TH03",
+      "v": "Hospital admission for non-thoracic conditions"
+    },
+    {
+      "n": "TH03_1",
+      "v": "Admitted for non-thoracic conditions - Routine chest X-ray not recommended",
+      "t": "1. In patients being admitted to hospital for non-thoracic conditions, we recommend against routine chest XR. (↓↓)",
+      "p": "TH03"
+    },
+    {
+      "n": "TH04",
+      "v": "Long-term care admission"
+    },
+    {
+      "n": "TH04_1",
+      "v": "Long-term care admission - Follow local practice guidelines",
+      "t": "1. In individuals who are being admitted to long-term care, we recommend referring to the local practice guidelines. (↑↑)",
+      "p": "TH04"
+    },
+    {
+      "n": "TH05",
+      "v": "Routine pre-operative"
+    },
+    {
+      "n": "TH05_1",
+      "v": "Pre-op non-cardiothoracic surgery - Routine chest X-ray not suggested",
+      "t": "1. In patients undergoing non-cardiothoracic surgery, we suggest against routine pre-operative chest XR. (↓)",
+      "p": "TH05"
+    },
+    {
+      "n": "TH05_2",
+      "v": "Pre-op cardiothoracic surgery - Routine chest X-ray suggested",
+      "t": "2. In patients undergoing cardiothoracic surgery, we suggest routine pre-operative chest XR. (↑)",
+      "p": "TH05"
+    },
+    {
+      "n": "TH05_3",
+      "v": "Pre-op for frail elderly or cardiorespiratory disease - Routine chest X-ray suggested",
+      "t": "3. In frail elderly patients and in those with significant cardiorespiratory disease, we suggest routine pre-operative chest XR. (↑)",
+      "p": "TH05"
+    },
+    {
+      "n": "TH06",
+      "v": "Post-interventional chest procedure"
+    },
+    {
+      "n": "TH06_1",
+      "v": "Post-chest procedure - Routine chest X-ray suggested in some situations",
+      "t": "1. In patients who have undergone a chest procedure, including cardiothoracic surgery, we suggest routine post-interventional chest XR in situations where clinical judgement may not be sensitive to potential complications, including post transthoracic interventions (e.g., lung biopsy, central line, nasogastric tube, endotracheal tube placement, thoracentesis, chest tube, etc.). (↑)",
+      "p": "TH06"
+    },
+    {
+      "n": "TH07",
+      "v": "Upper respiratory tract infections"
+    },
+    {
+      "n": "TH07_1",
+      "v": "Uncomplicated upper respiratory infection - Chest X-ray not recommended",
+      "t": "1. In patients with uncomplicated upper respiratory tract infection, we recommend against chest XR. (↓↓)",
+      "p": "TH07"
+    },
+    {
+      "n": "TH07_2",
+      "v": "Chest X-Ray",
+      "t": "2. In patients with clinical suspicion of pneumonia, acute tracheobronchitis with other comorbid conditions, we suggest chest XR as the initial imaging modality. (↑)",
+      "p": "TH07"
+    },
+    {
+      "n": "TH08",
+      "v": "Acute exacerbation of asthma"
+    },
+    {
+      "n": "TH08_1",
+      "v": "Acute asthma exacerbation without complications",
+      "t": "1. In patients with acute asthma exacerbation without clinical concern for complications, we suggest against chest XR. (↓)",
+      "p": "TH08"
+    },
+    {
+      "n": "TH08_2",
+      "v": "Acute asthma exacerbation with complications",
+      "t": "2. In patients with acute asthma exacerbation with clinical concern for complications꙳, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "p": "TH08"
+    },
+    {
+      "n": "TH09",
+      "v": "Acute exacerbation of COPD"
+    },
+    {
+      "n": "TH09_1",
+      "v": "Acute COPD exacerbation without hospital referral",
+      "t": "1. In patients with acute exacerbation of COPD who do not need a referral to hospital, we suggest against routine chest XR. (↓)",
+      "p": "TH09"
+    },
+    {
+      "n": "TH09_2",
+      "v": "Acute COPD exacerbation with hospital referral",
+      "t": "2. In patients with acute exacerbation of COPD who are referred to hospital, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "p": "TH09"
+    },
+    {
+      "n": "TH09_2_1",
+      "v": "Acute COPD exacerbation with negative or indeterminate X-Ray",
+      "t": "↪ 2.1 In situations where chest XR is negative or indeterminate where there is persistent clinical concern or management might be altered, we suggest chest CT as the next imaging modality. (↑)",
+      "p": "TH09_2"
+    },
+    {
+      "n": "TH10",
+      "v": "Suspected pneumonia"
+    },
+    {
+      "n": "TH10_1",
+      "v": "Suspected pneumonia with high pre-test probability",
+      "t": "1. In stable outpatients with suspected pneumonia with a very high pre-test probability of pneumonia and when a chest XR would not alter management, we suggest against chest XR. (↓)",
+      "p": "TH10"
+    },
+    {
+      "n": "TH10_2",
+      "v": "Suspected pneumonia with abnormal vital signs",
+      "t": "2. In patients with abnormal vital signs secondary to suspected pneumonia, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "p": "TH10"
+    },
+    {
+      "n": "TH10_2_1",
+      "v": "Severe or complicated pneumonia",
+      "t": "↪ 2.1 In patients with severe or complicated pneumonia (e.g., lung abscess, suspected empyema, or possible atypical organisms), we suggest chest CT as the next imaging modality. (↑)",
+      "p": "TH10_2"
+    },
+    {
+      "n": "TH11",
+      "v": "Pneumonia follow-up"
+    },
+    {
+      "n": "TH11_1",
+      "v": "Pneumonia with clinical recovery",
+      "t": "1. In patients with clinical recovery of pneumonia, we do not recommend follow-up chest XR. (↓↓)",
+      "p": "TH11"
+    },
+    {
+      "n": "TH11_2",
+      "v": "Pneumonia with persistent symptoms or risk factors",
+      "t": "2. In patients with persistent symptoms or physical signs of pneumonia or in those at higher risk of malignancy꙳, we suggest follow-up chest XR at least six weeks after treatment. (↑)",
+      "p": "TH11"
+    },
+    {
+      "n": "TH11_2_1",
+      "v": "Pneumonia with no resolution within expected time",
+      "t": "↪ 2.1 In patients with no radiological or clinical resolution of pneumonia within the expected time (e.g., 8-12 weeks), we suggest chest CT as the next imaging modality. (↑)",
+      "p": "TH11_2"
+    },
+    {
+      "n": "TH12",
+      "v": "Immunosuppressed patient with respiratory symptoms/febrile neutropenia"
+    },
+    {
+      "n": "TH12_1",
+      "v": "Immunosuppressed with respiratory symptoms/febrile neutropenia",
+      "t": "1. In immunosuppressed patients with respiratory symptoms/febrile neutropenia, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "p": "TH12"
+    },
+    {
+      "n": "TH12_1_1",
+      "v": "Immunosuppressed with normal X-Ray and high clinical suspicion",
+      "t": "↪ 1.1 If chest XR is normal, equivocal, or inconclusive and there remains high clinical suspicion for pulmonary infection, we recommend low-dose chest CT as the next imaging modality. (↑↑)",
+      "p": "TH12_1"
+    },
+    {
+      "n": "TH13",
+      "v": "Chronic cough"
+    },
+    {
+      "n": "TH13_1",
+      "v": "Chronic cough with normal exam and X-Ray",
+      "t": "1. In patients with chronic cough, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "p": "TH13"
+    },
+    {
+      "n": "TH13_1_1",
+      "v": "Chronic cough with normal exam and X-Ray, no cause identified",
+      "t": "↪ 1.1 In patients with normal physical exam and chest XR, we suggest against routine chest CT. (↓)",
+      "p": "TH13_1"
+    },
+    {
+      "n": "TH13_1_2",
+      "v": "Chronic cough with normal exam and X-Ray, suspected underlying condition",
+      "t": "↪ 1.2 In patients with normal physical exam and chest XR and common causes of chronic cough have been excluded but there is ongoing clinical concern for etiology such as bronchiectasis, early interstitial lung disease, or lung cancer, we suggest chest CT as the next imaging modality. (↑)",
+      "p": "TH13_1"
+    },
+    {
+      "n": "TH14",
+      "v": "Suspected pneumothorax (non-traumatic)"
+    },
+    {
+      "n": "TH14_1",
+      "v": "Suspected pneumothorax",
+      "t": "1. In patients with suspected pneumothorax, we recommend erect inspiratory chest XR as the initial imaging modality. (↑↑)",
+      "p": "TH14"
+    },
+    {
+      "n": "TH14_1_1",
+      "v": "Pneumothorax with equivocal or indeterminate X-Ray",
+      "t": "↪ 1.1 If chest XR findings are equivocal or indeterminate and further imaging is required, we suggest chest CT as the next imaging modality. (↑)",
+      "p": "TH14_1"
+    },
+    {
+      "n": "TH15",
+      "v": "Clinically suspected pleural effusion"
+    },
+    {
+      "n": "TH15_1",
+      "v": "Clinically suspected pleural effusion",
+      "t": "1. In patients with clinically suspected pleural effusion, we recommend chest XR or bedside US (if available) as the initial imaging modality. (↑↑)",
+      "p": "TH15"
+    },
+    {
+      "n": "TH15_1_1",
+      "v": "Clinically suspected pleural effusion, further imaging required",
+      "t": "↪ 1.1 If further imaging is required, we suggest chest CT as the next imaging modality. (↑)",
+      "p": "TH15_1"
+    },
+    {
+      "n": "TH16",
+      "v": "Hemoptysis"
+    },
+    {
+      "n": "TH16_1",
+      "v": "Trace hemoptysis",
+      "t": "1. In patients with trace hemoptysis, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "p": "TH16"
+    },
+    {
+      "n": "TH16_1_1",
+      "v": "Trace hemoptysis with risk factors or persistent/recurrent",
+      "t": "↪ 1.1 In patients with risk factors꙳ or persistent/recurrent unexplained hemoptysis, we recommend chest CT as a complementary imaging modality. (↑↑)",
+      "p": "TH16_1"
+    },
+    {
+      "n": "TH16_2",
+      "v": "Clinically significant hemoptysis",
+      "t": "2. In patients with clinically significant hemoptysis, we recommend chest XR* and chest CT as the initial imaging modalities. (↑↑)",
+      "p": "TH16"
+    },
+    {
+      "n": "TH17",
+      "v": "Chronic dyspnea of non-cardiovascular origin"
+    },
+    {
+      "n": "TH17_1",
+      "v": "Chronic dyspnea of non-cardiovascular origin",
+      "t": "1. In patients with chronic dyspnea of non-cardiovascular origin, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "p": "TH17"
+    },
+    {
+      "n": "TH17_1_1",
+      "v": "Chronic dyspnea with normal X-Ray and ongoing clinical concern",
+      "t": "↪ 1.1 If chest XR is normal and clinical concern remains, any decision for further imaging should be based on clinical grounds. (EPc)",
+      "p": "TH17_1"
+    },
+    {
+      "n": "TH18",
+      "v": "Suspected interstitial lung disease"
+    },
+    {
+      "n": "TH18_1",
+      "v": "Suspected interstitial lung disease",
+      "t": "1. In patients with suspected interstitial lung disease, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "p": "TH18"
+    },
+    {
+      "n": "TH18_1_1",
+      "v": "Suspected interstitial lung disease, further imaging required",
+      "t": "↪ 1.1 If further imaging is required, given that chest XR do not rule out interstitial lung disease, we recommend high-resolution CT (HRCT) as the next imaging modality. (↑↑)",
+      "p": "TH18_1"
+    },
+    {
+      "n": "TH19",
+      "v": "Incidental lung nodule"
+    },
+    {
+      "n": "TH19_1",
+      "v": "Incidental lung nodule",
+      "t": "1. In patients with an incidental lung nodule detected on chest CT꙳, we recommend following the Fleischner Society Guidelines for Management of Incidental Pulmonary Nodules Detected on CT Images. Fleischner Society Guidelines: https://doi.org/10.1148/radiol.2017161659 (↑↑)",
+      "p": "TH19"
+    },
+    {
+      "n": "TH20",
+      "v": "Suspected mediastinal lesion"
+    },
+    {
+      "n": "TH20_1",
+      "v": "Suspected mediastinal lesion",
+      "t": "1. In patients with suspected mediastinal lesion, we recommend chest CT as the initial imaging modality. (↑↑)",
+      "p": "TH20"
+    },
+    {
+      "n": "TH20_1_1",
+      "v": "Suspected mediastinal lesion, further imaging required",
+      "t": "↪ 1.1 If further imaging is required to evaluate local invasion or to characterize tissue composition, we recommend chest MRI as the next imaging modality. (↑↑)",
+      "p": "TH20_1"
+    },
+    {
+      "n": "TH21",
+      "v": "Suspected mediastinal lymphadenopathy"
+    },
+    {
+      "n": "TH21_1",
+      "v": "Suspected mediastinal lymphadenopathy",
+      "t": "1. In patients with suspected mediastinal lymphadenopathy, we recommend chest CT as the initial imaging modality. (↑↑)",
+      "p": "TH21"
+    },
+    {
+      "n": "TH22",
+      "v": "Elevated diaphragm on chest radiograph (CXR)"
+    },
+    {
+      "n": "TH22_1",
+      "v": "Elevated diaphragm on CXR, suspected phrenic nerve palsy",
+      "t": "1. In patients with elevated diaphragm on chest XR and suspected phrenic nerve palsy, we suggest fluoroscopy or US as the initial imaging modality. The imaging modality may vary based on regional practice preferences and resource availability. (↑)",
+      "p": "TH22"
+    },
+    {
+      "n": "GI01",
+      "v": "Dysphagia/ dyspepsia"
+    },
+    {
+      "n": "GI01_1",
+      "v": "Dysphagia",
+      "t": "1. In patients with dysphagia, we suggest <b>fluoroscopy</b> (esophagram or upper GI series) as the initial imaging modality. (↑)",
+      "p": "GI01"
+    },
+    {
+      "n": "GI01_2",
+      "v": "Dyspepsia of unknown cause",
+      "t": "2. In patients with dyspepsia of unknown cause, we suggest <b>fluoroscopy upper GI series</b> as the initial imaging modality. (↑)",
+      "p": "GI01"
+    },
+    {
+      "n": "GI01_3",
+      "v": "Dyspepsia with suspected gastric motility abnormality",
+      "t": "3. In patients with dyspepsia if there is clinical suspicion of abnormal gastric motility, we suggest <b>NM scintigraphy</b> (gastric emptying) as the initial imaging modality. (↑)",
+      "p": "GI01"
+    },
+    {
+      "n": "GI02",
+      "v": "Acute nonlocalized abdominal pain"
+    },
+    {
+      "n": "GI02_1",
+      "v": "Acute nonlocalized abdominal pain, suspected uncomplicated infectious colitis",
+      "t": "1. In patients with suspected uncomplicated acute infectious colitis presenting with acute nonlocalized abdominal pain, we recommend against imaging in the absence of other concerning clinical and/or biochemical findings. (↓↓)",
+      "p": "GI02"
+    },
+    {
+      "n": "GI02_2",
+      "v": "Acute nonlocalized abdominal pain in non-pregnant patients",
+      "t": "2. In non-pregnant patients with acute nonlocalized abdominal pain and/or bowel obstruction, we suggest <b>XR</b> as the initial imaging modality. (↑)",
+      "p": "GI02"
+    },
+    {
+      "n": "GI02_2_1",
+      "v": "Acute nonlocalized abdominal pain, equivocal or inconclusive X-Ray",
+      "t": "↪ 2.1 If XR is equivocal and/or further investigation is required, we recommend <b>CT abdomen and pelvis</b> as the next imaging modality. (↑↑)",
+      "p": "GI02_2"
+    },
+    {
+      "n": "GI02_3",
+      "v": "Acute nonlocalized abdominal pain in pregnant patients",
+      "t": "3. In pregnant patients with acute nonlocalized abdominal pain, we recommend <b>US abdomen and pelvis</b> as the initial imaging modality. (↑↑)",
+      "p": "GI02"
+    },
+    {
+      "n": "GI03",
+      "v": "Acute localized abdominal pain"
+    },
+    {
+      "n": "GI03A",
+      "v": "Epigastric pain",
+      "p": "GI03"
+    },
+    {
+      "n": "GI03A_1",
+      "v": "Epigastric pain with probable esophageal or gastric etiology",
+      "t": "1. In patients with epigastric pain with probable esophageal or gastric etiology, we suggest <b>fluoroscopy upper GI series</b> as the initial imaging modality. (↑)",
+      "p": "GI03A"
+    },
+    {
+      "n": "GI03A_1_1",
+      "v": "Epigastric pain without upper GI etiology",
+      "t": "↪ 1.1 If upper GI series is not available, we suggest a <b>CT abdomen and pelvis</b>. (↑)",
+      "p": "GI03A_1"
+    },
+    {
+      "n": "GI03A_2",
+      "v": "Epigastric pain without probable esophageal or gastric etiology",
+      "t": "2. In patients with epigastric pain without probable esophageal or gastric etiology, we suggest a <b>CT abdomen and pelvis</b> as the initial imaging modality. (↑)",
+      "p": "GI03A"
+    },
+    {
+      "n": "GI03B",
+      "v": "Right upper quadrant pain",
+      "p": "GI03"
+    },
+    {
+      "n": "GI03B_1",
+      "v": "Right upper quadrant pain, suspected hepatobiliary disease",
+      "t": "1. In patients with right upper quadrant pain (suspected hepatobiliary disease), we recommend against <b>XR</b>. (↓↓)",
+      "p": "GI03B"
+    },
+    {
+      "n": "GI03B_2",
+      "v": "Right upper quadrant pain, suspected hepatobiliary disease",
+      "t": "2. In patients with right upper quadrant pain (suspected hepatobiliary disease), we recommend <b>US abdomen</b> as the initial imaging modality. (↑↑)",
+      "p": "GI03B"
+    },
+    {
+      "n": "GI03B_2_1",
+      "v": "Right upper quadrant pain, suspected hepatobiliary disease, equivocal ultrasound",
+      "t": "↪ 2.1 If US is not available or further investigation is required, we suggest <b>CT abdomen and pelvis</b> or <b>NM</b> (HIDA scan) as the next imaging modality. (↑)",
+      "p": "GI03B_2"
+    },
+    {
+      "n": "GI03B_2_2",
+      "v": "Right upper quadrant pain, suspected choledocolithiasis, equivocal ultrasound",
+      "t": "↪ 2.2 If US is indeterminate and the clinical/biochemical presentation is strongly suggestive of choledocolithiasis, we suggest consultation for endoscopic US/ERCP and/or MRCP. (↑)",
+      "p": "GI03B_2"
+    },
+    {
+      "n": "GI03B_3",
+      "v": "Right upper quadrant pain, non-hepatobiliary disease",
+      "t": "3. In patients with right upper quadrant pain (non-hepatobiliary disease), we recommend <b>US abdomen</b> as the initial imaging modality. (EPc)",
+      "p": "GI03B"
+    },
+    {
+      "n": "GI03B_3_1",
+      "v": "Right upper quadrant pain, non-hepatobiliary disease, equivocal ultrasound",
+      "t": "↪ 3.1 If US is indeterminate, we suggest <b>CT abdomen and pelvis</b> as the next imaging modality. (EPc)",
+      "p": "GI03B_3"
+    },
+    {
+      "n": "GI03B_3_2",
+      "v": "Right upper quadrant pain, non-hepatobiliary disease, ultrasound and CT unavailable",
+      "t": "↪ 3.2 If US and CT are not immediately available, we suggest <b>XR</b> as the initial imaging modality. (EPc)",
+      "p": "GI03B_3"
+    },
+    {
+      "n": "GI03C",
+      "v": "Right lower quadrant pain",
+      "p": "GI03"
+    },
+    {
+      "n": "GI03C_1",
+      "v": "Right lower quadrant pain in younger patients",
+      "t": "1. In younger patients with right lower quadrant pain, we recommend <b>US</b> as the initial imaging modality, as per ALARA principles. (↑↑)",
+      "p": "GI03C"
+    },
+    {
+      "n": "GI03C_1_1",
+      "v": "Right lower quadrant pain in non-pregnant younger patients, negative or inconclusive ultrasound",
+      "t": "↪ 1.1 In non-pregnant patients, if US is negative for appendicitis or inconclusive and further imaging is required, we suggest <b>CT abdomen and pelvis</b> as the next imaging modality. (↑)",
+      "p": "GI03C_1"
+    },
+    {
+      "n": "GI03C_1_2",
+      "v": "Right lower quadrant pain in pregnant patients, inconclusive ultrasound",
+      "t": "↪ 1.2 In pregnant patients, if US is inconclusive for appendicitis, we recommend <b>MR abdomen and pelvis</b> as the next imaging modality. (↑↑)",
+      "p": "GI03C_1"
+    },
+    {
+      "n": "GI03C_2",
+      "v": "Right lower quadrant pain in older patients",
+      "t": "2. In older patients with right lower quadrant pain, we recommend <b>CT abdomen and pelvis</b> as the initial imaging modality. (↑↑)",
+      "p": "GI03C"
+    },
+    {
+      "n": "GI03D",
+      "v": "Left upper quadrant pain",
+      "p": "GI03"
+    },
+    {
+      "n": "GI03D_1",
+      "v": "Left upper quadrant pain, concern for reflux or ulcer",
+      "t": "1. In patients with left upper quadrant pain (concern for reflux or ulcer), we suggest against <b>fluoroscopic upper GI series</b>. (↓)",
+      "p": "GI03D"
+    },
+    {
+      "n": "GI03D_2",
+      "v": "Left upper quadrant pain, unknown etiology",
+      "t": "2. In patients with left upper quadrant pain (unknown etiology), we recommend <b>US abdomen</b> as the initial imaging modality. (EPc)",
+      "p": "GI03D"
+    },
+    {
+      "n": "GI03D_2_1",
+      "v": "Left upper quadrant pain, unknown etiology, equivocal ultrasound",
+      "t": "↪ 2.1 If US is indeterminate, we suggest <b>CT abdomen and pelvis</b> as the next imaging modality. (EPc)",
+      "p": "GI03D_2"
+    },
+    {
+      "n": "GI03D_2_2",
+      "v": "Left upper quadrant pain, unknown etiology, ultrasound and CT unavailable",
+      "t": "↪ 2.2 If US and CT are not immediately available, we suggest <b>XR</b> as the initial imaging modality. (EPc)",
+      "p": "GI03D_2"
+    },
+    {
+      "n": "GI03E",
+      "v": "Left lower quadrant pain",
+      "p": "GI03"
+    },
+    {
+      "n": "GI03E_1",
+      "v": "Left lower quadrant pain, suspected diverticulitis",
+      "t": "1. In patients with left lower quadrant pain (suspected diverticulitis), we recommend <b>CT abdomen and pelvis</b> as the initial imaging modality. (↑↑)",
+      "p": "GI03E"
+    },
+    {
+      "n": "GI03E_2",
+      "v": "Left lower quadrant pain, other intraabdominal cause",
+      "t": "2. In patients with left lower quadrant pain (other intraabdominal cause), we recommend <b>XR</b> as the initial imaging modality. (EPc)",
+      "p": "GI03E"
+    },
+    {
+      "n": "GI03E_2_1",
+      "v": "Left lower quadrant pain, other cause, negative or inconclusive X-Ray",
+      "t": "↪ 2.1 If XR is negative or indeterminate and further imaging is required, we suggest <b>CT abdomen and pelvis</b> as the next imaging modality. (EPc)",
+      "p": "GI03E_2"
+    },
+    {
+      "n": "GI03E_2_2",
+      "v": "Left lower quadrant pain, other cause in younger patients or CT contraindicated",
+      "t": "↪ 2.2 In younger patients or if CT is contraindicated, we suggest <b>US</b> as the next imaging modality. (EPc)",
+      "p": "GI03E_2"
+    },
+    {
+      "n": "GI04",
+      "v": "Chronic abdominal pain"
+    },
+    {
+      "n": "GI04_1",
+      "v": "Chronic abdominal pain meeting IBS criteria",
+      "t": "1. In patients who meet the diagnostic criteria for irritable bowel syndrome, we recommend against imaging in the absence of concerning clinical and/or biochemical findings. (↓↓)",
+      "p": "GI04"
+    },
+    {
+      "n": "GI04_2",
+      "v": "Chronic abdominal pain, MRI not recommended",
+      "t": "2. In patients with chronic abdominal pain, we recommend against <b>MRI</b> as an imaging modality due to limited sensitivity and specificity. (EPc)",
+      "p": "GI04"
+    },
+    {
+      "n": "GI04_3",
+      "v": "Chronic abdominal pain",
+      "t": "3. In patients with chronic abdominal pain, we recommend <b>CT abdomen and pelvis</b> as the initial imaging modality. (↑↑)",
+      "p": "GI04"
+    },
+    {
+      "n": "GI04_3_1",
+      "v": "Chronic abdominal pain, ultrasound alternative if CT unavailable",
+      "t": "↪ 3.1 If CT is unavailable, we suggest <b>US abdomen</b> as an alternative imaging modality, accepting its limited scope of assessment compared to CT. (↑)",
+      "p": "GI04_3"
+    },
+    {
+      "n": "GI04_4",
+      "v": "Chronic abdominal pain, suspected chronic mesenteric ischemia",
+      "t": "4. In patients with chronic abdominal pain (suspected chronic mesenteric ischemia), we recommend <b>CTA abdomen and pelvis</b> as the initial imaging modality. (↑↑)",
+      "p": "GI04"
+    },
+    {
+      "n": "GI05",
+      "v": "Inflammatory bowel disease"
+    },
+    {
+      "n": "GI05_1",
+      "v": "Inflammatory bowel disease, endoscopy-negative",
+      "t": "1. In endoscopy-negative patients with suspected inflammatory bowel disease, we recommend against <b>fluoroscopy small bowel follow through</b>. (↓↓)",
+      "p": "GI05"
+    },
+    {
+      "n": "GI05_2",
+      "v": "Suspected inflammatory bowel disease in younger patients",
+      "t": "2. In younger patients with suspected inflammatory bowel disease, we recommend <b>MR enterography</b> as the initial imaging modality. (↑↑)",
+      "p": "GI05"
+    },
+    {
+      "n": "GI05_2_1",
+      "v": "Suspected inflammatory bowel disease in younger patients, MR enterography contraindicated or unavailable",
+      "t": "↪ 2.1 If MR enterography is contraindicated or unavailable, we suggest <b>CT enterography</b>. (↑)",
+      "p": "GI05_2"
+    },
+    {
+      "n": "GI05_3",
+      "v": "Suspected inflammatory bowel disease in older patients",
+      "t": "3. In older patients with suspected inflammatory bowel disease, we recommend <b>CT enterography</b> as the initial imaging modality. (↑↑)",
+      "p": "GI05"
+    },
+    {
+      "n": "GI05_3_1",
+      "v": "Suspected inflammatory bowel disease in older patients, CT enterography intolerant",
+      "t": "↪ 3.1 If CT enterography cannot be tolerated, we suggest <b>CT abdomen and pelvis</b>. (↑)",
+      "p": "GI05_3"
+    },
+    {
+      "n": "GI05_4",
+      "v": "Acute exacerbation of inflammatory bowel disease in younger patients",
+      "t": "4. In younger patients with suspected acute exacerbation of known inflammatory bowel disease, we recommend <b>MR enterography</b> as the initial imaging modality. (↑↑)",
+      "p": "GI05"
+    },
+    {
+      "n": "GI05_4_1",
+      "v": "Acute exacerbation of inflammatory bowel disease in younger patients, MR/CT enterography unavailable",
+      "t": "↪ 4.1 If MR enterography is contraindicated or unavailable, we suggest <b>CT enterography</b>. (↑)",
+      "p": "GI05_4"
+    },
+    {
+      "n": "GI05_4_2",
+      "v": "Acute exacerbation of inflammatory bowel disease in younger patients, MR/CT enterography intolerant",
+      "t": "↪ 4.2 If MR/CT enterography cannot be tolerated, we recommend <b>CT abdomen and pelvis</b>. (↑↑)",
+      "p": "GI05_4"
+    },
+    {
+      "n": "GI05_5",
+      "v": "Acute exacerbation of inflammatory bowel disease in older patients",
+      "t": "5. In older patients with inflammatory bowel disease with suspected acute exacerbation, we recommend <b>CT enterography</b> as the initial imaging modality. (↑↑)",
+      "p": "GI05"
+    },
+    {
+      "n": "GI05_5_1",
+      "v": "Acute exacerbation of inflammatory bowel disease in older patients, CT enterography intolerant",
+      "t": "↪ 5.1 If CT enterography cannot be tolerated, we recommend <b>CT abdomen and pelvis</b>. (↑↑)",
+      "p": "GI05_5"
+    },
+    {
+      "n": "GI06",
+      "v": "Acute gi bleeding"
+    },
+    {
+      "n": "GI06A",
+      "v": "Upper acute GI bleeding",
+      "p": "GI06"
+    },
+    {
+      "n": "GI06A_1",
+      "v": "Acute upper GI bleeding",
+      "t": "1. In patients with acute upper GI bleeding, we recommend CTA or Diagnostic angiography as the initial imaging modality. (↑↑)",
+      "p": "GI06A"
+    },
+    {
+      "n": "GI06B",
+      "v": "Lower acute GI bleeding",
+      "p": "GI06"
+    },
+    {
+      "n": "GI06B_1",
+      "v": "Acute lower GI bleeding",
+      "t": "1. In patients with acute lower GI bleeding, we recommend CTA or Diagnostic angiography as the initial imaging modality. (↑↑)",
+      "p": "GI06B"
+    },
+    {
+      "n": "GI06B_1_1",
+      "v": "Acute lower GI bleeding, negative CTA",
+      "t": "↪ 1.1 If CTA is negative or inconclusive, we suggest NM scintigraphy (RBC scan). (↑)",
+      "p": "GI06B_1"
+    },
+    {
+      "n": "GI07",
+      "v": "Chronic GI bleeding/anemia"
+    },
+    {
+      "n": "GI07_1",
+      "v": "Chronic GI bleeding, MR enterography not recommended",
+      "t": "1. In patients with suspected chronic GI bleeding, we suggest against routine use of <b>MR enterography</b> due to limited spatial resolution. (↓)",
+      "p": "GI07"
+    },
+    {
+      "n": "GI07_2",
+      "v": "Chronic GI bleeding",
+      "t": "2. In patients with suspected chronic GI bleeding, we recommend <b>CT enterography</b> as the initial imaging modality. (↑↑)",
+      "p": "GI07"
+    },
+    {
+      "n": "GI07_2_1",
+      "v": "Chronic GI bleeding, CT enterography intolerant",
+      "t": "↪ 2.1 If CT enterography cannot be tolerated, we suggest <b>CT abdomen and pelvis</b>. (↑)",
+      "p": "GI07_2"
+    },
+    {
+      "n": "GI07_2_2",
+      "v": "Chronic GI bleeding, negative CT enterography",
+      "t": "↪ 2.2 If CT enterography is negative and further investigation is required, we suggest <b>NM scintigraphy</b> (RBC and/or Meckel's study) ± capsule endoscopy as the next imaging modality. (↑)",
+      "p": "GI07_2"
+    },
+    {
+      "n": "GI08A_1",
+      "v": "Acute abnormal liver biochemistry, ultrasound",
+      "t": "1. In patients with acute abnormal liver biochemistry, we recommend <b>US abdomen</b> as the initial imaging modality. (↑↑)",
+      "p": "GI08A"
+    },
+    {
+      "n": "GI08A_1_1",
+      "v": "Acute abnormal liver biochemistry, CT/MRI if ultrasound inconclusive",
+      "t": "↪ 1.1 If US is inconclusive or if further investigation is required, we suggest <b>CT abdomen</b> or <b>MR abdomen</b> (equivalent alternatives) as the next imaging modality. (↑)",
+      "p": "GI08A_1"
+    },
+    {
+      "n": "GI08B_1",
+      "v": "Chronic abnormal liver biochemistry, ultrasound",
+      "t": "1. In patients with chronic abnormal liver biochemistry, we recommend <b>US abdomen</b> as the initial imaging modality, ideally with the use of a high frequency linear probe to assess the hepatic surface. (↑↑)",
+      "p": "GI08B"
+    },
+    {
+      "n": "GI08B_1_1",
+      "v": "Chronic abnormal liver biochemistry, MRI if further investigation required",
+      "t": "↪ 1.1 If further investigation is required, we recommend <b>MR abdomen</b> as the next imaging modality. (↑↑)",
+      "p": "GI08B_1"
+    },
+    {
+      "n": "GI08B_1_2",
+      "v": "Chronic abnormal liver biochemistry, CT if MRI unavailable",
+      "t": "↪ 1.2 If MR abdomen is contraindicated or unavailable, we suggest <b>CT abdomen</b>. (↑)",
+      "p": "GI08B_1"
+    },
+    {
+      "n": "GI08B_2",
+      "v": "Chronic abnormal liver biochemistry, ultrasound with shear wave elastography",
+      "t": "2. In noncirrhotic patients with chronic abnormal liver biochemistry, if available, we suggest <b>US shear wave elastography</b> in addition to US abdomen to diagnose, follow, or stage occult hepatic fibrosis. (↑)",
+      "p": "GI08B"
+    },
+    {
+      "n": "GI08B_2_1",
+      "v": "Chronic abnormal liver biochemistry, MR elastography if ultrasound inconclusive",
+      "t": "↪ 2.1 If US shear wave elastography is not available or inconclusive and imaging is required, we suggest <b>MR elastography</b>. (↑)",
+      "p": "GI08B_2"
+    },
+    {
+      "n": "GI09A_1",
+      "v": "Acute pancreatitis, no imaging for diagnosis",
+      "t": "1. As per the revised Atlanta Criteria, in patients who meet the diagnostic criteria for acute pancreatitis, we recommend against imaging for the purpose of diagnosis. (↓↓)",
+      "p": "GI09A"
+    },
+    {
+      "n": "GI09A_2",
+      "v": "Acute pancreatitis due to gallstones, ultrasound",
+      "t": "2. In patients with suspected acute pancreatitis due to gallstones, we recommend <b>US abdomen</b> as the initial imaging modality. (↑↑)",
+      "p": "GI09A"
+    },
+    {
+      "n": "GI09A_2_1",
+      "v": "Acute pancreatitis, MRI if further investigation required",
+      "t": "↪ 2.1 If further investigation is required, we recommend <b>MR abdomen with MRCP</b> as the next imaging modality. (↑↑)",
+      "p": "GI09A_2"
+    },
+    {
+      "n": "GI09A_3",
+      "v": "Complicated acute pancreatitis, imaging per guidelines",
+      "t": "3. In patients with suspected complicated sub-acute pancreatitis, we recommend imaging as per the revised Atlanta Criteria. (↑↑)",
+      "p": "GI09A"
+    },
+    {
+      "n": "GI09B_1",
+      "v": "Suspected chronic pancreatitis, CT",
+      "t": "1. In patients with suspected chronic pancreatitis, we recommend <b>CT abdomen</b> as the initial imaging modality. (↑↑)",
+      "p": "GI09B"
+    },
+    {
+      "n": "GI09B_1_1",
+      "v": "Chronic pancreatitis, GI referral if CT negative",
+      "t": "↪ 1.1 If CT is negative, we suggest GI referral ± endoscopic US. (↑)",
+      "p": "GI09B_1"
+    },
+    {
+      "n": "GI09B_2",
+      "v": "Known chronic pancreatitis, MRI",
+      "t": "2. In patients with known chronic pancreatitis, we recommend <b>MR abdomen with MRCP</b> for any required follow-up imaging. (↑↑)",
+      "p": "GI09B"
+    },
+    {
+      "n": "GI09B_2_1",
+      "v": "Known chronic pancreatitis, CT if MRI unavailable",
+      "t": "↪ 2.1 If MR abdomen is contraindicated or unavailable, we suggest <b>CT abdomen</b>. (↑)",
+      "p": "GI09B_2"
+    },
+    {
+      "n": "GI10_1",
+      "v": "Suspected perianal fistula, no CT",
+      "t": "1. In patients with suspected perianal fistula, we recommend against <b>CT pelvis</b>. (↓↓)",
+      "p": "GI10"
+    },
+    {
+      "n": "GI10_2",
+      "v": "Suspected perianal fistula, MRI",
+      "t": "2. In patients with suspected perianal fistula, we recommend <b>MR pelvis</b> as the initial imaging modality. (↑↑)",
+      "p": "GI10"
+    },
+    {
+      "n": "GI10_2_1",
+      "v": "Suspected perianal fistula, endoanal ultrasound if MRI unavailable",
+      "t": "↪ 2.1 If MRI is not available or contraindicated, we suggest <b>endoanal US</b> as an alternative imaging modality. (↑)",
+      "p": "GI10_2"
+    },
+    {
+      "n": "GI10_3",
+      "v": "Suspected perianal abscess, MRI",
+      "t": "3. In patients with suspected perianal abscess, we recommend <b>MR pelvis</b> as the initial imaging modality. (↑↑)",
+      "p": "GI10"
+    },
+    {
+      "n": "GI10_3_1",
+      "v": "Suspected perianal abscess, endoanal ultrasound if MRI unavailable",
+      "t": "↪ 3.1 If MRI is not available or contraindicated, we suggest <b>endoanal US</b> as an alternative imaging modality. (↑)",
+      "p": "GI10_3"
+    },
+    {
+      "n": "GI10_3_2",
+      "v": "Large perianal abscess, CT if MRI/US unavailable",
+      "t": "↪ 3.2 In patients with suspected large perianal abscess, if MRI or US is not available or contraindicated, we suggest <b>CT pelvis</b> as an alternative imaging modality. (↑)",
+      "p": "GI10_3"
+    },
+    {
+      "n": "GI10_4",
+      "v": "Suspected anovesicular/anovaginal fistula, CT",
+      "t": "4. In patients with suspected anovesicular or anovaginal fistula, we recommend <b>CT pelvis</b>. (↑↑)",
+      "p": "GI10"
+    },
+    {
+      "n": "GI10_4_1",
+      "v": "Suspected anovesicular/anovaginal fistula, MRI alternative",
+      "t": "↪ 4.1 In patients with suspected anovesicular or anovaginal fistula, we suggest <b>MR pelvis</b> as an alternative imaging modality. (↑)",
+      "p": "GI10_4"
+    },
+    {
+      "n": "GI11_1",
+      "v": "Uncomplicated acute infectious colitis, no imaging",
+      "t": "1. In patients with suspected uncomplicated acute infectious colitis presenting with acute nonlocalized abdominal pain, we recommend against imaging in the absence of other concerning clinical and/or biochemical findings. (↓↓)",
+      "p": "GI11"
+    },
+    {
+      "n": "GI11_2",
+      "v": "Diarrhea of unknown cause, X-Ray",
+      "t": "2. In patients with diarrhea (unknown cause), we suggest XR as the initial imaging modality. (↑)",
+      "p": "GI11"
+    },
+    {
+      "n": "GI11_2_1",
+      "v": "Diarrhea, CT if X-Ray inconclusive",
+      "t": "↪ 2.1 If XR is inconclusive, we suggest specialist consultation (e.g., gastroenterology, general surgery) and/or CT abdomen and pelvis. (↑)",
+      "p": "GI11_2"
+    },
+    {
+      "n": "GI12_1",
+      "v": "Fecal incontinence with constipation, no imaging",
+      "t": "1. In patients with fecal incontinence (clinically diagnosed constipation), we recommend against imaging in the absence of other concerning clinical and/or biochemical findings. (↓↓)",
+      "p": "GI12"
+    },
+    {
+      "n": "GI12_2",
+      "v": "Fecal incontinence, X-Ray",
+      "t": "2. In patients with fecal incontinence (clinically indeterminate for constipation), we suggest XR as the initial imaging modality. (↑)",
+      "p": "GI12"
+    },
+    {
+      "n": "GI12_3",
+      "v": "Fecal incontinence, suspected cauda equina, MRI",
+      "t": "3. In patients with fecal incontinence (suspected cauda equina), we recommend MR lumbar spine as the initial imaging modality. (EPc)",
+      "p": "GI12"
+    },
+    {
+      "n": "GI12_4",
+      "v": "Fecal incontinence, suspected pelvic floor dysfunction, dynamic MRI",
+      "t": "4. In patients with fecal incontinence (suspected pelvic floor dysfunction), we suggest dynamic MR pelvic floor. (EPc)",
+      "p": "GI12"
+    },
+    {
+      "n": "GI12_4_1",
+      "v": "Fecal incontinence, pelvic floor dysfunction, fluoroscopic defecography if MRI unavailable",
+      "t": "↪ 4.1 If MRI is not available or contraindicated, we suggest fluoroscopic defecography. (EPc)",
+      "p": "GI12_4"
+    },
+    {
+      "n": "GI13_1",
+      "v": "Suspected/known foreign body ingestion, X-Ray",
+      "t": "1. In patients with suspected or known foreign body ingestion, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "GI13"
+    },
+    {
+      "n": "GI13_1_1",
+      "v": "Foreign body ingestion, CT if X-Ray concerning",
+      "t": "↪ 1.1 If XR is suspicious for obstruction or perforation, we suggest CT abdomen and pelvis as the next imaging modality. (↑)",
+      "p": "GI13_1"
+    },
+    {
+      "n": "GI13_1_2",
+      "v": "Foreign body ingestion, CT if X-Ray negative and further management needed",
+      "t": "↪ 1.2 If XR is negative and additional management is being considered, we suggest CT abdomen and pelvis as the next imaging modality. (↑)",
+      "p": "GI13_1"
+    },
+    {
+      "n": "OG1",
+      "v": "1st trimester assessment"
+    },
+    {
+      "n": "OG1_1",
+      "v": "No ultrasound for pregnancy confirmation",
+      "t": "1. In patients with suspected pregnancy, we recommend against US for pregnancy confirmation. (↓↓)",
+      "p": "OG1"
+    },
+    {
+      "n": "OG1_2",
+      "v": "Transabdominal ultrasound for 1st trimester assessment",
+      "t": "2. In patients in the 1st trimester with confirmed intrauterine pregnancy, we recommend transabdominal US as the initial imaging modality for the following: pregnancy dating, to assess fetal number, chorionicity and amnionicity in multiple gestations, measurement of nuchal translucency (in single and multiple gestations), screening for select major anatomical abnormalities (such as anencephaly), and in patients with suspected complications of early pregnancy. (↑↑)",
+      "p": "OG1"
+    },
+    {
+      "n": "OG1_2_1",
+      "v": "Transvaginal ultrasound if transabdominal is suboptimal",
+      "t": "↪ 2.1 If transabdominal US is indeterminate or suboptimal for these clinical indications, we recommend transvaginal US as an adjunct. (↑↑)",
+      "p": "OG1_2"
+    },
+    {
+      "n": "OG1_3",
+      "v": "No Doppler without clinical indication in 1st trimester",
+      "t": "3. In patients in the 1st trimester with a viable or potentially viable intrauterine pregnancy, we suggest not using Doppler as an adjunct to US without a clear clinical indication. (↓)",
+      "p": "OG1"
+    },
+    {
+      "n": "OG1_4",
+      "v": "Combined transabdominal and transvaginal ultrasound for suspected ectopic or pregnancy of unknown location",
+      "t": "4. In patients in the 1st trimester with a positive pregnancy test and a suspected PUL or ectopic pregnancy, we recommend a combined transabdominal and transvaginal US approach as the initial imaging technique. The uterus should be thoroughly scanned for the presence of a gestational sac, and in its absence, then the adnexa should be thoroughly scanned for the presence of a mass. (↑↑)",
+      "p": "OG1"
+    },
+    {
+      "n": "OG1_4_1",
+      "v": "Repeat ultrasound if initial results are inconclusive",
+      "t": "↪ 4.1 If results are initially inconclusive, we recommend close clinical and biochemical assessment with follow-up repeat US assessment. (↑↑)",
+      "p": "OG1_4"
+    },
+    {
+      "n": "OG2",
+      "v": "2nd trimester assessment"
+    },
+    {
+      "n": "OG2_1",
+      "v": "Transabdominal ultrasound for routine 2nd trimester screening",
+      "t": "1. In patients in the 2nd trimester of pregnancy, typically between 18-20 weeks, we recommend routine screening with transabdominal US, for evaluation of fetal anatomy, fetal growth, and general assessment of the placenta. (↑↑)",
+      "p": "OG2"
+    },
+    {
+      "n": "OG2_1_1",
+      "v": "Doppler ultrasound for fetal evaluation",
+      "t": "↪ 1.1 Where indicated, in the evaluation of fetal growth and well-being, characterization of complex anatomy, and placental and cord assessment, we recommend Doppler as an adjunct. (↑↑)",
+      "p": "OG2_1"
+    },
+    {
+      "n": "OG2_1_2",
+      "v": "MRI for complex fetal conditions",
+      "t": "↪ 1.2 For complex fetal conditions, if US is indeterminate or if further investigation is required, we suggest MRI. Timing of the MRI may be determined based on clinical indication. (↑)",
+      "p": "OG2_1"
+    },
+    {
+      "n": "OG2_2",
+      "v": "Combined transabdominal and transvaginal ultrasound for suspected low-lying or invasive placenta",
+      "t": "2. In patients in the 2nd trimester of pregnancy with suspected low location of the placenta or invasive placentation, we recommend a combined transabdominal and transvaginal US approach. (↑↑)",
+      "p": "OG2"
+    },
+    {
+      "n": "OG2_2_1",
+      "v": "Doppler ultrasound for placental assessment",
+      "t": "↪ 2.1 We recommend Doppler as an adjunct. (↑↑)",
+      "p": "OG2_2"
+    },
+    {
+      "n": "OG2_2_2",
+      "v": "MRI for suspected invasive placentation",
+      "t": "↪ 2.2 For suspected invasive placentation, if US is indeterminate or if further investigation is required, we suggest MRI. (↑)",
+      "p": "OG2_2"
+    },
+    {
+      "n": "OG2_3",
+      "v": "Transvaginal ultrasound for cervical assessment in high-risk pregnancies",
+      "t": "3. In patients in the 2nd trimester with a history of pre-term birth, or with other risk factors for pre-term birth, and in patients with suspected preterm labour, we recommend transvaginal US for assessment of the cervix. (↑↑)",
+      "p": "OG2"
+    },
+    {
+      "n": "OG2_3_1",
+      "v": "Transperineal ultrasound if transvaginal is not feasible",
+      "t": "↪ 3.1 If transvaginal US is declined or is not feasible, we recommend transperineal US as an alternative. (↑↑)",
+      "p": "OG2_3"
+    },
+    {
+      "n": "OG2_4",
+      "v": "Combined transabdominal and transvaginal ultrasound for 2nd trimester vaginal bleeding",
+      "t": "4. In patients in the 2nd trimester experiencing vaginal bleeding, we recommend a combined transabdominal and transvaginal US approach. (↑↑)",
+      "p": "OG2"
+    },
+    {
+      "n": "OG2_4_1",
+      "v": "Doppler ultrasound as an adjunct",
+      "t": "↪ 4.1 We recommend Doppler as an adjunct. (↑↑)",
+      "p": "OG2_4"
+    },
+    {
+      "n": "OG2_5",
+      "v": "Fetal echocardiography if indicated after routine anatomy scan",
+      "t": "5. Following the routine anatomy scan, if risk factors are identified and/or fetal cardiac screening examination is abnormal, we suggest fetal echocardiography US. (↑)",
+      "p": "OG2"
+    },
+    {
+      "n": "OG3",
+      "v": "3rd trimester assessment"
+    },
+    {
+      "n": "OG3_1",
+      "v": "Transabdominal ultrasound for 3rd trimester assessment if no prior scans",
+      "t": "1. In patients in the 3rd trimester who have not received a 1st or 2nd trimester diagnostic US, we recommend transabdominal US for general assessment of the pregnancy. (↑↑)",
+      "p": "OG3"
+    },
+    {
+      "n": "OG3_1_1",
+      "v": "Doppler and/or transvaginal ultrasound as clinically indicated",
+      "t": "↪ 1.1 We recommend Doppler and/or transvaginal US as adjuncts, as clinically indicated. (↑↑)",
+      "p": "OG3_1"
+    },
+    {
+      "n": "OG3_2",
+      "v": "Transabdominal ultrasound surveillance for high-risk 3rd trimester pregnancies",
+      "t": "2. In high-risk 3rd trimester pregnancies, including multifetal pregnancy, we recommend transabdominal US surveillance to monitor fetal growth and well-being. (↑↑)",
+      "p": "OG3"
+    },
+    {
+      "n": "OG3_2_1",
+      "v": "Doppler and/or transvaginal ultrasound as clinically indicated",
+      "t": "↪ 2.1 We recommend Doppler and/or transvaginal US as adjuncts, as clinically indicated. (↑↑)",
+      "p": "OG3_2"
+    },
+    {
+      "n": "OG3_2_2",
+      "v": "MRI for complex fetal conditions",
+      "t": "↪ 2.2 For complex fetal conditions, if US is indeterminate or if further investigation is required, we suggest MRI. Timing of the MRI may be determined based on clinical indication. (↑)",
+      "p": "OG3_2"
+    },
+    {
+      "n": "OG3_3",
+      "v": "Transvaginal ultrasound to assess placental location in known low-lying/previa",
+      "t": "3. In patients diagnosed with low-lying placenta or placenta previa in the 2nd trimester, we recommend a transvaginal US to reassess placental location by the mid-3rd trimester. (↑↑)",
+      "p": "OG3"
+    },
+    {
+      "n": "OG3_3_1",
+      "v": "Doppler ultrasound as an adjunct",
+      "t": "↪ 3.1 We recommend Doppler as an adjunct. (↑↑)",
+      "p": "OG3_3"
+    },
+    {
+      "n": "OG3_4",
+      "v": "Combined transabdominal and transvaginal ultrasound for suspected invasive placentation",
+      "t": "4. In patients in the 3rd trimester of pregnancy with suspected invasive placentation, we recommend a combined transabdominal and transvaginal US approach. (↑↑)",
+      "p": "OG3"
+    },
+    {
+      "n": "OG3_4_1",
+      "v": "Doppler ultrasound as an adjunct",
+      "t": "↪ 4.1 We recommend Doppler as an adjunct. (↑↑)",
+      "p": "OG3_4"
+    },
+    {
+      "n": "OG3_4_2",
+      "v": "MRI if further investigation required",
+      "t": "↪ 4.2 If further investigation is required, we suggest MRI. (↑)",
+      "p": "OG3_4"
+    },
+    {
+      "n": "OG3_5",
+      "v": "Combined transabdominal and transvaginal ultrasound for 3rd trimester vaginal bleeding",
+      "t": "5. In patients in the 3rd trimester of pregnancy experiencing vaginal bleeding, we recommend a combined transabdominal and transvaginal US approach. (↑↑)",
+      "p": "OG3"
+    },
+    {
+      "n": "OG3_5_1",
+      "v": "Doppler ultrasound as an adjunct",
+      "t": "↪ 5.1 We recommend Doppler as an adjunct. (↑↑)",
+      "p": "OG3_5"
+    },
+    {
+      "n": "OG4",
+      "v": "Post-partum (up to 6 weeks)"
+    },
+    {
+      "n": "OG4_1",
+      "v": "Combined transabdominal and transvaginal ultrasound for postpartum hemorrhage",
+      "t": "1. In patients with early and/or late post-partum hemorrhage, we recommend a combined transabdominal and transvaginal US approach as the initial imaging modality. (↑↑)",
+      "p": "OG4"
+    },
+    {
+      "n": "OG4_1_1",
+      "v": "Doppler ultrasound as an adjunct",
+      "t": "↪ 1.1 We recommend Doppler as an adjunct. (↑↑)",
+      "p": "OG4_1"
+    },
+    {
+      "n": "OG4_1_2",
+      "v": "MRI if ultrasound is indeterminate",
+      "t": "↪ 1.2 If US is indeterminate or further investigation is required, we suggest MRI as the next imaging modality. (↑)",
+      "p": "OG4_1"
+    },
+    {
+      "n": "OG4_1_3",
+      "v": "Clinical observation with ultrasound if MRI is unavailable",
+      "t": "↪ 1.3 If MRI is unavailable or contraindicated, we suggest close clinical observation with follow-up transabdominal and transvaginal US. (EPc)",
+      "p": "OG4_1"
+    },
+    {
+      "n": "OG4_2",
+      "v": "CT for suspected intraabdominal bleeding with postpartum hemorrhage",
+      "t": "2. In patients with early and/or late post-partum hemorrhage where there is clinical concern for intraabdominal bleeding, we suggest CT to confirm, localize, and assess for the presence of active bleeding. (↑)",
+      "p": "OG4"
+    },
+    {
+      "n": "OG4_3",
+      "v": "Combined transabdominal and transvaginal ultrasound for postpartum infection",
+      "t": "3. In patients with suspected or confirmed post-partum infection, we recommend combined transabdominal and transvaginal US approach as the initial imaging modality to exclude retained products of conception and assess for complications of infection. (↑↑)",
+      "p": "OG4"
+    },
+    {
+      "n": "OG4_3_1",
+      "v": "CT or MRI if ultrasound is indeterminate",
+      "t": "↪ 3.1 If US is indeterminate or further investigation is required, we suggest CT or MRI as the next imaging modality depending on the clinical situation. (↑)",
+      "p": "OG4_3"
+    },
+    {
+      "n": "OG4_3_2",
+      "v": "Clinical monitoring and follow-up ultrasound if CT/MRI unavailable",
+      "t": "↪ 3.2 If CT and MRI are unavailable or contraindicated, we suggest close clinical monitoring and follow-up US. (EPc)",
+      "p": "OG4_3"
+    },
+    {
+      "n": "OG5",
+      "v": "Recurrent pregnancy loss (1st trimester)"
+    },
+    {
+      "n": "OG5_1",
+      "v": "Combined transabdominal and transvaginal ultrasound as initial imaging",
+      "t": "1. In patients with recurrent 1st trimester pregnancy loss, we recommend a combined transabdominal and transvaginal US approach as the initial imaging technique. (↑↑)",
+      "p": "OG5"
+    },
+    {
+      "n": "OG5_1_1",
+      "v": "Doppler ultrasound as an adjunct",
+      "t": "↪ 1.1 We suggest Doppler as an adjunct. (↑)",
+      "p": "OG5_1"
+    },
+    {
+      "n": "OG5_1_2",
+      "v": "MRI if ultrasound is negative, indeterminate, or complex abnormalities",
+      "t": "↪ 1.2 If US is negative, indeterminate, or if additional workup of complex abnormalities identified on US is required, we recommend MRI pelvis as the next imaging technique. (↑↑)",
+      "p": "OG5_1"
+    },
+    {
+      "n": "OG5_2",
+      "v": "MRI, 3-D ultrasound, or SIS for suspected Müllerian/intracavitary abnormalities",
+      "t": "2. In patients with suspected Müllerian duct or intracavitary abnormalities based on initial assessment, we suggest MRI, 3-D US, or SIS for further characterization. (↑)",
+      "p": "OG5"
+    },
+    {
+      "n": "OG6",
+      "v": "Infertility assessment"
+    },
+    {
+      "n": "OG6_1",
+      "v": "Transabdominal and/or transvaginal ultrasound as initial imaging",
+      "t": "1. In patients with infertility, we recommend transabdominal US and/or transvaginal US as the initial imaging technique. (↑↑)",
+      "p": "OG6"
+    },
+    {
+      "n": "OG6_1_1",
+      "v": "Doppler ultrasound as an adjunct",
+      "t": "↪ 1.1 We suggest Doppler as an adjunct. (↑)",
+      "p": "OG6_1"
+    },
+    {
+      "n": "OG6_1_2",
+      "v": "3-D ultrasound, SIS, or MRI if ultrasound of endometrium is indeterminate",
+      "t": "↪ 1.2 If initial assessment by US is indeterminate or if additional workup of the endometrium is required, we recommend 3-D US, SIS, or MRI as the next imaging technique. (↑↑)",
+      "p": "OG6_1"
+    },
+    {
+      "n": "OG6_1_3",
+      "v": "MRI if ultrasound assessment of adnexa is indeterminate",
+      "t": "↪ 1.3 If US assessment of the adnexa is indeterminate or if additional workup of the adnexa is required, we recommend MRI as the next imaging technique. (↑↑)",
+      "p": "OG6_1"
+    },
+    {
+      "n": "OG6_2",
+      "v": "SIS or HSG for tubal patency assessment",
+      "t": "2. In patients with infertility, for the assessment of tubal patency, we recommend SIS or HSG. (↑↑)",
+      "p": "OG6"
+    },
+    {
+      "n": "OG6_3",
+      "v": "Ultrasound to assess for varicocele in male infertility",
+      "t": "3. In the investigation of the male factor infertility, we recommend US as the initial imaging technique to assess for varicoceles. (↑↑)",
+      "p": "OG6"
+    },
+    {
+      "n": "OG7",
+      "v": "Evaluation of adnexal mass"
+    },
+    {
+      "n": "OG7_1",
+      "v": "Combined transabdominal and transvaginal ultrasound as initial imaging",
+      "t": "1. In patients with suspected adnexal mass with no acute symptoms, we recommend a combined transabdominal and transvaginal US approach as the initial imaging technique. (↑↑)",
+      "p": "OG7"
+    },
+    {
+      "n": "OG7_1_1",
+      "v": "Doppler ultrasound as an adjunct",
+      "t": "↪ 1.1 We recommend Doppler as an adjunct. (↑↑)",
+      "p": "OG7_1"
+    },
+    {
+      "n": "OG7_1_2",
+      "v": "MRI if ultrasound is indeterminate",
+      "t": "↪ 1.2 If US is indeterminate or further investigation is required, we recommend MRI as the next imaging technique. (↑↑)",
+      "p": "OG7_1"
+    },
+    {
+      "n": "OG8",
+      "v": "Evaluation of acute pelvic pain of presumed gynecologic origin"
+    },
+    {
+      "n": "OG8_1",
+      "v": "Combined transabdominal and transvaginal ultrasound as initial imaging",
+      "t": "1. In patients with acute pelvic pain of presumed gynecologic origin, we recommend a combined transabdominal and transvaginal US approach as the initial imaging technique. (↑↑)",
+      "p": "OG8"
+    },
+    {
+      "n": "OG8_1_1",
+      "v": "Doppler ultrasound as an adjunct",
+      "t": "↪ 1.1 We recommend Doppler as an adjunct. (↑↑)",
+      "p": "OG8_1"
+    },
+    {
+      "n": "OG8_1_2",
+      "v": "Repeat combined ultrasound if initial is indeterminate",
+      "t": "↪ 1.2 If US is indeterminate or further investigation is required and immediate management is not indicated, we recommend follow-up combined transabdominal and transvaginal US approach. (↑↑)",
+      "p": "OG8_1"
+    },
+    {
+      "n": "OG8_1_3",
+      "v": "CT in beta-HCG negative patients if further investigation required",
+      "t": "↪ 1.3 If further investigation is required, we suggest CT (in beta-HCG negative patients). (↑)",
+      "p": "OG8_1"
+    },
+    {
+      "n": "OG8_1_4",
+      "v": "Pelvic MRI in pregnant patients or for problem-solving",
+      "t": "↪ 1.4 In pregnant patients and for problem-solving, where indicated, we suggest pelvic MRI. (↑↑)",
+      "p": "OG8_1"
+    },
+    {
+      "n": "OG9",
+      "v": "Evaluation of chronic pelvic pain of presumed gynecologic origin"
+    },
+    {
+      "n": "OG9_1",
+      "v": "Combined transabdominal and transvaginal ultrasound as initial imaging",
+      "t": "1. In patients with chronic pelvic pain of presumed gynecologic origin, we recommend a combined transabdominal and transvaginal US approach as the initial imaging technique. (↑↑)",
+      "p": "OG9"
+    },
+    {
+      "n": "OG9_1_1",
+      "v": "Doppler ultrasound as an adjunct",
+      "t": "↪ 1.1 We recommend Doppler as an adjunct. (↑↑)",
+      "p": "OG9_1"
+    },
+    {
+      "n": "OG9_1_2",
+      "v": "CT in beta-HCG negative patients if further investigation required",
+      "t": "↪ 1.2 If further investigation is required, we suggest CT (in beta-HCG negative patients). (↑)",
+      "p": "OG9_1"
+    },
+    {
+      "n": "OG9_1_3",
+      "v": "Pelvic MRI in pregnant patients or for problem-solving",
+      "t": "↪ 1.3 In pregnant patients and for problem-solving, where indicated, we suggest pelvic MRI. (↑)",
+      "p": "OG9_1"
+    },
+    {
+      "n": "OG10",
+      "v": "Pelvic floor evaluation in females"
+    },
+    {
+      "n": "OG11",
+      "v": "Disorders of menstruation"
+    },
+    {
+      "n": "OG11_1",
+      "v": "Combined transabdominal and transvaginal ultrasound as initial imaging",
+      "t": "1. In patients with abnormal uterine bleeding, we recommend a combined transabdominal and transvaginal US approach as the initial imaging technique. (↑↑)",
+      "p": "OG11"
+    },
+    {
+      "n": "OG11_1_1",
+      "v": "Doppler ultrasound as an adjunct",
+      "t": "↪ 1.1 We suggest Doppler as an adjunct. (↑)",
+      "p": "OG11_1"
+    },
+    {
+      "n": "OG11_1_2",
+      "v": "SIS if further endometrial investigation required",
+      "t": "↪ 1.2 If further investigation of the endometrium is required, we recommend SIS as the next imaging technique. (↑↑)",
+      "p": "OG11_1"
+    },
+    {
+      "n": "OG11_1_3",
+      "v": "MRI if sonographic investigations are inconclusive",
+      "t": "↪ 1.3 If sonographic investigations are inconclusive or unavailable, we recommend MRI. (↑↑)",
+      "p": "OG11_1"
+    },
+    {
+      "n": "OG11_2",
+      "v": "No routine ultrasound for ovarian morphology in PCOS",
+      "t": "2. For patients diagnosed on clinical and biochemical grounds with polycystic ovarian syndrome, we do not recommend the routine use of US for evaluation of ovarian morphology. (↓↓)",
+      "p": "OG11"
+    },
+    {
+      "n": "OG11_2_1",
+      "v": "Transvaginal ultrasound if clinical/biochemical indices are equivocal",
+      "t": "↪ 2.1 If clinical and biochemical indices are equivocal, we recommend transvaginal US to assess ovarian morphology. (↑↑)",
+      "p": "OG11_2"
+    },
+    {
+      "n": "OG12",
+      "v": "Localization of IUCD"
+    },
+    {
+      "n": "OG12_1",
+      "v": "Combined transabdominal and transvaginal ultrasound as initial imaging",
+      "t": "1. In patients where localization of an intra-uterine contraceptive device (IUCD) is required, we recommend a combined transabdominal and transvaginal US approach as the initial imaging technique. (↑↑)",
+      "p": "OG12"
+    },
+    {
+      "n": "OG12_1_1",
+      "v": "3-D ultrasound as an adjunct if available",
+      "t": "↪ 1.1 We suggest 3-D US as an adjunct, where available. (↑)",
+      "p": "OG12_1"
+    },
+    {
+      "n": "OG12_1_2",
+      "v": "X-Ray if IUCD not seen on ultrasound",
+      "t": "↪ 1.2 If IUCD is not seen in the uterus on US, we recommend XR of the abdomen and pelvis as the next imaging technique. (↑↑)",
+      "p": "OG12_1"
+    },
+    {
+      "n": "T01",
+      "v": "CT head for acute head trauma in adults meeting imaging criteria",
+      "t": "Acute head trauma in adults"
+    },
+    {
+      "n": "T01_2",
+      "v": "No X-Ray except as problem-solving tool for head trauma in adults",
+      "t": "2. In adults who have sustained an acute head injury, we recommend against <b>XR</b>, except as a problem-solving tool (e.g., gunshot wounds). (↓↓)",
+      "p": "T01"
+    },
+    {
+      "n": "T02",
+      "v": "CT head for acute head trauma in children meeting imaging criteria",
+      "t": "Acute head trauma in children"
+    },
+    {
+      "n": "T02_2",
+      "v": "No X-Ray except as problem-solving tool for head trauma in children",
+      "t": "2. In children who have sustained an acute head injury, we recommend against <b>XR</b>, except as a problem-solving tool (e.g., gunshot wounds, non-accidental trauma) (↓↓)",
+      "p": "T02"
+    },
+    {
+      "n": "T03",
+      "v": "Acute facial trauma"
+    },
+    {
+      "n": "T03_2",
+      "v": "No X-Ray for isolated facial trauma",
+      "t": "2. In patients with isolated facial trauma*, we recommend against <b>XR</b>. (↓↓)",
+      "p": "T03"
+    },
+    {
+      "n": "T03_2_1",
+      "v": "OPG for suspected mandibular fracture if CT unavailable",
+      "t": "↪ 2.1 *In patients with suspected mandibular fracture, we suggest <b>OPG</b> if CT is not available. (↑)",
+      "p": "T03_2"
+    },
+    {
+      "n": "T04",
+      "v": "Acute orbital trauma"
+    },
+    {
+      "n": "T04_1",
+      "v": "Acute orbital trauma: initial imaging",
+      "t": "1. In patients with orbital trauma, we recommend &lt;b&gt;CT&lt;/b&gt; as the initial imaging modality. (↑↑)",
+      "p": "T04"
+    },
+    {
+      "n": "T04_2",
+      "v": "Acute orbital trauma: No x-ray unless query metallic foreign body",
+      "t": "2. In patients with orbital trauma, we recommend against <b>XR</b>, except when the clinical question is exclusion of retained metallic foreign body. (↓↓)",
+      "p": "T04"
+    },
+    {
+      "n": "T05",
+      "v": "Suspected cervical spine trauma in adults"
+    },
+    {
+      "n": "T05_1_1",
+      "v": "X-Ray if CT is not readily available for low-risk patients",
+      "t": "↪ 1.1 In low-risk patients, in settings where CT is not readily available, we suggest <b>XR</b> as the initial imaging modality. (↑)",
+      "p": "T05_1"
+    },
+    {
+      "n": "T05_2",
+      "v": "MRI if persistent concern for ligamentous or spinal cord injury after normal CT",
+      "t": "2. In adults with normal CT of the cervical spine who have persistent suspicion of significant ligamentous or spinal cord injury, we recommend <b>MRI</b>. (↑↑)",
+      "p": "T05"
+    },
+    {
+      "n": "T06",
+      "v": "Suspected cervical spine trauma in children"
+    },
+    {
+      "n": "T06_2",
+      "v": "X-Ray as initial imaging for cervical spine trauma in children at lower risk",
+      "t": "2. In children with cervical spine trauma who do not meet the patient population in recommendation 1, but may require imaging (e.g., failed a clinical decision rule like PECARN), we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
+      "p": "T06"
+    },
+    {
+      "n": "T06_2_1",
+      "v": "CT if X-Ray is non-diagnostic or abnormal",
+      "t": "↪ 2.1 In situations where XR is non-diagnostic and there is persistent clinical concern for cervical spine injury, OR if XR is abnormal, OR if there is clinical-radiologic discrepancy, we recommend <b>CT</b> as the next imaging modality. (↑↑)",
+      "p": "T06_2"
+    },
+    {
+      "n": "T06_3",
+      "v": "MRI if persistent concern for ligamentous or spinal cord injury after normal CT",
+      "t": "3. In children with normal CT of the cervical spine who have persistent suspicion of significant ligamentous or spinal cord injury, we recommend <b>MRI</b>. (↑↑)",
+      "p": "T06"
+    },
+    {
+      "n": "T07",
+      "v": "CT angiogram as initial imaging for suspected head/neck vascular injury",
+      "t": "Suspected head and neck vascular injury, including penetrating injury"
+    },
+    {
+      "n": "T07_1_1",
+      "v": "CT venogram if significant venous injury is suspected",
+      "t": "↪ 1.1 *In patients where there is suspicion of significant/management altering venous injury, we recommend including <b>CT venogram</b>. (↑↑)",
+      "p": "T07_1"
+    },
+    {
+      "n": "T08",
+      "v": "X-Ray as initial imaging for suspected thoracolumbar fracture without deficits",
+      "t": "Suspected thoracolumbar fracture"
+    },
+    {
+      "n": "T08_1_1",
+      "v": "No X-Ray needed if CT of chest/abdomen/pelvis has been done",
+      "t": "↪ 1.1 *If <b>CT</b> of the chest, abdomen, and pelvis has been performed for other indications, given that the thoracic and lumbar spine have been included, XR are not recommended for initial spine assessment. (EPc)",
+      "p": "T08_1"
+    },
+    {
+      "n": "T08_2",
+      "v": "CT as initial imaging for suspected thoracolumbar fracture with deficits",
+      "t": "2. In patients with suspected thoracolumbar spine fracture with neurological deficits, we recommend <b>CT</b> as the initial imaging modality. (↑↑)",
+      "p": "T08"
+    },
+    {
+      "n": "T09",
+      "v": "X-Ray as initial imaging for acute hip and pelvic trauma",
+      "t": "Acute hip and pelvic trauma"
+    },
+    {
+      "n": "T09_1_1",
+      "v": "CT if X-Ray is negative but clinical concern persists",
+      "t": "↪ 1.1 In situations where XR is negative and there is persistent clinical concern for hip and/or pelvic fracture, we recommend <b>CT</b> as the next imaging modality. (↑↑)",
+      "p": "T09_1"
+    },
+    {
+      "n": "T10",
+      "v": "X-Ray as initial imaging for acute shoulder trauma",
+      "t": "Acute shoulder trauma"
+    },
+    {
+      "n": "T10_1_1",
+      "v": "CT if X-Ray is negative or non-diagnostic",
+      "t": "↪ 1.1 In situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest <b>CT</b> as the next imaging modality. (↑)",
+      "p": "T10_1"
+    },
+    {
+      "n": "T11",
+      "v": "X-Ray as initial imaging for acute elbow trauma",
+      "t": "Acute elbow trauma"
+    },
+    {
+      "n": "T11_1_1",
+      "v": "CT if X-Ray is negative or non-diagnostic in skeletally mature patients",
+      "t": "↪ 1.1 In skeletally mature patients, in situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT as the next imaging modality. (↑)",
+      "p": "T11_1"
+    },
+    {
+      "n": "T12",
+      "v": "Acute hand and wrist trauma"
+    },
+    {
+      "n": "T12_1",
+      "v": "Acute hand and wrist trauma: initial imaging",
+      "t": "1. In patients with acute hand and/or wrist trauma, we recommend XR* as the initial imaging modality. If a dislocation is identified, post-reduction XR should also be performed. (↑↑)"
+    },
+    {
+      "n": "T12_1_1",
+      "v": "Acute hand and wrist trauma: next imaging",
+      "t": "↪ 1.1 In skeletally mature patients, in situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT or MRI as the next imaging modality. (↑)",
+      "p": "T12_1"
+    },
+    {
+      "n": "T12_1_2",
+      "v": "Acute hand and wrist trauma: scaphoid fracture suspected or CT/MR unavailable",
+      "t": "↪ 1.2 If scaphoid fracture is suspected and CT or MR is not available, we recommend immobilization and repeat XR in 10-14 days. (↑↑)",
+      "p": "T12_1"
+    },
+    {
+      "n": "T13",
+      "v": "Acute knee trauma"
+    },
+    {
+      "n": "T13_1",
+      "v": "Acute knee trauma (Ottawa knee rule): initial imaging",
+      "t": "1. In patients with acute knee trauma who meet the criteria in the Ottawa Knee Rule, we recommend XR* as the initial imaging modality. (EPc/↑↑)",
+      "p": "T13"
+    },
+    {
+      "n": "T13_1_1",
+      "v": "Acute knee trauma: next imaging",
+      "t": "↪ 1.1 In situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT as the next imaging modality. (↑)",
+      "p": "T13_1"
+    },
+    {
+      "n": "T14",
+      "v": "Acute ankle trauma"
+    },
+    {
+      "n": "T14_1",
+      "v": "Acute ankle trauma (Ottawa ankle rule): initial imaging",
+      "t": "1. In patients with acute ankle trauma who meet the Ottawa Ankle Rule, we recommend ankle XR as the initial imaging modality. (↑↑)",
+      "p": "T14"
+    },
+    {
+      "n": "T14_1_1",
+      "v": "Acute ankle trauma: next imaging",
+      "t": "↪ 1.1 In situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT as the next imaging modality. (↑)",
+      "p": "T14_1"
+    },
+    {
+      "n": "T15",
+      "v": "Acute foot trauma"
+    },
+    {
+      "n": "T15_1",
+      "v": "Acute foot trauma: initial imaging",
+      "t": "1. In patients with acute foot trauma in whom fracture is suspected, we recommend foot XR as the initial imaging modality. (↑↑)",
+      "p": "T15"
+    },
+    {
+      "n": "T15_1_1",
+      "v": "Acute foot trauma: next imaging",
+      "t": "↪ 1.1 In situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT as the next imaging modality. (↑)",
+      "p": "T15_1"
+    },
+    {
+      "n": "T16",
+      "v": "Superficial soft tissue injury foreign body"
+    },
+    {
+      "n": "T16_1",
+      "v": "Superficial soft tissue injury foreign body: initial imaging",
+      "t": "1. In patients with suspected superficial soft tissue foreign body, we recommend XR as the initial imaging modality. (↑↑)",
+      "p": "T16"
+    },
+    {
+      "n": "T16_1_1",
+      "v": "Superficial soft tissue injury foreign body: next imaging",
+      "t": "↪ 1.1 In situations where no foreign body is detected on XR and there is persistent clinical concern for foreign body, we recommend US as the next imaging modality. (↑↑)",
+      "p": "T16_1"
+    },
+    {
+      "n": "T17",
+      "v": "Acute chest trauma in adults"
+    },
+    {
+      "n": "T17_1",
+      "v": "Adult minor chest trauma with low clinical suspicion: no imaging",
+      "t": "1. In adults with minor chest trauma with a low suspicion of clinically significant injury*, we suggest no imaging. (↓)",
+      "p": "T17"
+    },
+    {
+      "n": "T17_2",
+      "v": "Moderate to severe adult chest trauma: assessment",
+      "t": "2. In adults with moderate to severe chest trauma, we recommend XR as the initial imaging modality, proceeding to CT if there is any clinical or radiological concern. (↑↑)",
+      "p": "T17"
+    },
+    {
+      "n": "T18",
+      "v": "Acute chest trauma in children"
+    },
+    {
+      "n": "T18_1",
+      "v": "Pediatric minor chest trauma: no imaging",
+      "t": "1. In children with minor chest trauma and/or where there is low suspicion of clinically significant injury, we suggest no imaging. (↓)",
+      "p": "T18"
+    },
+    {
+      "n": "T18_2",
+      "v": "Pediatric moderate ot severe chest trauma: assessment",
+      "t": "2. In children with moderate to severe chest trauma, we recommend XR as the initial imaging modality, proceeding to CT if there is any clinical or radiological concern. (↑↑)",
+      "p": "T18"
+    },
+    {
+      "n": "T19",
+      "v": "Acute abdominal trauma in adults"
+    },
+    {
+      "n": "T19_1",
+      "v": "Suspected internal abdominal injury: initial imaging",
+      "t": "1. In adults who have sustained abdominal trauma, in whom internal injury is suspected, we recommend CT as the initial imaging modality. (↑↑)",
+      "p": "T19"
+    },
+    {
+      "n": "T19_1_1",
+      "v": "Suspected internal abdominal injury: alternative imaging",
+      "t": "↪ 1.1 In the specific clinical context where CT is not available, we suggest that US be used, while considering its significant limitations. (↑)",
+      "p": "T19_1"
+    },
+    {
+      "n": "T19_2",
+      "v": "Suspected bladder injury: CT cystography",
+      "t": "2. In adults with suspected bladder injury, following clinical examination and initial abdominal and pelvic CT, we suggest CT cystography. (↑)",
+      "p": "T19"
+    },
+    {
+      "n": "T20",
+      "v": "Acute abdominal trauma in children"
+    },
+    {
+      "n": "T20_1",
+      "v": "Pediatric abdominal trauma: initial imaging",
+      "t": "1. In children who have sustained abdominal trauma, in whom internal injury is suspected, we recommend CT as the initial imaging modality. (↑↑)",
+      "p": "T20"
+    },
+    {
+      "n": "T20_1_1",
+      "v": "Pediatric abdominal trauma: alternative imaging",
+      "t": "↪ 1.1 In the specific clinical context where CT in not available, we suggest that US be used, while considering its significant limitations. (↑)",
+      "p": "T20_1"
+    },
+    {
+      "n": "T20_2",
+      "v": "Pediatric bladder injury: CT cystography",
+      "t": "2. In children with suspected bladder injury, following clinical examination and initial abdominal and pelvic CT, we suggest CT cystography. (↑)",
+      "p": "T20"
+    },
+    {
+      "n": "T21",
+      "v": "Non-accidental trauma"
+    },
+    {
+      "n": "T21_1",
+      "v": "Skeletal survey X-Ray as initial imaging for suspected non-accidental trauma in children",
+      "t": "1. In children with suspected non-accidental trauma, we recommend skeletal survey XR as the initial imaging modality. (↑↑)",
+      "p": "T21"
+    },
+    {
+      "n": "T21_2",
+      "v": "CT head for suspected non-accidental head trauma in young children, refer to T02 for older children",
+      "t": "2. If there is suspicion of non-accidental head trauma, especially in very young children, we suggest CT head. For older children, please refer to T02. Acute head trauma in children. (↑)",
+      "p": "T21"
+    },
+    {
+      "n": "B01",
+      "v": "Average risk screening"
+    },
+    {
+      "n": "B01A",
+      "v": "Screening females at average risk",
+      "p": "B01"
+    },
+    {
+      "n": "B01A_1",
+      "v": "No routine mammography screening for females under 40",
+      "t": "1. In females younger than 40 years old, at average risk of breast cancer, we recommend against routine mammography screening. (↓↓)",
+      "p": "B01A"
+    },
+    {
+      "n": "B01A_2",
+      "v": "Annual mammography/DBT screening for females 40-49",
+      "t": "2. In females 40 to 49 years of age, at average risk of breast cancer, we suggest annual mammography/DBT screening. (↑)",
+      "p": "B01A"
+    },
+    {
+      "n": "B01A_3",
+      "v": "Mammography/DBT screening every 1-2 years for females 50 and older",
+      "t": "3. In females 50 years of age and older, at average risk of breast cancer, we recommend mammography/DBT screening every one to two years. (↑↑)",
+      "p": "B01A"
+    },
+    {
+      "n": "B01A_4",
+      "v": "Supplementary imaging for females with extremely dense breast tissue",
+      "t": "4. In females undergoing screening with mammographically confirmed extremely dense breast tissue (i.e., ACR category D), we suggest supplementary imaging. (↑)",
+      "p": "B01A"
+    },
+    {
+      "n": "B01A_4_1",
+      "v": "Supplementary imaging for females with ACR category C dense breast tissue",
+      "t": "↪ 4.1 In females with mammographically confirmed ACR category C dense breast tissue, we suggest supplementary imaging, depending on capacity constraints. (↑)",
+      "p": "B01A_4"
+    },
+    {
+      "n": "B01B",
+      "v": "Screening trans people at average risk",
+      "p": "B01"
+    },
+    {
+      "n": "B01B_1",
+      "v": "No routine mammography/DBT screening for transmasculine under 40 or transfeminine with <5 years hormone use",
+      "t": "1. In transmasculine people under 40 years of age (with or without bilateral mastectomies) and in transfeminine individuals with no or < 5 years of hormone use, at average risk of breast cancer, we recommend against routine mammography/DBT screening. (↓↓)",
+      "p": "B01B"
+    },
+    {
+      "n": "B01B_2",
+      "v": "Annual mammography/DBT screening for transmasculine 40-49 without mastectomy",
+      "t": "2. In transmasculine people at average risk of breast cancer, aged 40 to 49 years of age, who have not undergone bilateral mastectomies, we suggest annual mammography/DBT screening. (↑)",
+      "p": "B01B"
+    },
+    {
+      "n": "B01B_3",
+      "v": "Mammography/DBT screening every 1-2 years for transmasculine 50+ without mastectomy",
+      "t": "3. In transmasculine people at average risk of breast cancer, aged 50 years and older, who have not undergone bilateral mastectomies, we recommend mammography/DBT screening every one to two years. (↑↑)",
+      "p": "B01B"
+    },
+    {
+      "n": "B01B_4",
+      "v": "Annual mammography/DBT screening for transfeminine 40-49 with ≥5 years hormone use",
+      "t": "4. In transfeminine people at average risk of breast cancer with or without breast implants, aged 40 to 49 years of age, with past or current hormone use for ≥ 5 years, we suggest annual mammography/DBT screening. (↑)",
+      "p": "B01B"
+    },
+    {
+      "n": "B01B_5",
+      "v": "Mammography/DBT screening every 1-2 years for transfeminine 50+ with ≥5 years hormone use",
+      "t": "5. In transfeminine people at average risk of breast cancer with or without breast implants, aged 50 years and older, with past or current hormone use for ≥ 5 years, we suggest mammography/DBT screening every one to two years. (↑)",
+      "p": "B01B"
+    },
+    {
+      "n": "B02",
+      "v": "High-risk screening"
+    },
+    {
+      "n": "B02A",
+      "v": "Screening females at increased risk",
+      "p": "B02"
+    },
+    {
+      "n": "B02A_1",
+      "v": "Annual mammography/DBT and MRI screening for high-risk due to prior chest wall radiation",
+      "t": "1. In females at high risk of breast cancer due to prior chest wall irradiation between the ages of 10 to 30 years, we recommend annual mammography/DBT and MRI screening starting 8 years after chest irradiation, but not before 25 years of age. (↑↑)",
+      "p": "B02A"
+    },
+    {
+      "n": "B02A_1_1",
+      "v": "Ultrasound alternative if MRI is not tolerated, contraindicated, or unavailable",
+      "t": "↪ 1.1 If MRI is not tolerated, contraindicated, or unavailable, we suggest US as an alternative imaging technique. (↑)",
+      "p": "B02A_1"
+    },
+    {
+      "n": "B02A_2",
+      "v": "Annual mammography/DBT and MRI screening for BRCA mutation carriers",
+      "t": "2. In females with BRCA gene mutations, we recommend annual mammography/DBT and MRI screening, starting between the ages of 25 and 30 years. (↑↑)",
+      "p": "B02A"
+    },
+    {
+      "n": "B02A_2_1",
+      "v": "Ultrasound alternative if MRI is not tolerated, contraindicated, or unavailable",
+      "t": "↪ 2.1 If MRI is not tolerated, contraindicated, or unavailable, we suggest US as an alternative imaging technique. (↑)",
+      "p": "B02A_2"
+    },
+    {
+      "n": "B02A_3",
+      "v": "Individualized screening decisions for other high-risk gene mutations",
+      "t": "3. The role of screening in females with other high-risk gene mutations is an evolving science and further research is required to guide recommendations in this field. Any decision for screening should be made through shared decision making between the physician and the patient. (EPc)",
+      "p": "B02A"
+    },
+    {
+      "n": "B02A_4",
+      "v": "Annual mammography/DBT and MRI screening for ≥20% lifetime risk",
+      "t": "4. In females with lifetime risk of ≥20% (based on risk assessment tool), we suggest annual mammography/DBT and supplementary screening, preferably with MRI, starting between the ages of 25 and 30 years. (↑)",
+      "p": "B02A"
+    },
+    {
+      "n": "B02B",
+      "v": "Screening trans people at increased risk",
+      "p": "B02"
+    },
+    {
+      "n": "B02B_1",
+      "v": "Identical recommendations to B02A for transfeminine ≥30 with ≥5 years hormone use",
+      "t": "1. In transfeminine people at high risk for breast cancer꙳, aged 30 years and older, with past or current hormone use ≥ 5 years, guideline recommendations are identical to those presented in B02A.",
+      "p": "B02B"
+    },
+    {
+      "n": "B02B_2",
+      "v": "Identical recommendations to B02A for transmasculine ≥30 without mastectomy",
+      "t": "2. In transmasculine people at high risk for breast cancer꙳, aged 30 years and older, who have not undergone bilateral mastectomies, guideline recommendations are identical to those presented in B02A.",
+      "p": "B02B"
+    },
+    {
+      "n": "B02C",
+      "v": "Screening pregnant/lactating persons at increased risk",
+      "p": "B02"
+    },
+    {
+      "n": "B02C_1",
+      "v": "Mammography/DBT and supplemental ultrasound for pregnant high-risk persons",
+      "t": "1. In pregnant people at high risk of breast cancer who choose to continue screening, we suggest mammography/DBT꙳ screening and supplemental screening with US꙳꙳. (↑)",
+      "p": "B02C"
+    },
+    {
+      "n": "B02C_2",
+      "v": "Resume annual mammography/DBT and MRI after 1 year for lactating high-risk persons",
+      "t": "2. In lactating people at high risk of breast cancer who choose to continue screening, we suggest that annual mammography/digital breast tomosynthesis and MRI screening resume after one year. (↑)",
+      "p": "B02C"
+    },
+    {
+      "n": "B03",
+      "v": "Symptomatic patients"
+    },
+    {
+      "n": "B03A",
+      "v": "Palpable mass",
+      "p": "B03"
+    },
+    {
+      "n": "B03A_1",
+      "v": "Targeted ultrasound as initial imaging for females under 30 with palpable mass",
+      "t": "1. In females under 30 years of age with a palpable breast mass, we recommend targeted US of the area of clinical concern as the initial imaging technique. (↑↑)",
+      "p": "B03A"
+    },
+    {
+      "n": "B03A_1_1",
+      "v": "No further work-up if ultrasound findings are negative, based on clinical/radiologist discretion",
+      "t": "↪ 1.1 If US findings are negative, we recommend that any decision for further work-up should be based on radiologist discretion and/or clinical grounds. (EPc)",
+      "p": "B03A_1"
+    },
+    {
+      "n": "B03A_2",
+      "v": "Mammography/DBT and targeted ultrasound as initial imaging for females 30+ with palpable mass",
+      "t": "2. In females 30 years of age and older with a palpable breast mass, we recommend mammography/DBT and targeted US of the area of clinical concern as the initial imaging techniques. (↑↑)",
+      "p": "B03A"
+    },
+    {
+      "n": "B03A_3",
+      "v": "Further intervention based on clinical grounds if mammography and ultrasound are negative for clinically concerning palpable mass",
+      "t": "3. In females of any age with a palpable breast mass that is clinically concerning for malignancy, and mammography and US are negative, we recommend that any decision for further intervention (e.g., palpation-guided biopsy, MRI) should be based on clinical grounds. (EPc)",
+      "p": "B03A"
+    },
+    {
+      "n": "B03B",
+      "v": "Suspicious nipple discharge",
+      "p": "B03"
+    },
+    {
+      "n": "B03B_1",
+      "v": "No imaging for physiological nipple discharge",
+      "t": "1. In females, at any age, with physiological nipple discharge, we recommend against imaging. (↓↓)",
+      "p": "B03B"
+    },
+    {
+      "n": "B03B_2",
+      "v": "Targeted ultrasound of retroareolar region as initial imaging for non-physiological nipple discharge in females under 30",
+      "t": "2. In females under 30 years of age with non-physiological nipple discharge, we recommend targeted US of the retroareolar region as the initial imaging technique. (↑↑)",
+      "p": "B03B"
+    },
+    {
+      "n": "B03B_3",
+      "v": "Mammography/DBT and targeted ultrasound of retroareolar region as initial imaging for non-physiological nipple discharge in females 30+",
+      "t": "3. In females 30 years of age and older with non-physiological nipple discharge, we recommend mammography/DBT and targeted US of the retroareolar region as the initial imaging techniques. (↑↑)",
+      "p": "B03B"
+    },
+    {
+      "n": "B03B_3_1",
+      "v": "MRI or ductography if mammography and ultrasound are negative or inconclusive",
+      "t": "↪ 3.1 If the mammography and US are negative or inconclusive, we recommend MRI or ductography as the next imaging technique. (↑↑)",
+      "p": "B03B_3"
+    },
+    {
+      "n": "B03B_3_2",
+      "v": "Further work-up based on clinical grounds if all imaging is negative",
+      "t": "↪ 3.2 If all imaging is negative, we recommend that any decision for further work-up be based on clinical grounds, with consideration for surgical consult. (EPc)",
+      "p": "B03B_3"
+    },
+    {
+      "n": "B03C",
+      "v": "Suspected Paget's disease of the breast/nipple",
+      "t": "Suspected Paget’s disease of the breast/nipple",
+      "p": "B03"
+    },
+    {
+      "n": "B03C_1",
+      "v": "Mammography/DBT +/- ultrasound as initial imaging for suspected Paget's disease",
+      "t": "1. In females with clinical suspicion of Paget’s disease, we recommend mammography/DBT +/- US as the initial imaging techniques. (↑↑)",
+      "p": "B03C"
+    },
+    {
+      "n": "B03C_1_1",
+      "v": "Further intervention based on clinical grounds if mammography +/- ultrasound are negative but clinical findings remain suspicious",
+      "t": "↪ 1.1 If mammography +/- US are negative but clinical findings remain suspicious for Paget’s disease, we recommend that any decision for further intervention (e.g., punch biopsy, MRI) should be based on clinical grounds. (EPc)",
+      "p": "B03C_1"
+    },
+    {
+      "n": "B03D",
+      "v": "Suspected inflammatory breast cancer",
+      "p": "B03"
+    },
+    {
+      "n": "B03D_1",
+      "v": "Mammography/DBT and ultrasound as initial imaging for suspected inflammatory breast cancer",
+      "t": "1. In females with clinical suspicion of inflammatory breast cancer꙳, we recommend mammography/DBT and US as the initial imaging techniques. (↑↑)",
+      "p": "B03D"
+    },
+    {
+      "n": "B03D_1_1",
+      "v": "Further intervention based on clinical grounds if mammography and ultrasound are negative but clinical findings remain suspicious",
+      "t": "↪ 1.1 If mammography and US are negative but clinical findings remain suspicious for inflammatory breast cancer, we recommend that any decision for further intervention (e.g., punch biopsy, MRI) should be based on clinical grounds. (EPc)",
+      "p": "B03D_1"
+    },
+    {
+      "n": "B03E",
+      "v": "Suspected axillary lymphadenopathy",
+      "p": "B03"
+    },
+    {
+      "n": "B03E_1",
+      "v": "Axillary ultrasound as initial imaging for patients under 30 with palpable axillary concern",
+      "t": "1. In patients under 30 years of age with a palpable area of concern in the axilla, we suggest axillary US as the initial imaging technique. (EPc)",
+      "p": "B03E"
+    },
+    {
+      "n": "B03E_2",
+      "v": "Axillary ultrasound +/- diagnostic mammography/DBT as initial imaging for patients 30+ with palpable axillary concern",
+      "t": "2. In patients 30 years of age and older with a palpable area of concern in the axilla, we recommend axillary US ± diagnostic mammography/DBT as the initial imaging techniques. (↑↑)",
+      "p": "B03E"
+    },
+    {
+      "n": "B03E_2_1",
+      "v": "No further imaging if bilateral axillary lymphadenopathy and known systemic disease",
+      "t": "↪ 2.1 In patients with bilateral axillary lymphadenopathy on an otherwise normal mammogram AND systemic disease that is known to account for the lymphadenopathy, we recommend against further imaging. (↓↓)",
+      "p": "B03E_2"
+    },
+    {
+      "n": "B03F",
+      "v": "Pregnant/lactation symptomatic patients",
+      "p": "B03"
+    },
+    {
+      "n": "B03F_1",
+      "v": "Targeted ultrasound as initial imaging for symptomatic pregnant and lactating patients",
+      "t": "1. In symptomatic pregnant and lactating patients, we recommend targeted US as the initial imaging technique. (↑↑)",
+      "p": "B03F"
+    },
+    {
+      "n": "B03F_1_1",
+      "v": "Mammography/DBT as next imaging if ultrasound findings are indeterminate or suspicious",
+      "t": "↪ 1.1 In patients with US findings that are indeterminate or suspicious, we recommend mammography/DBT as the next imaging technique. (↑↑)",
+      "p": "B03F_1"
+    },
+    {
+      "n": "B03F_1_2",
+      "v": "Further intervention based on clinical grounds if ultrasound and mammography are negative but clinical findings are concerning",
+      "t": "↪ 1.2 In patients with clinical findings that are concerning for malignancy, and US and mammography are negative, that any decision for further intervention (e.g., palpation-guided biopsy) should be based on clinical grounds. (EPc)",
+      "p": "B03F_1"
+    },
+    {
+      "n": "B03G",
+      "v": "Male symptomatic patients",
+      "p": "B03"
+    },
+    {
+      "n": "B03G_1",
+      "v": "No imaging for gynecomastia or pseudogynecomastia in males",
+      "t": "1. In males, of any age, with symptoms and physical examination consistent with gynecomastia or pseudogynecomastia, we recommend against imaging. (↓↓)",
+      "p": "B03G"
+    },
+    {
+      "n": "B03G_2",
+      "v": "Targeted ultrasound as initial imaging for males under 25 with suspicious findings",
+      "t": "2. In males under the age of 25 presenting with suspicious physical examination findings꙳, we recommend targeted US as the initial imaging technique. (↑↑)",
+      "p": "B03G"
+    },
+    {
+      "n": "B03G_3",
+      "v": "Mammography/DBT or ultrasound as initial imaging for males 25+ with suspicious findings",
+      "t": "3. In males 25 years of age and older, with suspicious physical examination findings꙳, we recommend diagnostic mammography/DBT or US as the initial imaging technique. (↑↑)",
+      "p": "B03G"
+    },
+    {
+      "n": "B03H",
+      "v": "Pediatric/adolescent symptomatic patients",
+      "p": "B03"
+    },
+    {
+      "n": "B03H_1",
+      "v": "Targeted ultrasound as initial imaging for palpable concern in pediatric/adolescent patients",
+      "t": "1. In paediatric and adolescent patients presenting with a palpable area of concern, we suggest targeted US as the initial imaging technique. (EPc)",
+      "p": "B03H"
+    },
+    {
+      "n": "B03H_2",
+      "v": "No mammography for palpable concern in pediatric/adolescent patients",
+      "t": "2. In paediatric and adolescent patients presenting with a palpable area of concern, we recommend against mammography. (EPc)",
+      "p": "B03H"
+    },
+    {
+      "n": "B04",
+      "v": "Previous diagnosis of a high-risk lesion"
+    },
+    {
+      "n": "B04_1",
+      "v": "Annual mammography/DBT screening starting at diagnosis, not before 30, for previous high-risk lesion",
+      "t": "1. In females with a previous diagnosis of a high-risk lesion꙳, we recommend annual mammography/DBT screening beginning at diagnosis, but not earlier than 30 years of age. (↑↑)",
+      "p": "B04"
+    },
+    {
+      "n": "B04_1_1",
+      "v": "Annual MRI as adjunct for extremely dense breast tissue",
+      "t": "↪ 1.1 In females with extremely dense breast tissue (i.e., ACR category D), we suggest annual MRI as an adjunct. (↑)",
+      "p": "B04_1"
+    },
+    {
+      "n": "B04_1_2",
+      "v": "Screening ultrasound as substitute if MRI is not tolerated, contraindicated, or unavailable",
+      "t": "↪ 1.2 In females where MRI is not tolerated, contraindicated, or unavailable, we suggest screening US as a substitute. (↑)",
+      "p": "B04_1"
+    },
+    {
+      "n": "B05",
+      "v": "Assessment of breast implants"
+    },
+    {
+      "n": "B05_1",
+      "v": "No imaging for implant evaluation in asymptomatic people",
+      "t": "1. In asymptomatic people, with breast implants of any type, we recommend against imaging for implant evaluation. (↓↓)",
+      "p": "B05"
+    },
+    {
+      "n": "B05_2",
+      "v": "No imaging for clinically definitive saline implant rupture",
+      "t": "2. In people with saline breast implants and clinically definitive rupture, we recommend against imaging. (↓↓)",
+      "p": "B05"
+    },
+    {
+      "n": "B05_3",
+      "v": "Ultrasound as initial imaging for suspected implant complications in under 30s",
+      "t": "3. In people under 30 years of age with suspected breast implant complications, we recommend US as the initial imaging technique. (↑↑)",
+      "p": "B05"
+    },
+    {
+      "n": "B05_4",
+      "v": "Mammography/DBT and ultrasound as initial imaging for suspected implant complications in 30+",
+      "t": "4. In people 30 years and older with suspected breast implant complications, we recommend mammography/DBT and US as the initial imaging techniques. (↑↑)",
+      "p": "B05"
+    },
+    {
+      "n": "B05_5",
+      "v": "MRI for optimal assessment if mammography/ultrasound findings are equivocal for suspected silicone implant rupture or lymphoma",
+      "t": "5. In people with suspected rupture of silicone breast implant or implant associated lymphoma and equivocal mammography/US findings, we recommend MRI for optimal assessment. (↑↑)",
+      "p": "B05"
+    },
+    {
+      "n": "B06",
+      "v": "Breast pain assessment"
+    },
+    {
+      "n": "B06A",
+      "v": "Cyclic or non-cyclic diffuse breast pain",
+      "p": "B06"
+    },
+    {
+      "n": "B06A_1",
+      "v": "No imaging beyond usual screening recommendations for cyclical, intermittent, or non-cyclic diffuse breast pain",
+      "t": "1. In patients with cyclical breast pain, intermittent breast pain, or non-cyclic diffuse breast pain, we recommend against imaging, beyond usual screening recommendations. (↓↓)",
+      "p": "B06A"
+    },
+    {
+      "n": "B06B",
+      "v": "Non-cyclic focal breast pain",
+      "p": "B06"
+    },
+    {
+      "n": "B06B_1",
+      "v": "Targeted ultrasound as initial imaging for focal, non-cyclical persistent breast pain in under 30s",
+      "t": "1. In patients under 30 years of age with focal, non-cyclical persistent breast pain, we suggest targeted US as the initial imaging technique. (↑)",
+      "p": "B06B"
+    },
+    {
+      "n": "B06B_2",
+      "v": "Bilateral mammography/DBT and targeted ultrasound as initial imaging for focal, non-cyclical persistent breast pain in 30+",
+      "t": "2. In patients 30 years of age and older, with focal, non-cyclical persistent breast pain, we recommend bilateral mammography/DBT and targeted US as the initial imaging techniques. (↑↑)",
+      "p": "B06B"
+    },
+    {
+      "n": "B07",
+      "v": "Mastitis/infection and abscess assessment"
+    },
+    {
+      "n": "B07_1",
+      "v": "Mastitis/infection and abscess assessment: initial imaging",
+      "t": "1. In patients with clinical signs and symptoms of mastitis and suspected breast abscess, we recommend targeted US as the initial imaging technique. (↑↑)",
+      "p": "B07"
+    },
+    {
+      "n": "B07_2",
+      "v": "Mastitis without clinical improvement",
+      "t": "2. In patients with no clinical improvement in suspected mastitis following antibiotics, we suggest diagnostic mammography/DBT and US as the initial imaging techniques. (EPc)",
+      "p": "B07"
+    },
+    {
+      "n": "B08",
+      "v": "Patients with a history of breast cancer"
+    },
+    {
+      "n": "B08_1",
+      "v": "Asymptomatic patients with history of breast cancer: surveillance",
+      "t": "1. In asymptomatic patients, with a personal history of breast cancer, we recommend annual surveillance mammography/DBT. (↑↑)",
+      "p": "B08"
+    },
+    {
+      "n": "B08_1_1",
+      "v": "History of breast cancer with extremely dense breasts: surveillance",
+      "t": "↪ 1.1 In patients with history of breast cancer and extremely dense breast tissue (i.e., ACR category D), we suggest supplemental annual surveillance with US or MRI. (↑)",
+      "p": "B08_1"
+    },
+    {
+      "n": "B08_2",
+      "v": "History of breast cancer: contralateral surveillance",
+      "t": "2. In patients with a history of breast cancer, we recommend contralateral annual surveillance mammography/DBT. (↑↑)",
+      "p": "B08"
+    },
+    {
+      "n": "B08_2_1",
+      "v": "History of breast cancer and extremely dense breasts (ACR category D): supplemental surveillance",
+      "t": "↪ 2.1 In patients with history of breast cancer and extremely dense breast tissue (i.e., ACR category D), we suggest supplemental annual surveillance with US or MRI. (↑)",
+      "p": "B08_2"
+    },
+    {
+      "n": "B08_3",
+      "v": "History of breast cancer without breast reconstruction: surveillance",
+      "t": "3. In patients with therapeutic mastectomy (bilateral or unilateral) without breast reconstruction, we suggest no imaging for breast cancer surveillance on the side(s) of mastectomy. (↓)",
+      "p": "B08"
+    },
+    {
+      "n": "B08_4",
+      "v": "History of breast cancer without breast reconstruction with palpable concern: initial imaging",
+      "t": "4. In patients with therapeutic mastectomy without reconstruction presenting with a palpable area of concern, we recommend targeted US as the initial imaging technique. (↑↑)",
+      "p": "B08"
+    },
+    {
+      "n": "B08_5",
+      "v": "History of breast cancer, mastectomy and reconstruction: surveillance",
+      "t": "5. In patients with therapeutic mastectomy and reconstruction (bilateral or unilateral), we suggest no imaging for breast cancer surveillance on the reconstructed side(s). (↓)",
+      "p": "B08"
+    },
+    {
+      "n": "B08_6",
+      "v": "History of breast cancer with mastectomy and reconstruction with palpable concern: initial imaging",
+      "t": "6. In patients with therapeutic mastectomy and reconstruction presenting with a palpable area of concern, we recommend mammography/DBT and targeted US as the initial imaging techniques. (↑↑)",
+      "p": "B08"
+    },
+    {
+      "n": "B09",
+      "v": "Patients following risk-reduction mastectomy (with or without autologous or implant-based reconstruction)"
+    },
+    {
+      "n": "B09_1",
+      "v": "Reconstructed side(s) after risk-reduction mastectomy for breast cancer: screening",
+      "t": "1. In patients with risk-reduction mastectomy and reconstruction (bilateral or unilateral), we suggest no imaging for breast cancer screening on the reconstructed side(s). (↓)",
+      "p": "B09"
+    },
+    {
+      "n": "B09_2",
+      "v": "Palpable concern after risk-reduction mastectomy with reconstruction: initial imaging",
+      "t": "2. In patients with risk-reduction mastectomy and reconstruction presenting with a palpable area of concern, we recommend mammography/DBT and targeted US as the initial imaging techniques. (↑↑)",
+      "p": "B09"
+    },
+    {
+      "n": "B09_3",
+      "v": "After risk-reduction mastectomy without reconstruction: screening",
+      "t": "3. In patients with risk-reduction mastectomy without reconstruction, we suggest no imaging for breast cancer screening. (↓)",
+      "p": "B09"
+    },
+    {
+      "n": "B09_4",
+      "v": "Palpable concern after risk-reduction mastectomy without reconstruction: initial imaging",
+      "t": "4. In patients with risk-reduction mastectomy without reconstruction presenting with a palpable area of concern, we recommend targeted US as the initial imaging technique. (↑↑)",
+      "p": "B09"
+    }
+  ]
+}
