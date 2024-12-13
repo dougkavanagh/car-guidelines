@@ -17,25 +17,25 @@
     },
     {
       "n": "H01A_2",
-      "v": "Uncomplicated Acute Sinusitis: initial imaging",
+      "v": "Uncomplicated Acute Sinusitis",
       "t": "2. In adults with uncomplicated acute sinusitis (≤4 weeks), we recommend against imaging. (↓↓)",
       "c": "H01A"
     },
     {
       "n": "H01A_3",
-      "v": "Acute Sinusitis with Complications: CT",
+      "v": "Acute Sinusitis with suspected complications: initial imaging",
       "t": "3. In adults with acute sinusitis with suspected complications, we recommend CT as the initial imaging modality. (↑↑)",
       "c": "H01A"
     },
     {
       "n": "H01A_3_1",
-      "v": "Sinusitis with Intraorbital/Intracranial Complications: MRI",
+      "v": "Sinusitis with Intraorbital/Intracranial Complications: next imaging (MRI)",
       "t": "↪ 3.1 In adults where there is clinical or radiologic concern for intraorbital or intracranial complication, we suggest MRI as the next imaging modality.",
       "c": "H01A"
     },
     {
       "n": "H01A_4",
-      "v": "Chronic or Recurrent Acute Sinusitis: CT",
+      "v": "Chronic or Recurrent Acute Sinusitis: initial imaging",
       "t": "4. In adults who meet the definition (e.g., Canadian Consensus Guidelines) of chronic sinusitis OR for recurrent acute sinusitis, we suggest CT as the initial imaging modality (↑).",
       "c": "H01A"
     },
@@ -45,13 +45,13 @@
     },
     {
       "n": "H01B_1",
-      "v": "Suspected Sinonasal Tumour: Initial CT",
+      "v": "Suspected Sinonasal Tumour: initial imaging",
       "t": "1. In adults with suspected sinonasal tumour, we recommend CT as the initial imaging modality. (↑↑)",
       "c": "H01B"
     },
     {
       "n": "H01B_2",
-      "v": "Sinonasal Tumour Follow-up: MRI",
+      "v": "Sinonasal Tumour Follow-up: next imaging (MRI)",
       "t": "↪ 1.1 In adults with suspected sinonasal tumour on CT, we recommend <b>MRI</b> as the next imaging modality. (↑↑)",
       "c": "H01B"
     },
@@ -603,7 +603,7 @@
     },
     {
       "n": "M13",
-      "v": "Metabolic Bone Disease",
+      "v": "Metabolic Bone Disease, including osteoporosis and osteomalacia",
       "t": "Metabolic bone disease, including osteoporosis and osteomalacia"
     },
     {
@@ -638,30 +638,30 @@
     },
     {
       "n": "M14",
-      "v": "Stress Fracture",
+      "v": "Stress fracture (insufficiency, fatigue)",
       "t": "Stress fracture (insufficiency, fatigue)"
     },
     {
       "n": "M14_1",
-      "v": "Stress Fracture: initial imaging",
+      "v": "Stress fracture: initial imaging",
       "t": "1. In adults with suspected stress (fatigue or insufficiency) fracture, we recommend XR of the area of interest as the initial imaging modality. (↑↑)",
       "c": "M14"
     },
     {
       "n": "M14_1_1",
-      "v": "Stress Fracture: follow-up imaging",
+      "v": "Stress fracture: follow-up imaging",
       "t": "↪ 1.1 If further investigation is required for evaluation of suspected stress fracture, we recommend MRI for the pelvis and hip and suggest MRI for any other sites as the next imaging modality. (↑↑/EPc)",
       "c": "M14"
     },
     {
       "n": "M14_1_2",
-      "v": "Stress Fracture: Alternative Assessment",
+      "v": "Stress fracture: Alternative Assessment",
       "t": "↪ 1.2 If MRI is unavailable or is contraindicated or would result in a clinically significant delay in diagnosis, we suggest CT. (↑)",
       "c": "M14"
     },
     {
       "n": "M14_1_3",
-      "v": "Stress Fracture: CT Unavailable",
+      "v": "Stress fracture: CT Unavailable",
       "t": "↪ 1.3 If CT is unavailable, we suggest NM (bone scan). (↑)",
       "c": "M14"
     },
@@ -3389,23 +3389,34 @@
     },
     {
       "n": "T01",
-      "v": "CT head for acute head trauma in adults meeting imaging criteria",
+      "v": "Acute head trauma / head injury",
       "t": "Acute head trauma in adults"
     },
     {
+      "n": "T01_1",
+      "v": "Acute head injury: initial imaging",
+      "t": "1. In adults who have sustained an acute head injury who meet criteria for imaging according to a clinical decision rule (e.g., CCHR, NEXUS II, etc.), we recommend <b>CT head</b> as the initial imaging modality. [see page 9 for CCHR and NEXUS criteria] (↑↑)",
+      "c": "T01"
+    },
+    {
       "n": "T01_2",
-      "v": "No X-Ray except as problem-solving tool for head trauma in adults",
+      "v": "Acute head injury: No X-Ray except as problem-solving tool",
       "t": "2. In adults who have sustained an acute head injury, we recommend against <b>XR</b>, except as a problem-solving tool (e.g., gunshot wounds). (↓↓)",
       "c": "T01"
     },
     {
       "n": "T02",
-      "v": "CT head for acute head trauma in children meeting imaging criteria",
+      "v": "Acute head trauma in children",
       "t": "Acute head trauma in children"
     },
     {
+      "n": "T02_1",
+      "v": "Acute head trauma in children: initial imaging",
+      "t": "1. In children who have sustained an acute head injury who meet criteria for imaging according to a clinical decision rule (e.g., PECARN, CATCH), we recommend <b>CT head</b> as the initial imaging modality. [see page 10 for PECARN and CATCH criteria] (↑↑)"
+    },
+    {
       "n": "T02_2",
-      "v": "No X-Ray except as problem-solving tool for head trauma in children",
+      "v": "Acute head trauma in children: No X-Ray except as problem-solving tool",
       "t": "2. In children who have sustained an acute head injury, we recommend against <b>XR</b>, except as a problem-solving tool (e.g., gunshot wounds, non-accidental trauma) (↓↓)",
       "c": "T02"
     },
@@ -3414,14 +3425,20 @@
       "v": "Acute facial trauma"
     },
     {
+      "n": "T03_1",
+      "v": "Acute facial trauma: Initial imaging",
+      "t": "1. In patients with facial trauma, we recommend <b>CT</b> as the initial imaging modality. (↑↑)",
+      "c": "T03"
+    },
+    {
       "n": "T03_2",
-      "v": "No X-Ray for isolated facial trauma",
+      "v": "Acute facial trauma: No X-Ray for isolated facial trauma",
       "t": "2. In patients with isolated facial trauma*, we recommend against <b>XR</b>. (↓↓)",
       "c": "T03"
     },
     {
       "n": "T03_2_1",
-      "v": "OPG for suspected mandibular fracture if CT unavailable",
+      "v": "Acute facial trauma: OPG (Orthopantomagram) for suspected mandibular fracture if CT unavailable",
       "t": "↪ 2.1 *In patients with suspected mandibular fracture, we suggest <b>OPG</b> if CT is not available. (↑)",
       "c": "T03"
     },
@@ -3432,7 +3449,7 @@
     {
       "n": "T04_1",
       "v": "Acute orbital trauma: initial imaging",
-      "t": "1. In patients with orbital trauma, we recommend &lt;b&gt;CT&lt;/b&gt; as the initial imaging modality. (↑↑)",
+      "t": "1. In patients with orbital trauma, we recommend <b>CT</b> as the initial imaging modality. (↑↑)",
       "c": "T04"
     },
     {
@@ -3443,7 +3460,17 @@
     },
     {
       "n": "T05",
-      "v": "Suspected cervical spine trauma in adults"
+      "v": "Suspected cervical spine trauma in adults / c-spine trauma"
+    },
+    {
+      "a": "T05",
+      "v": "Suspected c-spine trauma in adults"
+    },
+    {
+      "n": "T05_1",
+      "v": "Suspected cervical spine trauma in adults: initial imaging",
+      "t": "1. In adults who have suspected cervical spine injury who meet criteria for imaging according to a clinical decision rule (e.g., Canadian C-Spine), we recommend a &lt;b&gt;cervical spine CT&lt;/b&gt; as the initial imaging modality. [see page 12 for C-Spine Rule] (↑↑)",
+      "c": "T05"
     },
     {
       "n": "T05_1_1",
@@ -3462,8 +3489,14 @@
       "v": "Suspected cervical spine trauma in children"
     },
     {
+      "n": "T06_1",
+      "v": "Suspected cervical spine trauma in children: High risk: initial imaging",
+      "t": "1. In children with cervical spine trauma where clinical exam and/or mechanism of injury suggest high likelihood of fracture, OR if child is difficult to assess clinically (e.g., young age, distracting injuries), OR child would undergo head or chest CT for other injuries, we recommend <b>CT</b> as the initial imaging modality. (↑↑)",
+      "c": "T06"
+    },
+    {
       "n": "T06_2",
-      "v": "X-Ray as initial imaging for cervical spine trauma in children at lower risk",
+      "v": "Suspected cervical spine trauma in children: Lower risk: initial imaging",
       "t": "2. In children with cervical spine trauma who do not meet the patient population in recommendation 1, but may require imaging (e.g., failed a clinical decision rule like PECARN), we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "T06"
     },
@@ -3492,24 +3525,30 @@
     },
     {
       "n": "T08",
-      "v": "X-Ray as initial imaging for suspected thoracolumbar fracture without deficits",
+      "v": "Suspected thoracolumbar fracture",
       "t": "Suspected thoracolumbar fracture"
     },
     {
+      "n": "T08_1",
+      "v": "Suspected thoracolumbar fracture: initial imaging",
+      "t": "1. In patients with suspected thoracolumbar spine fracture without neurological deficits, we recommend <b>XR</b>* as the initial imaging modality. (↑↑)",
+      "c": "T08"
+    },
+    {
       "n": "T08_1_1",
-      "v": "No X-Ray needed if CT of chest/abdomen/pelvis has been done",
+      "v": "Suspected thoracolumbar fracture: No X-Ray needed if CT of chest/abdomen/pelvis has been done",
       "t": "↪ 1.1 *If <b>CT</b> of the chest, abdomen, and pelvis has been performed for other indications, given that the thoracic and lumbar spine have been included, XR are not recommended for initial spine assessment. (EPc)",
       "c": "T08"
     },
     {
       "n": "T08_2",
-      "v": "CT as initial imaging for suspected thoracolumbar fracture with deficits",
+      "v": "Suspected thoracolumbar fracture with deficits: initial imaging",
       "t": "2. In patients with suspected thoracolumbar spine fracture with neurological deficits, we recommend <b>CT</b> as the initial imaging modality. (↑↑)",
       "c": "T08"
     },
     {
       "n": "T09",
-      "v": "X-Ray as initial imaging for acute hip and pelvic trauma",
+      "v": "Acute hip and pelvic trauma",
       "t": "Acute hip and pelvic trauma"
     },
     {
@@ -3520,23 +3559,23 @@
     },
     {
       "n": "T10",
-      "v": "X-Ray as initial imaging for acute shoulder trauma",
+      "v": "Acute shoulder trauma",
       "t": "Acute shoulder trauma"
     },
     {
       "n": "T10_1_1",
-      "v": "CT if X-Ray is negative or non-diagnostic",
+      "v": "Acute shoulder trauma: CT if X-Ray is negative or non-diagnostic",
       "t": "↪ 1.1 In situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest <b>CT</b> as the next imaging modality. (↑)",
       "c": "T10"
     },
     {
       "n": "T11",
-      "v": "X-Ray as initial imaging for acute elbow trauma",
+      "v": "Acute elbow trauma",
       "t": "Acute elbow trauma"
     },
     {
       "n": "T11_1_1",
-      "v": "CT if X-Ray is negative or non-diagnostic in skeletally mature patients",
+      "v": "Acute elbow trauma: CT if X-Ray is negative or non-diagnostic in skeletally mature patients",
       "t": "↪ 1.1 In skeletally mature patients, in situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT as the next imaging modality. (↑)",
       "c": "T11"
     },
