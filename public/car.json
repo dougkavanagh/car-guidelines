@@ -2,10 +2,6 @@
   "version": "1.0",
   "options": [
     {
-      "n": "H01",
-      "v": "Sinus Disease"
-    },
-    {
       "n": "H01A",
       "v": "Acute and Chronic Sinusitis"
     },
@@ -17,7 +13,7 @@
     },
     {
       "n": "H01A_2",
-      "v": "Uncomplicated Acute Sinusitis",
+      "v": "Acute Sinusitis, uncomplicated",
       "t": "2. In adults with uncomplicated acute sinusitis (≤4 weeks), we recommend against imaging. (↓↓)",
       "c": "H01A"
     },
