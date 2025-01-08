@@ -57,7 +57,8 @@
     },
     {
       "n": "H02A",
-      "v": "Pulsatile Tinnitus"
+      "v": "Pulsatile Tinnitus",
+      "c": "H02"
     },
     {
       "n": "H02A_1",
@@ -67,7 +68,8 @@
     },
     {
       "n": "H02B",
-      "v": "Non-pulsatile Tinnitus"
+      "v": "Non-pulsatile Tinnitus",
+      "c": "H02"
     },
     {
       "n": "H02B_1",
@@ -94,7 +96,8 @@
     {
       "n": "H03A",
       "v": "Palpable Nodule and Goiter",
-      "t": "Palpable nodule, including goiter"
+      "t": "Palpable nodule, including goiter",
+      "c": "H03"
     },
     {
       "n": "H03A_1",
@@ -110,7 +113,8 @@
     },
     {
       "n": "H03B",
-      "v": "Thyrotoxicosis and Hyperthyroidism"
+      "v": "Thyrotoxicosis and Hyperthyroidism",
+      "c": "H03"
     },
     {
       "n": "H03B_1",
@@ -126,7 +130,8 @@
     },
     {
       "n": "H03C",
-      "v": "Primary Hyperparathyroidism"
+      "v": "Primary Hyperparathyroidism",
+      "c": "H03"
     },
     {
       "n": "H03C_1",
@@ -878,9 +883,8 @@
       "c": "M20"
     },
     {
-      "n": "M20_2",
-      "v": "Knee pain (extensor mechanism pathology, bursitis, joint effusion, popliteal cyst/mass): initial imaging",
-      "c": "M20"
+      "a": "M20_2",
+      "v": "Knee pain (extensor mechanism pathology, bursitis, joint effusion, popliteal cyst/mass): initial imaging"
     },
     {
       "n": "M20_2_1",
@@ -1059,7 +1063,8 @@
     },
     {
       "n": "CV01A",
-      "v": "Acute coronary syndrome: ST elevation myocardial infarction (STEMI)"
+      "v": "Acute coronary syndrome: ST elevation myocardial infarction (STEMI)",
+      "c": "CV01"
     },
     {
       "n": "CV01A_1",
@@ -1075,7 +1080,8 @@
     },
     {
       "n": "CV01B",
-      "v": "Acute coronary syndrome: non-STEMI"
+      "v": "Acute coronary syndrome: non-STEMI",
+      "c": "CV01"
     },
     {
       "n": "CV01B_1",
@@ -1097,7 +1103,8 @@
     },
     {
       "n": "CV01C",
-      "v": "Acute coronary syndrome: unstable angina"
+      "v": "Acute coronary syndrome: unstable angina",
+      "c": "CV01"
     },
     {
       "n": "CV01C_1",
@@ -1119,7 +1126,8 @@
     },
     {
       "n": "CV01D",
-      "v": "Acute aortic syndrome"
+      "v": "Acute aortic syndrome",
+      "c": "CV01"
     },
     {
       "n": "CV01D_1",
@@ -1135,7 +1143,8 @@
     },
     {
       "n": "CV01E",
-      "v": "Pulmonary embolism"
+      "v": "Pulmonary embolism",
+      "c": "CV01"
     },
     {
       "n": "CV01E_1",
@@ -1211,7 +1220,8 @@
     },
     {
       "n": "CV01F",
-      "v": "Acute myocarditis"
+      "v": "Acute myocarditis",
+      "c": "CV01"
     },
     {
       "n": "CV01F_1",
@@ -1227,7 +1237,8 @@
     },
     {
       "n": "CV01G",
-      "v": "Acute pericarditis"
+      "v": "Acute pericarditis",
+      "c": "CV01"
     },
     {
       "n": "CV01G_1",
@@ -1250,7 +1261,8 @@
     {
       "n": "CV01H",
       "v": "Non-cardiac chest pain",
-      "t": "See CAR Thoracic Diagnostic Imaging Referral Guideline [39]\n- TH02. Non-specific chest pain\n- TH14. Suspected pneumothorax (non-traumatic)\n- TH15. Clinically suspected pleural effusion"
+      "t": "See CAR Thoracic Diagnostic Imaging Referral Guideline [39]\n- TH02. Non-specific chest pain\n- TH14. Suspected pneumothorax (non-traumatic)\n- TH15. Clinically suspected pleural effusion",
+      "c": "CV01"
     },
     {
       "n": "CV02A",
@@ -1337,11 +1349,14 @@
     },
     {
       "n": "CV04A",
-      "v": "Acute pericarditis"
+      "v": "Acute pericarditis",
+      "t": "See CV01G. Acute chest pain syndromes (ACPS): Acute pericarditis",
+      "c": "CV04"
     },
     {
       "n": "CV04B",
-      "v": "Pericardial effusion"
+      "v": "Pericardial effusion",
+      "c": "CV04"
     },
     {
       "n": "CV04B_1",
@@ -1369,7 +1384,8 @@
     },
     {
       "n": "CV04C",
-      "v": "Constrictive pericarditis"
+      "v": "Constrictive pericarditis",
+      "c": "CV04"
     },
     {
       "n": "CV04C_1",
@@ -1401,7 +1417,8 @@
     },
     {
       "n": "CV05A",
-      "v": "Normal variant"
+      "v": "Normal variant",
+      "c": "CV05"
     },
     {
       "n": "CV05A_1",
@@ -1435,7 +1452,8 @@
     },
     {
       "n": "CV05B",
-      "v": "Masses"
+      "v": "Masses",
+      "c": "CV05"
     },
     {
       "n": "CV05B_1",
@@ -1473,7 +1491,8 @@
     },
     {
       "n": "CV06A",
-      "v": "Aortic valve"
+      "v": "Aortic valve",
+      "c": "CV06"
     },
     {
       "n": "CV06A_1",
@@ -1543,7 +1562,8 @@
     },
     {
       "n": "CV06B",
-      "v": "Mitral valve"
+      "v": "Mitral valve",
+      "c": "CV06"
     },
     {
       "n": "CV06B_1",
@@ -1589,7 +1609,8 @@
     },
     {
       "n": "CV06C",
-      "v": "Pulmonary valve"
+      "v": "Pulmonary valve",
+      "c": "CV06"
     },
     {
       "n": "CV06C_1",
@@ -1629,7 +1650,8 @@
     },
     {
       "n": "CV06D",
-      "v": "Tricuspid valve"
+      "v": "Tricuspid valve",
+      "c": "CV06"
     },
     {
       "n": "CV06D_1",
@@ -1661,7 +1683,8 @@
     },
     {
       "n": "CV07A",
-      "v": "Cardiomyopathy: dilated"
+      "v": "Cardiomyopathy: dilated",
+      "c": "CV07"
     },
     {
       "n": "CV07A_1",
@@ -1701,7 +1724,8 @@
     },
     {
       "n": "CV07B",
-      "v": "Cardiomyopathy: hypertrophic"
+      "v": "Cardiomyopathy: hypertrophic",
+      "c": "CV07"
     },
     {
       "n": "CV07B_1",
@@ -1735,7 +1759,8 @@
     },
     {
       "n": "CV07C",
-      "v": "Cardiomyopathy: restrictive"
+      "v": "Cardiomyopathy: restrictive",
+      "c": "CV07"
     },
     {
       "n": "CV07C_1",
@@ -1769,7 +1794,8 @@
     },
     {
       "n": "CV07D",
-      "v": "Cardiomyopathy: arrhythmogenic"
+      "v": "Cardiomyopathy: arrhythmogenic",
+      "c": "CV07"
     },
     {
       "n": "CV07D_1",
@@ -1807,7 +1833,8 @@
     },
     {
       "n": "CV08A",
-      "v": "Thoraco-abdominal aneurysm"
+      "v": "Thoraco-abdominal aneurysm",
+      "c": "CV08"
     },
     {
       "n": "CV08A_1",
@@ -1847,7 +1874,8 @@
     },
     {
       "n": "CV08B",
-      "v": "Vasculitis"
+      "v": "Vasculitis",
+      "c": "CV08"
     },
     {
       "n": "CV08B_1",
@@ -1907,7 +1935,8 @@
     },
     {
       "n": "CV10A",
-      "v": "Upper and lower extremities"
+      "v": "Upper and lower extremities",
+      "c": "CV10"
     },
     {
       "n": "CV10A_1",
@@ -1929,7 +1958,8 @@
     },
     {
       "n": "CV10B",
-      "v": "Vascular malformation"
+      "v": "Vascular malformation",
+      "c": "CV10"
     },
     {
       "n": "CV10B_1",
@@ -1977,7 +2007,8 @@
     },
     {
       "n": "TH01A",
-      "v": "Pre-employment screening"
+      "v": "Pre-employment screening",
+      "c": "TH01"
     },
     {
       "n": "TH01A_1",
@@ -1999,7 +2030,8 @@
     },
     {
       "n": "TH01B",
-      "v": "Asbestos exposure"
+      "v": "Asbestos exposure",
+      "c": "TH01"
     },
     {
       "n": "TH01B_1",
@@ -2415,7 +2447,8 @@
     },
     {
       "n": "GI03A",
-      "v": "Epigastric pain"
+      "v": "Epigastric pain",
+      "c": "GI03"
     },
     {
       "n": "GI03A_1",
@@ -2437,7 +2470,8 @@
     },
     {
       "n": "GI03B",
-      "v": "Right upper quadrant pain"
+      "v": "Right upper quadrant pain",
+      "c": "GI03"
     },
     {
       "n": "GI03B_1",
@@ -2483,7 +2517,8 @@
     },
     {
       "n": "GI03C",
-      "v": "Right lower quadrant pain"
+      "v": "Right lower quadrant pain",
+      "c": "GI03"
     },
     {
       "n": "GI03C_1",
@@ -2511,7 +2546,8 @@
     },
     {
       "n": "GI03D",
-      "v": "Left upper quadrant pain"
+      "v": "Left upper quadrant pain",
+      "c": "GI03"
     },
     {
       "n": "GI03D_1",
@@ -2539,7 +2575,8 @@
     },
     {
       "n": "GI03E",
-      "v": "Left lower quadrant pain"
+      "v": "Left lower quadrant pain",
+      "c": "GI03"
     },
     {
       "n": "GI03E_1",
@@ -2669,7 +2706,8 @@
     },
     {
       "n": "GI06A",
-      "v": "Upper acute GI bleeding"
+      "v": "Upper acute GI bleeding",
+      "c": "GI06"
     },
     {
       "n": "GI06A_1",
@@ -2679,7 +2717,8 @@
     },
     {
       "n": "GI06B",
-      "v": "Lower acute GI bleeding"
+      "v": "Lower acute GI bleeding",
+      "c": "GI06"
     },
     {
       "n": "GI06B_1",
@@ -3317,7 +3356,8 @@
     },
     {
       "n": "OG10",
-      "v": "Pelvic floor evaluation in females"
+      "v": "Pelvic floor evaluation in females",
+      "t": "No recommendation. The role of imaging in evaluation of the pelvic floor is an evolving science and further research is required to guide recommendations in this field."
     },
     {
       "n": "OG11",
@@ -3757,7 +3797,8 @@
     },
     {
       "n": "B01A",
-      "v": "Screening females at average risk"
+      "v": "Screening females at average risk",
+      "c": "B01"
     },
     {
       "n": "B01A_1",
@@ -3791,7 +3832,8 @@
     },
     {
       "n": "B01B",
-      "v": "Screening trans people at average risk"
+      "v": "Screening trans people at average risk",
+      "c": "B01"
     },
     {
       "n": "B01B_1",
@@ -3829,7 +3871,8 @@
     },
     {
       "n": "B02A",
-      "v": "Screening females at increased risk"
+      "v": "Screening females at increased risk",
+      "c": "B02"
     },
     {
       "n": "B02A_1",
@@ -3869,7 +3912,8 @@
     },
     {
       "n": "B02B",
-      "v": "Screening trans people at increased risk"
+      "v": "Screening trans people at increased risk",
+      "c": "B02"
     },
     {
       "n": "B02B_1",
@@ -3885,7 +3929,8 @@
     },
     {
       "n": "B02C",
-      "v": "Screening pregnant/lactating persons at increased risk"
+      "v": "Screening pregnant/lactating persons at increased risk",
+      "c": "B02"
     },
     {
       "n": "B02C_1",
@@ -3905,7 +3950,8 @@
     },
     {
       "n": "B03A",
-      "v": "Palpable mass"
+      "v": "Palpable mass",
+      "c": "B03"
     },
     {
       "n": "B03A_1",
@@ -3933,7 +3979,8 @@
     },
     {
       "n": "B03B",
-      "v": "Suspicious nipple discharge"
+      "v": "Suspicious nipple discharge",
+      "c": "B03"
     },
     {
       "n": "B03B_1",
@@ -3968,7 +4015,7 @@
     {
       "n": "B03C",
       "v": "Suspected Paget's disease of the breast/nipple",
-      "t": "Suspected Paget’s disease of the breast/nipple"
+      "c": "B03"
     },
     {
       "n": "B03C_1",
@@ -3984,7 +4031,8 @@
     },
     {
       "n": "B03D",
-      "v": "Suspected inflammatory breast cancer"
+      "v": "Suspected inflammatory breast cancer",
+      "c": "B03"
     },
     {
       "n": "B03D_1",
@@ -4000,7 +4048,8 @@
     },
     {
       "n": "B03E",
-      "v": "Suspected axillary lymphadenopathy"
+      "v": "Suspected axillary lymphadenopathy",
+      "c": "B03"
     },
     {
       "n": "B03E_1",
@@ -4022,7 +4071,8 @@
     },
     {
       "n": "B03F",
-      "v": "Pregnant/lactation symptomatic patients"
+      "v": "Pregnant/lactation symptomatic patients",
+      "c": "B03"
     },
     {
       "n": "B03F_1",
@@ -4044,7 +4094,8 @@
     },
     {
       "n": "B03G",
-      "v": "Male symptomatic patients"
+      "v": "Male symptomatic patients",
+      "c": "B03"
     },
     {
       "n": "B03G_1",
@@ -4066,7 +4117,8 @@
     },
     {
       "n": "B03H",
-      "v": "Pediatric/adolescent symptomatic patients"
+      "v": "Pediatric/adolescent symptomatic patients",
+      "c": "B03"
     },
     {
       "n": "B03H_1",
@@ -4142,7 +4194,8 @@
     },
     {
       "n": "B06A",
-      "v": "Cyclic or non-cyclic diffuse breast pain"
+      "v": "Cyclic or non-cyclic diffuse breast pain",
+      "c": "B06"
     },
     {
       "n": "B06A_1",
@@ -4152,7 +4205,8 @@
     },
     {
       "n": "B06B",
-      "v": "Non-cyclic focal breast pain"
+      "v": "Non-cyclic focal breast pain",
+      "c": "B06"
     },
     {
       "n": "B06B_1",
