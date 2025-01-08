@@ -1249,15 +1249,12 @@
     },
     {
       "n": "CV01H",
-      "v": "Non-cardiac chest pain"
-    },
-    {
-      "n": "CV02",
-      "v": "Chronic chest pain"
+      "v": "Non-cardiac chest pain",
+      "t": "See CAR Thoracic Diagnostic Imaging Referral Guideline [39]\n- TH02. Non-specific chest pain\n- TH14. Suspected pneumothorax (non-traumatic)\n- TH15. Clinically suspected pleural effusion"
     },
     {
       "n": "CV02A",
-      "v": "Suspected chronic ischemic heart disease"
+      "v": "Chronic chest pain: Suspected chronic ischemic heart disease"
     },
     {
       "n": "CV02A_1",
@@ -1314,8 +1311,9 @@
       "c": "CV02A"
     },
     {
-      "n": "CV02B",
-      "v": "Non-cardiac chest pain"
+      "n": "Chronic chest pain: CV02B",
+      "v": "Non-cardiac chest pain",
+      "t": "See CAR Thoracic Diagnostic Imaging Referral Guideline [39], scenarios:\n- TH02. Non-specific chest pain\n- TH15. Clinically suspected pleural effusion"
     },
     {
       "n": "CV03",
