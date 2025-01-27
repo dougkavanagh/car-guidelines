@@ -63,7 +63,7 @@
     {
       "n": "H02A_1",
       "v": "Pulsatile Tinnitus: initial imaging",
-      "t": "1. In adults with pulsatile tinnitus, we suggest <b>CT</b>/<b>CT</b>A or <b>MRI</b>/MRA as the initial imaging modality.",
+      "t": "1. In adults with pulsatile tinnitus, we suggest <b>CT</b>/<b>CT</b>A or <b>MRI</b>/<b>MR</b>A as the initial imaging modality.",
       "c": "H02A"
     },
     {
@@ -136,7 +136,7 @@
     {
       "n": "H03C_1",
       "v": "Primary Hyperparathyroidism: initial imaging",
-      "t": "1. In adults with biochemically proven primary hyperparathyroidism, we recommend <b>US and <b>NM</b></b> as the initial imaging modalities for operative consideration. (↑↑)",
+      "t": "1. In adults with biochemically proven primary hyperparathyroidism, we recommend <b>US and <b>NM</b> as the initial imaging modalities for operative consideration. (↑↑)",
       "c": "H03C"
     },
     {
@@ -196,7 +196,7 @@
     {
       "n": "H06_1_1",
       "v": "Salivary Disease Follow-up: further investigation",
-      "t": "↪ 1.1  If further investigation is required, we suggest <b>MRI</b>/MR sialography as the next imaging modality. (↑)",
+      "t": "↪ 1.1  If further investigation is required, we suggest <b>MRI</b>/<b>MR</b> sialography as the next imaging modality. (↑)",
       "c": "H06"
     },
     {
@@ -1157,7 +1157,7 @@
     {
       "n": "CV01E_1",
       "v": "Low/intermediate risk PE exclusion",
-      "t": "1. In patients with suspected pulmonary embolism with low or intermediate pretest probability (as determined by a structured risk assessment tool) with a negative D-dimer, we recommend against <b>CT</b>A/MRA/VQ scan. (↓↓)",
+      "t": "1. In patients with suspected pulmonary embolism with low or intermediate pretest probability (as determined by a structured risk assessment tool) with a negative D-dimer, we recommend against <b>CT</b>A/<b>MR</b>A/VQ scan. (↓↓)",
       "c": "CV01E"
     },
     {
@@ -2434,7 +2434,7 @@
     {
       "n": "GI02_2",
       "v": "Acute nonlocalized abdominal pain in non-pregnant patients",
-      "t": "2. In non-pregnant patients with acute nonlocalized abdominal pain and/or bowel obstruction, we suggest <b><b>XR</b></b> as the initial imaging modality. (↑)",
+      "t": "2. In non-pregnant patients with acute nonlocalized abdominal pain and/or bowel obstruction, we suggest <b>XR</b> as the initial imaging modality. (↑)",
       "c": "GI02"
     },
     {
@@ -2484,7 +2484,7 @@
     {
       "n": "GI03B_1",
       "v": "Right upper quadrant pain, suspected hepatobiliary disease",
-      "t": "1. In patients with right upper quadrant pain (suspected hepatobiliary disease), we recommend against <b><b>XR</b></b>. (↓↓)",
+      "t": "1. In patients with right upper quadrant pain (suspected hepatobiliary disease), we recommend against <b>XR</b>. (↓↓)",
       "c": "GI03B"
     },
     {
@@ -2520,7 +2520,7 @@
     {
       "n": "GI03B_3_2",
       "v": "Right upper quadrant pain, non-hepatobiliary disease, ultrasound and <b>CT</b> unavailable",
-      "t": "↪ 3.2 If <b>US</b> and <b>CT</b> are not immediately available, we suggest <b><b>XR</b></b> as the initial imaging modality. (EPc)",
+      "t": "↪ 3.2 If <b>US</b> and <b>CT</b> are not immediately available, we suggest <b>XR</b> as the initial imaging modality. (EPc)",
       "c": "GI03B"
     },
     {
@@ -2578,7 +2578,7 @@
     {
       "n": "GI03D_2_2",
       "v": "Left upper quadrant pain, unknown etiology, ultrasound and <b>CT</b> unavailable",
-      "t": "↪ 2.2 If <b>US</b> and <b>CT</b> are not immediately available, we suggest <b><b>XR</b></b> as the initial imaging modality. (EPc)",
+      "t": "↪ 2.2 If <b>US</b> and <b>CT</b> are not immediately available, we suggest <b>XR</b> as the initial imaging modality. (EPc)",
       "c": "GI03D"
     },
     {
@@ -2595,7 +2595,7 @@
     {
       "n": "GI03E_2",
       "v": "Left lower quadrant pain, other intraabdominal cause",
-      "t": "2. In patients with left lower quadrant pain (other intraabdominal cause), we recommend <b><b>XR</b></b> as the initial imaging modality. (EPc)",
+      "t": "2. In patients with left lower quadrant pain (other intraabdominal cause), we recommend <b>XR</b> as the initial imaging modality. (EPc)",
       "c": "GI03E"
     },
     {
@@ -2776,7 +2776,7 @@
     },
     {
       "n": "GI08A_1_1",
-      "v": "Acute abnormal liver biochemistry, <b>CT</b>/MRI if ultrasound inconclusive",
+      "v": "Acute abnormal liver biochemistry, <b>CT</b>/<b>MR</b>I if ultrasound inconclusive",
       "t": "↪ 1.1 If <b>US</b> is inconclusive or if further investigation is required, we suggest <b>CT abdomen</b> or <b>MR abdomen</b> (equivalent alternatives) as the next imaging modality. (↑)",
       "c": "GI08A"
     },
@@ -2873,7 +2873,7 @@
     {
       "n": "GI10_2_1",
       "v": "Suspected perianal fistula, endoanal ultrasound if <b>MRI</b> unavailable",
-      "t": "↪ 2.1 If <b>MRI</b> is not available or contraindicated, we suggest <b>endoanal <b>US</b></b> as an alternative imaging modality. (↑)",
+      "t": "↪ 2.1 If <b>MRI</b> is not available or contraindicated, we suggest <b>endoanal <b>US</b> as an alternative imaging modality. (↑)",
       "c": "GI10"
     },
     {
@@ -2885,7 +2885,7 @@
     {
       "n": "GI10_3_1",
       "v": "Suspected perianal abscess, endoanal ultrasound if <b>MRI</b> unavailable",
-      "t": "↪ 3.1 If <b>MRI</b> is not available or contraindicated, we suggest <b>endoanal <b>US</b></b> as an alternative imaging modality. (↑)",
+      "t": "↪ 3.1 If <b>MRI</b> is not available or contraindicated, we suggest <b>endoanal <b>US</b> as an alternative imaging modality. (↑)",
       "c": "GI10"
     },
     {
@@ -3206,7 +3206,7 @@
     },
     {
       "n": "OG4_3_2",
-      "v": "Clinical monitoring and follow-up ultrasound if <b>CT</b>/MRI unavailable",
+      "v": "Clinical monitoring and follow-up ultrasound if <b>CT</b>/<b>MR</b>I unavailable",
       "t": "↪ 3.2 If <b>CT</b> and <b>MRI</b> are unavailable or contraindicated, we suggest close clinical monitoring and follow-up <b>US</b>. (EPc)",
       "c": "OG4"
     },
@@ -3443,7 +3443,7 @@
     {
       "n": "T01_2",
       "v": "Acute head injury: No X-Ray except as problem-solving tool",
-      "t": "2. In adults who have sustained an acute head injury, we recommend against <b><b>XR</b></b>, except as a problem-solving tool (e.g., gunshot wounds). (↓↓)",
+      "t": "2. In adults who have sustained an acute head injury, we recommend against <b>XR</b>, except as a problem-solving tool (e.g., gunshot wounds). (↓↓)",
       "c": "T01"
     },
     {
@@ -3459,7 +3459,7 @@
     {
       "n": "T02_2",
       "v": "Acute head trauma in children: No X-Ray except as problem-solving tool",
-      "t": "2. In children who have sustained an acute head injury, we recommend against <b><b>XR</b></b>, except as a problem-solving tool (e.g., gunshot wounds, non-accidental trauma) (↓↓)",
+      "t": "2. In children who have sustained an acute head injury, we recommend against <b>XR</b>, except as a problem-solving tool (e.g., gunshot wounds, non-accidental trauma) (↓↓)",
       "c": "T02"
     },
     {
@@ -3475,12 +3475,12 @@
     {
       "n": "T03_2",
       "v": "Acute facial trauma: No X-Ray for isolated facial trauma",
-      "t": "2. In patients with isolated facial trauma*, we recommend against <b><b>XR</b></b>. (↓↓)",
+      "t": "2. In patients with isolated facial trauma*, we recommend against <b>XR</b>. (↓↓)",
       "c": "T03"
     },
     {
       "n": "T03_2_1",
-      "v": "Acute facial trauma: OPG (Orthopantomagram) for suspected mandibular fracture if <b>CT</b> unavailable",
+      "v": "Acute facial trauma: OPG (Orthopantomagram) for suspected mandibular fracture",
       "t": "↪ 2.1 *In patients with suspected mandibular fracture, we suggest <b>OPG</b> if <b>CT</b> is not available. (↑)",
       "c": "T03"
     },
@@ -3497,12 +3497,12 @@
     {
       "n": "T04_2",
       "v": "Acute orbital trauma: No x-ray unless query metallic foreign body",
-      "t": "2. In patients with orbital trauma, we recommend against <b><b>XR</b></b>, except when the clinical question is exclusion of retained metallic foreign body. (↓↓)",
+      "t": "2. In patients with orbital trauma, we recommend against <b>XR</b>, except when the clinical question is exclusion of retained metallic foreign body. (↓↓)",
       "c": "T04"
     },
     {
       "n": "T05",
-      "v": "Suspected cervical spine trauma in adults / c-spine trauma"
+      "v": "Suspected cervical spine trauma in adults"
     },
     {
       "a": "T05",
@@ -3511,13 +3511,13 @@
     {
       "n": "T05_1",
       "v": "Suspected cervical spine trauma in adults: initial imaging",
-      "t": "1. In adults who have suspected cervical spine injury who meet criteria for imaging according to a clinical decision rule (e.g., Canadian C-Spine), we recommend a &lt;b&gt;cervical spine <b>CT</b>&lt;/b&gt; as the initial imaging modality. [see page 12 for C-Spine Rule] (↑↑)",
+      "t": "1. In adults who have suspected cervical spine injury who meet criteria for imaging according to a clinical decision rule (e.g., Canadian C-Spine), we recommend a <b>cervical spine <b>CT</b> as the initial imaging modality. [see page 12 for C-Spine Rule] (↑↑)",
       "c": "T05"
     },
     {
       "n": "T05_1_1",
-      "v": "X-Ray if <b>CT</b> is not readily available for low-risk patients",
-      "t": "↪ 1.1 In low-risk patients, in settings where <b>CT</b> is not readily available, we suggest <b><b>XR</b></b> as the initial imaging modality. (↑)",
+      "v": "Suspected cervical spine trauma in adults: alternative imaging for low-risk",
+      "t": "↪ 1.1 In low-risk patients, in settings where <b>CT</b> is not readily available, we suggest <b>XR</b> as the initial imaging modality. (↑)",
       "c": "T05"
     },
     {
@@ -3539,7 +3539,7 @@
     {
       "n": "T06_2",
       "v": "Suspected cervical spine trauma in children: Lower risk: initial imaging",
-      "t": "2. In children with cervical spine trauma who do not meet the patient population in recommendation 1, but may require imaging (e.g., failed a clinical decision rule like PECARN), we recommend <b><b>XR</b></b> as the initial imaging modality. (↑↑)",
+      "t": "2. In children with cervical spine trauma who do not meet the patient population in recommendation 1, but may require imaging (e.g., failed a clinical decision rule like PECARN), we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "T06"
     },
     {
@@ -3556,12 +3556,12 @@
     },
     {
       "n": "T07",
-      "v": "CT angiogram as initial imaging for suspected head/neck vascular injury",
-      "t": "Suspected head and neck vascular injury, including penetrating injury"
+      "v": "Suspected head and neck vascular injury: initial imaging",
+      "t": "In patients with suspected head and neck vascular injury, we recommend <b>CT angiogram</b> as the initial imaging modality (↑↑)."
     },
     {
       "n": "T07_1_1",
-      "v": "CT venogram if significant venous injury is suspected",
+      "v": "Suspected head and neck vascular injury: if significant venous injury is suspected",
       "t": "↪ 1.1 *In patients where there is suspicion of significant/management altering venous injury, we recommend including <b>CT venogram</b>. (↑↑)",
       "c": "T07"
     },
@@ -3573,13 +3573,13 @@
     {
       "n": "T08_1",
       "v": "Suspected thoracolumbar fracture: initial imaging",
-      "t": "1. In patients with suspected thoracolumbar spine fracture without neurological deficits, we recommend <b><b>XR</b></b>* as the initial imaging modality. (↑↑)",
+      "t": "1. In patients with suspected thoracolumbar spine fracture without neurological deficits, we recommend <b>XR</b>* as the initial imaging modality. (↑↑)",
       "c": "T08"
     },
     {
       "n": "T08_1_1",
-      "v": "Suspected thoracolumbar fracture: No X-Ray needed if <b>CT</b> of chest/abdomen/pelvis has been done",
-      "t": "↪ 1.1 *If <b>CT</b> of the chest, abdomen, and pelvis has been performed for other indications, given that the thoracic and lumbar spine have been included, <b>XR</b> are not recommended for initial spine assessment. (EPc)",
+      "v": "Suspected thoracolumbar fracture: No X-Ray needed if <b>CT</b>",
+      "t": "↪ 1.1 *If <b>CT</b> of the chest, abdomen, and pelvis has been performed for other indications, given that the thoracic and lumbar spine have been included, <b>XR</b> is not recommended for initial spine assessment. (EPc)",
       "c": "T08"
     },
     {
@@ -3595,7 +3595,7 @@
     },
     {
       "n": "T09_1_1",
-      "v": "CT if X-Ray is negative but clinical concern persists",
+      "v": "Acute hip and pelvic trauma: X-Ray negative but clinical concern persists",
       "t": "↪ 1.1 In situations where <b>XR</b> is negative and there is persistent clinical concern for hip and/or pelvic fracture, we recommend <b>CT</b> as the next imaging modality. (↑↑)",
       "c": "T09"
     },
@@ -3606,7 +3606,7 @@
     },
     {
       "n": "T10_1_1",
-      "v": "Acute shoulder trauma: <b>CT</b> if X-Ray is negative or non-diagnostic",
+      "v": "Acute shoulder trauma: if X-Ray is negative or non-diagnostic",
       "t": "↪ 1.1 In situations where <b>XR</b> is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest <b>CT</b> as the next imaging modality. (↑)",
       "c": "T10"
     },
@@ -3617,7 +3617,7 @@
     },
     {
       "n": "T11_1_1",
-      "v": "Acute elbow trauma: <b>CT</b> if X-Ray is negative or non-diagnostic in skeletally mature patients",
+      "v": "Acute elbow trauma: if X-Ray is negative or non-diagnostic in skeletally mature patients",
       "t": "↪ 1.1 In skeletally mature patients, in situations where <b>XR</b> is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest <b>CT</b> as the next imaging modality. (↑)",
       "c": "T11"
     },
@@ -3639,7 +3639,7 @@
     },
     {
       "n": "T12_1_2",
-      "v": "Acute hand and wrist trauma: scaphoid fracture suspected or <b>CT</b>/MR unavailable",
+      "v": "Acute hand and wrist trauma: scaphoid fracture suspected or <b>CT</b>/<b>MR</b> unavailable",
       "t": "↪ 1.2 If scaphoid fracture is suspected and <b>CT</b> or<b>MR</b> is not available, we recommend immobilization and repeat <b>XR</b> in 10-14 days. (↑↑)",
       "c": "T12"
     },
@@ -3719,7 +3719,7 @@
     },
     {
       "n": "T17_2",
-      "v": "Moderate to severe adult chest trauma: assessment",
+      "v": "Moderate to severe adult chest trauma: initial imaging",
       "t": "2. In adults with moderate to severe chest trauma, we recommend <b>XR</b> as the initial imaging modality, proceeding to <b>CT</b> if there is any clinical or radiological concern. (↑↑)",
       "c": "T17"
     },
@@ -3735,7 +3735,7 @@
     },
     {
       "n": "T18_2",
-      "v": "Pediatric moderate ot severe chest trauma: assessment",
+      "v": "Pediatric moderate to severe chest trauma: initial imaging",
       "t": "2. In children with moderate to severe chest trauma, we recommend <b>XR</b> as the initial imaging modality, proceeding to <b>CT</b> if there is any clinical or radiological concern. (↑↑)",
       "c": "T18"
     },
@@ -3757,8 +3757,8 @@
     },
     {
       "n": "T19_2",
-      "v": "Suspected bladder injury: <b>CT</b> cystography",
-      "t": "2. In adults with suspected bladder injury, following clinical examination and initial abdominal and pelvic <b>CT</b>, we suggest <b>CT</b> cystography. (↑)",
+      "v": "Suspected bladder injury: CT cystography",
+      "t": "2. In adults with suspected bladder injury, following clinical examination and initial abdominal and pelvic <b>CT</b>, we suggest <b>CT cystography</b>. (↑)",
       "c": "T19"
     },
     {
@@ -3779,8 +3779,8 @@
     },
     {
       "n": "T20_2",
-      "v": "Pediatric bladder injury: <b>CT</b> cystography",
-      "t": "2. In children with suspected bladder injury, following clinical examination and initial abdominal and pelvic <b>CT</b>, we suggest <b>CT</b> cystography. (↑)",
+      "v": "Pediatric bladder injury: CT cystography",
+      "t": "2. In children with suspected bladder injury, following clinical examination and initial abdominal and pelvic <b>CT</b>, we suggest <b>CT cystography</b>. (↑)",
       "c": "T20"
     },
     {
@@ -3789,88 +3789,88 @@
     },
     {
       "n": "T21_1",
-      "v": "Skeletal survey X-Ray as initial imaging for suspected non-accidental trauma in children",
+      "v": "Suspected non-accidental trauma in children: initial imaging",
       "t": "1. In children with suspected non-accidental trauma, we recommend skeletal survey <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "T21"
     },
     {
       "n": "T21_2",
-      "v": "CT head for suspected non-accidental head trauma in young children, refer to T02 for older children",
+      "v": "Suspected non-accidental head trauma in young children",
       "t": "2. If there is suspicion of non-accidental head trauma, especially in very young children, we suggest <b>CT</b> head. For older children, please refer to T02. Acute head trauma in children. (↑)",
       "c": "T21"
     },
     {
       "n": "B01",
-      "v": "Average risk screening"
+      "v": "Average risk screening for breast cancer"
     },
     {
       "n": "B01A",
-      "v": "Screening females at average risk",
+      "v": "Screening females for breast cancer at average risk",
       "c": "B01"
     },
     {
       "n": "B01A_1",
-      "v": "No routine mammography screening for females under 40",
-      "t": "1. In females younger than 40 years old, at average risk of breast cancer, we recommend against routine mammography screening. (↓↓)",
+      "v": "Mammography/DBT screening for females under 40",
+      "t": "1. In females younger than 40 years old, at average risk of breast cancer, we recommend against routine <b>mammography</b> screening. (↓↓)",
       "c": "B01A"
     },
     {
       "n": "B01A_2",
-      "v": "Annual mammography/DBT screening for females 40-49",
-      "t": "2. In females 40 to 49 years of age, at average risk of breast cancer, we suggest annual mammography/DBT screening. (↑)",
+      "v": "Mammography/DBT screening for females 40-49",
+      "t": "2. In females 40 to 49 years of age, at average risk of breast cancer, we suggest annual <b>mammography/DBT</b> screening. (↑)",
       "c": "B01A"
     },
     {
       "n": "B01A_3",
       "v": "Mammography/DBT screening every 1-2 years for females 50 and older",
-      "t": "3. In females 50 years of age and older, at average risk of breast cancer, we recommend mammography/DBT screening every one to two years. (↑↑)",
+      "t": "3. In females 50 years of age and older, at average risk of breast cancer, we recommend <b>mammography/DBT</b> screening every one to two years. (↑↑)",
       "c": "B01A"
     },
     {
       "n": "B01A_4",
-      "v": "Supplementary imaging for females with extremely dense breast tissue",
+      "v": "Breast cancer screening with extremely dense breast tissue",
       "t": "4. In females undergoing screening with mammographically confirmed extremely dense breast tissue (i.e., ACR category D), we suggest supplementary imaging. (↑)",
       "c": "B01A"
     },
     {
       "n": "B01A_4_1",
-      "v": "Supplementary imaging for females with ACR category C dense breast tissue",
+      "v": "Breast cancer screening for females with ACR category C dense breast tissue",
       "t": "↪ 4.1 In females with mammographically confirmed ACR category C dense breast tissue, we suggest supplementary imaging, depending on capacity constraints. (↑)",
       "c": "B01A"
     },
     {
       "n": "B01B",
-      "v": "Screening trans people at average risk",
+      "v": "Screening trans people for breast cancer at average risk",
       "c": "B01"
     },
     {
       "n": "B01B_1",
-      "v": "No routine mammography/DBT screening for transmasculine under 40 or transfeminine with <5 years hormone use",
-      "t": "1. In transmasculine people under 40 years of age (with or without bilateral mastectomies) and in transfeminine individuals with no or < 5 years of hormone use, at average risk of breast cancer, we recommend against routine mammography/DBT screening. (↓↓)",
+      "v": "Transmasculine under 40 or transfeminine with <5 years hormone use",
+      "t": "1. In transmasculine people under 40 years of age (with or without bilateral mastectomies) and in transfeminine individuals with no or < 5 years of hormone use, at average risk of breast cancer, we recommend against routine <b>mammography/DBT</b> screening. (↓↓)",
       "c": "B01B"
     },
     {
       "n": "B01B_2",
-      "v": "Annual mammography/DBT screening for transmasculine 40-49 without mastectomy",
-      "t": "2. In transmasculine people at average risk of breast cancer, aged 40 to 49 years of age, who have not undergone bilateral mastectomies, we suggest annual mammography/DBT screening. (↑)",
+      "v": "Transmasculine 40-49 without mastectomy",
+      "t": "2. In transmasculine people at average risk of breast cancer, aged 40 to 49 years of age, who have not undergone bilateral mastectomies, we suggest annual <b>mammography/DBT</b> screening. (↑)",
       "c": "B01B"
     },
     {
       "n": "B01B_3",
-      "v": "Mammography/DBT screening every 1-2 years for transmasculine 50+ without mastectomy",
-      "t": "3. In transmasculine people at average risk of breast cancer, aged 50 years and older, who have not undergone bilateral mastectomies, we recommend mammography/DBT screening every one to two years. (↑↑)",
+      "v": "Transmasculine 50+ without mastectomy",
+      "t": "3. In transmasculine people at average risk of breast cancer, aged 50 years and older, who have not undergone bilateral mastectomies, we recommend <b>mammography/DBT</b> screening every one to two years. (↑↑)",
       "c": "B01B"
     },
     {
       "n": "B01B_4",
-      "v": "Annual mammography/DBT screening for transfeminine 40-49 with ≥5 years hormone use",
-      "t": "4. In transfeminine people at average risk of breast cancer with or without breast implants, aged 40 to 49 years of age, with past or current hormone use for ≥ 5 years, we suggest annual mammography/DBT screening. (↑)",
+      "v": "Transfeminine 40-49 with ≥5 years hormone use",
+      "t": "4. In transfeminine people at average risk of breast cancer with or without breast implants, aged 40 to 49 years of age, with past or current hormone use for ≥ 5 years, we suggest annual <b>mammography/DBT</b> screening. (↑)",
       "c": "B01B"
     },
     {
       "n": "B01B_5",
-      "v": "Mammography/DBT screening every 1-2 years for transfeminine 50+ with ≥5 years hormone use",
-      "t": "5. In transfeminine people at average risk of breast cancer with or without breast implants, aged 50 years and older, with past or current hormone use for ≥ 5 years, we suggest mammography/DBT screening every one to two years. (↑)",
+      "v": "Transfeminine 50+ with ≥5 years hormone use",
+      "t": "5. In transfeminine people at average risk of breast cancer with or without breast implants, aged 50 years and older, with past or current hormone use for ≥ 5 years, we suggest <b>mammography/DBT</b> screening every one to two years. (↑)",
       "c": "B01B"
     },
     {
@@ -3884,72 +3884,72 @@
     },
     {
       "n": "B02A_1",
-      "v": "Annual mammography/DBT and <b>MRI</b> screening for high-risk due to prior chest wall radiation",
-      "t": "1. In females at high risk of breast cancer due to prior chest wall irradiation between the ages of 10 to 30 years, we recommend annual mammography/DBT and <b>MRI</b> screening starting 8 years after chest irradiation, but not before 25 years of age. (↑↑)",
+      "v": "Breast cancer screening, high-risk due to prior chest wall irradiation",
+      "t": "1. In females at high risk of breast cancer due to prior chest wall irradiation between the ages of 10 to 30 years, we recommend annual <b>mammography/DBT</b> and <b>MRI</b> screening starting 8 years after chest irradiation, but not before 25 years of age. (↑↑)",
       "c": "B02A"
     },
     {
       "n": "B02A_1_1",
-      "v": "Ultrasound alternative if <b>MRI</b> is not tolerated, contraindicated, or unavailable",
+      "v": "Breast cancer screening, high-risk: alternative imaging",
       "t": "↪ 1.1 If <b>MRI</b> is not tolerated, contraindicated, or unavailable, we suggest <b>US</b> as an alternative imaging technique. (↑)",
       "c": "B02A"
     },
     {
       "n": "B02A_2",
-      "v": "Annual mammography/DBT and <b>MRI</b> screening for BRCA mutation carriers",
-      "t": "2. In females with BRCA gene mutations, we recommend annual mammography/DBT and <b>MRI</b> screening, starting between the ages of 25 and 30 years. (↑↑)",
+      "v": "Breast cancer screening, BRCA mutation carriers",
+      "t": "2. In females with BRCA gene mutations, we recommend annual <b>mammography/DBT</b> and <b>MRI</b> screening, starting between the ages of 25 and 30 years. (↑↑)",
       "c": "B02A"
     },
     {
       "n": "B02A_2_1",
-      "v": "Ultrasound alternative if <b>MRI</b> is not tolerated, contraindicated, or unavailable",
+      "v": "Breast cancer screening, BRCA mutation carriers: alternative imaging",
       "t": "↪ 2.1 If <b>MRI</b> is not tolerated, contraindicated, or unavailable, we suggest <b>US</b> as an alternative imaging technique. (↑)",
       "c": "B02A"
     },
     {
       "n": "B02A_3",
-      "v": "Individualized screening decisions for other high-risk gene mutations",
+      "v": "Breast cancer screening, other high-risk gene mutations",
       "t": "3. The role of screening in females with other high-risk gene mutations is an evolving science and further research is required to guide recommendations in this field. Any decision for screening should be made through shared decision making between the physician and the patient. (EPc)",
       "c": "B02A"
     },
     {
       "n": "B02A_4",
-      "v": "Annual mammography/DBT and <b>MRI</b> screening for ≥20% lifetime risk",
-      "t": "4. In females with lifetime risk of ≥20% (based on risk assessment tool), we suggest annual mammography/DBT and supplementary screening, preferably with <b>MRI</b>, starting between the ages of 25 and 30 years. (↑)",
+      "v": "Breast cancer screening, ≥20% lifetime risk",
+      "t": "4. In females with lifetime risk of ≥20% (based on risk assessment tool), we suggest annual <b>mammography/DBT</b> and supplementary screening, preferably with <b>MRI</b>, starting between the ages of 25 and 30 years. (↑)",
       "c": "B02A"
     },
     {
       "n": "B02B",
-      "v": "Screening trans people at increased risk",
+      "v": "Breast cancer screening, trans people at increased risk",
       "c": "B02"
     },
     {
       "n": "B02B_1",
-      "v": "Identical recommendations to B02A for transfeminine ≥30 with ≥5 years hormone use",
+      "v": "Breast cancer screening, transfeminine ≥30 with ≥5 years hormone use",
       "t": "1. In transfeminine people at high risk for breast cancer꙳, aged 30 years and older, with past or current hormone use ≥ 5 years, guideline recommendations are identical to those presented in B02A.",
       "c": "B02B"
     },
     {
       "n": "B02B_2",
-      "v": "Identical recommendations to B02A for transmasculine ≥30 without mastectomy",
+      "v": "Breast cancer screening, transmasculine ≥30 without mastectomy",
       "t": "2. In transmasculine people at high risk for breast cancer꙳, aged 30 years and older, who have not undergone bilateral mastectomies, guideline recommendations are identical to those presented in B02A.",
       "c": "B02B"
     },
     {
       "n": "B02C",
-      "v": "Screening pregnant/lactating persons at increased risk",
+      "v": "Breast cancer screening, pregnant/lactating persons at increased risk",
       "c": "B02"
     },
     {
       "n": "B02C_1",
-      "v": "Mammography/DBT and supplemental ultrasound for pregnant high-risk persons",
-      "t": "1. In pregnant people at high risk of breast cancer who choose to continue screening, we suggest mammography/DBT꙳ screening and supplemental screening with <b>US</b>꙳꙳. (↑)",
+      "v": "Breast cancer screening, pregnant high-risk persons",
+      "t": "1. In pregnant people at high risk of breast cancer who choose to continue screening, we suggest <b>mammography/DBT</b>꙳ screening and supplemental screening with <b>US</b>꙳꙳. (↑)",
       "c": "B02C"
     },
     {
       "n": "B02C_2",
-      "v": "Resume annual mammography/DBT and <b>MRI</b> after 1 year for lactating high-risk persons",
-      "t": "2. In lactating people at high risk of breast cancer who choose to continue screening, we suggest that annual mammography/digital breast tomosynthesis and <b>MRI</b> screening resume after one year. (↑)",
+      "v": "Breast cancer screening, lactating high-risk persons",
+      "t": "2. In lactating people at high risk of breast cancer who choose to continue screening, we suggest that annual <b>mammography</b>/digital breast tomosynthesis and <b>MRI</b> screening resume after one year. (↑)",
       "c": "B02C"
     },
     {
@@ -3963,26 +3963,26 @@
     },
     {
       "n": "B03A_1",
-      "v": "Targeted ultrasound as initial imaging for females under 30 with palpable mass",
+      "v": "Palpable breast mass, females under 30",
       "t": "1. In females under 30 years of age with a palpable breast mass, we recommend targeted <b>US</b> of the area of clinical concern as the initial imaging technique. (↑↑)",
       "c": "B03A"
     },
     {
       "n": "B03A_1_1",
-      "v": "No further work-up if ultrasound findings are negative, based on clinical/radiologist discretion",
+      "v": "Palpable breast mass, females under 30: further investigation",
       "t": "↪ 1.1 If <b>US</b> findings are negative, we recommend that any decision for further work-up should be based on radiologist discretion and/or clinical grounds. (EPc)",
       "c": "B03A"
     },
     {
       "n": "B03A_2",
-      "v": "Mammography/DBT and targeted ultrasound as initial imaging for females 30+ with palpable mass",
-      "t": "2. In females 30 years of age and older with a palpable breast mass, we recommend mammography/DBT and targeted <b>US</b> of the area of clinical concern as the initial imaging techniques. (↑↑)",
+      "v": "Palpable breast mass, females 30 years and older",
+      "t": "2. In females 30 years of age and older with a palpable breast mass, we recommend <b>mammography/DBT</b> and targeted <b>US</b> of the area of clinical concern as the initial imaging techniques. (↑↑)",
       "c": "B03A"
     },
     {
       "n": "B03A_3",
-      "v": "Further intervention based on clinical grounds if mammography and ultrasound are negative for clinically concerning palpable mass",
-      "t": "3. In females of any age with a palpable breast mass that is clinically concerning for malignancy, and mammography and <b>US</b> are negative, we recommend that any decision for further intervention (e.g., palpation-guided biopsy, <b>MRI</b>) should be based on clinical grounds. (EPc)",
+      "v": "Palpable breast mass, further investigation",
+      "t": "3. In females of any age with a palpable breast mass that is clinically concerning for malignancy, and <b>mammography</b> and <b>US</b> are negative, we recommend that any decision for further intervention (e.g., palpation-guided biopsy, <b>MRI</b>) should be based on clinical grounds. (EPc)",
       "c": "B03A"
     },
     {
@@ -3992,31 +3992,31 @@
     },
     {
       "n": "B03B_1",
-      "v": "No imaging for physiological nipple discharge",
+      "v": "Physiological nipple discharge",
       "t": "1. In females, at any age, with physiological nipple discharge, we recommend against imaging. (↓↓)",
       "c": "B03B"
     },
     {
       "n": "B03B_2",
-      "v": "Targeted ultrasound of retroareolar region as initial imaging for non-physiological nipple discharge in females under 30",
+      "v": "Non-physiological nipple discharge, females under 30",
       "t": "2. In females under 30 years of age with non-physiological nipple discharge, we recommend targeted <b>US</b> of the retroareolar region as the initial imaging technique. (↑↑)",
       "c": "B03B"
     },
     {
       "n": "B03B_3",
-      "v": "Mammography/DBT and targeted ultrasound of retroareolar region as initial imaging for non-physiological nipple discharge in females 30+",
-      "t": "3. In females 30 years of age and older with non-physiological nipple discharge, we recommend mammography/DBT and targeted <b>US</b> of the retroareolar region as the initial imaging techniques. (↑↑)",
+      "v": "Non-physiological nipple discharge in females 30+: initial imaging",
+      "t": "3. In females 30 years of age and older with non-physiological nipple discharge, we recommend <b>mammography/DBT</b> and targeted <b>US</b> of the retroareolar region as the initial imaging techniques. (↑↑)",
       "c": "B03B"
     },
     {
       "n": "B03B_3_1",
-      "v": "MRI or ductography if mammography and ultrasound are negative or inconclusive",
-      "t": "↪ 3.1 If the mammography and <b>US</b> are negative or inconclusive, we recommend <b>MRI</b> or ductography as the next imaging technique. (↑↑)",
+      "v": "Non-physiological nipple discharge in females 30+: further investigation",
+      "t": "↪ 3.1 If the <b>mammography</b> and <b>US</b> are negative or inconclusive, we recommend <b>MRI</b> or ductography as the next imaging technique. (↑↑)",
       "c": "B03B"
     },
     {
       "n": "B03B_3_2",
-      "v": "Further work-up based on clinical grounds if all imaging is negative",
+      "v": "Non-physiological nipple discharge in females 30+: all imaging negative",
       "t": "↪ 3.2 If all imaging is negative, we recommend that any decision for further work-up be based on clinical grounds, with consideration for surgical consult. (EPc)",
       "c": "B03B"
     },
@@ -4027,14 +4027,14 @@
     },
     {
       "n": "B03C_1",
-      "v": "Mammography/DBT +/- ultrasound as initial imaging for suspected Paget's disease",
-      "t": "1. In females with clinical suspicion of Paget’s disease, we recommend mammography/DBT +/- <b>US</b> as the initial imaging techniques. (↑↑)",
+      "v": "Suspected Paget's disease: initial imaging",
+      "t": "1. In females with clinical suspicion of Paget’s disease, we recommend <b>mammography/DBT</b> +/- <b>US</b> as the initial imaging techniques. (↑↑)",
       "c": "B03C"
     },
     {
       "n": "B03C_1_1",
-      "v": "Further intervention based on clinical grounds if mammography +/- ultrasound are negative but clinical findings remain suspicious",
-      "t": "↪ 1.1 If mammography +/- <b>US</b> are negative but clinical findings remain suspicious for Paget’s disease, we recommend that any decision for further intervention (e.g., punch biopsy, <b>MRI</b>) should be based on clinical grounds. (EPc)",
+      "v": "Suspected Paget's disease: further investigation",
+      "t": "↪ 1.1 If <b>mammography</b> +/- <b>US</b> are negative but clinical findings remain suspicious for Paget’s disease, we recommend that any decision for further intervention (e.g., punch biopsy, <b>MRI</b>) should be based on clinical grounds. (EPc)",
       "c": "B03C"
     },
     {
@@ -4044,14 +4044,14 @@
     },
     {
       "n": "B03D_1",
-      "v": "Mammography/DBT and ultrasound as initial imaging for suspected inflammatory breast cancer",
-      "t": "1. In females with clinical suspicion of inflammatory breast cancer꙳, we recommend mammography/DBT and <b>US</b> as the initial imaging techniques. (↑↑)",
+      "v": "Suspected inflammatory breast cancer: initial imaging",
+      "t": "1. In females with clinical suspicion of inflammatory breast cancer꙳, we recommend <b>mammography/DBT</b> and <b>US</b> as the initial imaging techniques. (↑↑)",
       "c": "B03D"
     },
     {
       "n": "B03D_1_1",
-      "v": "Further intervention based on clinical grounds if mammography and ultrasound are negative but clinical findings remain suspicious",
-      "t": "↪ 1.1 If mammography and <b>US</b> are negative but clinical findings remain suspicious for inflammatory breast cancer, we recommend that any decision for further intervention (e.g., punch biopsy, <b>MRI</b>) should be based on clinical grounds. (EPc)",
+      "v": "Suspected inflammatory breast cancer: further investigation",
+      "t": "↪ 1.1 If <b>mammography</b> and <b>US</b> are negative but clinical findings remain suspicious for inflammatory breast cancer, we recommend that any decision for further intervention (e.g., punch biopsy, <b>MRI</b>) should be based on clinical grounds. (EPc)",
       "c": "B03D"
     },
     {
@@ -4061,19 +4061,19 @@
     },
     {
       "n": "B03E_1",
-      "v": "Axillary ultrasound as initial imaging for patients under 30 with palpable axillary concern",
+      "v": "Palpable axillary concern, females under 30",
       "t": "1. In patients under 30 years of age with a palpable area of concern in the axilla, we suggest axillary <b>US</b> as the initial imaging technique. (EPc)",
       "c": "B03E"
     },
     {
       "n": "B03E_2",
-      "v": "Axillary ultrasound +/- diagnostic mammography/DBT as initial imaging for patients 30+ with palpable axillary concern",
-      "t": "2. In patients 30 years of age and older with a palpable area of concern in the axilla, we recommend axillary <b>US</b> ± diagnostic mammography/DBT as the initial imaging techniques. (↑↑)",
+      "v": "Palpable axillary concern, females 30 years and older",
+      "t": "2. In patients 30 years of age and older with a palpable area of concern in the axilla, we recommend axillary <b>US</b> ± diagnostic <b>mammography/DBT</b> as the initial imaging techniques. (↑↑)",
       "c": "B03E"
     },
     {
       "n": "B03E_2_1",
-      "v": "No further imaging if bilateral axillary lymphadenopathy and known systemic disease",
+      "v": "Palpable axillary concern, females 30 years and older: further investigation",
       "t": "↪ 2.1 In patients with bilateral axillary lymphadenopathy on an otherwise normal mammogram AND systemic disease that is known to account for the lymphadenopathy, we recommend against further imaging. (↓↓)",
       "c": "B03E"
     },
@@ -4084,20 +4084,20 @@
     },
     {
       "n": "B03F_1",
-      "v": "Targeted ultrasound as initial imaging for symptomatic pregnant and lactating patients",
+      "v": "Pregnant/lactation symptomatic patients: initial imaging",
       "t": "1. In symptomatic pregnant and lactating patients, we recommend targeted <b>US</b> as the initial imaging technique. (↑↑)",
       "c": "B03F"
     },
     {
       "n": "B03F_1_1",
-      "v": "Mammography/DBT as next imaging if ultrasound findings are indeterminate or suspicious",
-      "t": "↪ 1.1 In patients with <b>US</b> findings that are indeterminate or suspicious, we recommend mammography/DBT as the next imaging technique. (↑↑)",
+      "v": "Pregnant/lactation symptomatic patients, indeterminate or suspicious: further investigation",
+      "t": "↪ 1.1 In patients with <b>US</b> findings that are indeterminate or suspicious, we recommend <b>mammography/DBT</b> as the next imaging technique. (↑↑)",
       "c": "B03F"
     },
     {
       "n": "B03F_1_2",
-      "v": "Further intervention based on clinical grounds if ultrasound and mammography are negative but clinical findings are concerning",
-      "t": "↪ 1.2 In patients with clinical findings that are concerning for malignancy, and <b>US</b> and mammography are negative, that any decision for further intervention (e.g., palpation-guided biopsy) should be based on clinical grounds. (EPc)",
+      "v": "Pregnant/lactation symptomatic patients, concerning for malignancy: further investigation",
+      "t": "↪ 1.2 In patients with clinical findings that are concerning for malignancy, and <b>US</b> and <b>mammography</b> are negative, that any decision for further intervention (e.g., palpation-guided biopsy) should be based on clinical grounds. (EPc)",
       "c": "B03F"
     },
     {
@@ -4107,20 +4107,20 @@
     },
     {
       "n": "B03G_1",
-      "v": "No imaging for gynecomastia or pseudogynecomastia in males",
+      "v": "Gynecomastia or pseudogynecomastia in males",
       "t": "1. In males, of any age, with symptoms and physical examination consistent with gynecomastia or pseudogynecomastia, we recommend against imaging. (↓↓)",
       "c": "B03G"
     },
     {
       "n": "B03G_2",
-      "v": "Targeted ultrasound as initial imaging for males under 25 with suspicious findings",
+      "v": "Breast physical exam findings: Males under 25 with suspicious findings: initial imaging",
       "t": "2. In males under the age of 25 presenting with suspicious physical examination findings꙳, we recommend targeted <b>US</b> as the initial imaging technique. (↑↑)",
       "c": "B03G"
     },
     {
       "n": "B03G_3",
-      "v": "Mammography/DBT or ultrasound as initial imaging for males 25+ with suspicious findings",
-      "t": "3. In males 25 years of age and older, with suspicious physical examination findings꙳, we recommend diagnostic mammography/DBT or <b>US</b> as the initial imaging technique. (↑↑)",
+      "v": "Breast physical exam findings: Males over 25 with suspicious findings: initial imaging",
+      "t": "3. In males 25 years of age and older, with suspicious physical examination findings꙳, we recommend diagnostic <b>mammography/DBT</b> or <b>US</b> as the initial imaging technique. (↑↑)",
       "c": "B03G"
     },
     {
@@ -4130,14 +4130,14 @@
     },
     {
       "n": "B03H_1",
-      "v": "Targeted ultrasound as initial imaging for palpable concern in pediatric/adolescent patients",
+      "v": "Palpable breast concern, pediatric/adolescent patients: initial imaging",
       "t": "1. In paediatric and adolescent patients presenting with a palpable area of concern, we suggest targeted <b>US</b> as the initial imaging technique. (EPc)",
       "c": "B03H"
     },
     {
       "n": "B03H_2",
-      "v": "No mammography for palpable concern in pediatric/adolescent patients",
-      "t": "2. In paediatric and adolescent patients presenting with a palpable area of concern, we recommend against mammography. (EPc)",
+      "v": "Palpable breast concern, pediatric/adolescent patients: no mammography",
+      "t": "2. In paediatric and adolescent patients presenting with a palpable area of concern, we recommend against <b>mammography</b>. (EPc)",
       "c": "B03H"
     },
     {
@@ -4146,8 +4146,8 @@
     },
     {
       "n": "B04_1",
-      "v": "Annual mammography/DBT screening starting at diagnosis, not before 30, for previous high-risk lesion",
-      "t": "1. In females with a previous diagnosis of a high-risk lesion꙳, we recommend annual mammography/DBT screening beginning at diagnosis, but not earlier than 30 years of age. (↑↑)",
+      "v": "Annual <b>mammography/DBT</b> screening starting at diagnosis, not before 30, for previous high-risk lesion",
+      "t": "1. In females with a previous diagnosis of a high-risk lesion꙳, we recommend annual <b>mammography/DBT</b> screening beginning at diagnosis, but not earlier than 30 years of age. (↑↑)",
       "c": "B04"
     },
     {
@@ -4187,13 +4187,13 @@
     {
       "n": "B05_4",
       "v": "Mammography/DBT and ultrasound as initial imaging for suspected implant complications in 30+",
-      "t": "4. In people 30 years and older with suspected breast implant complications, we recommend mammography/DBT and <b>US</b> as the initial imaging techniques. (↑↑)",
+      "t": "4. In people 30 years and older with suspected breast implant complications, we recommend <b>mammography/DBT</b> and <b>US</b> as the initial imaging techniques. (↑↑)",
       "c": "B05"
     },
     {
       "n": "B05_5",
-      "v": "MRI for optimal assessment if mammography/ultrasound findings are equivocal for suspected silicone implant rupture or lymphoma",
-      "t": "5. In people with suspected rupture of silicone breast implant or implant associated lymphoma and equivocal mammography/US findings, we recommend <b>MRI</b> for optimal assessment. (↑↑)",
+      "v": "MRI for optimal assessment if <b>mammography</b>/ultrasound findings are equivocal for suspected silicone implant rupture or lymphoma",
+      "t": "5. In people with suspected rupture of silicone breast implant or implant associated lymphoma and equivocal <b>mammography</b>/US findings, we recommend <b>MRI</b> for optimal assessment. (↑↑)",
       "c": "B05"
     },
     {
@@ -4224,8 +4224,8 @@
     },
     {
       "n": "B06B_2",
-      "v": "Bilateral mammography/DBT and targeted ultrasound as initial imaging for focal, non-cyclical persistent breast pain in 30+",
-      "t": "2. In patients 30 years of age and older, with focal, non-cyclical persistent breast pain, we recommend bilateral mammography/DBT and targeted <b>US</b> as the initial imaging techniques. (↑↑)",
+      "v": "Bilateral <b>mammography/DBT</b> and targeted ultrasound as initial imaging for focal, non-cyclical persistent breast pain in 30+",
+      "t": "2. In patients 30 years of age and older, with focal, non-cyclical persistent breast pain, we recommend bilateral <b>mammography/DBT</b> and targeted <b>US</b> as the initial imaging techniques. (↑↑)",
       "c": "B06B"
     },
     {
@@ -4241,7 +4241,7 @@
     {
       "n": "B07_2",
       "v": "Mastitis without clinical improvement",
-      "t": "2. In patients with no clinical improvement in suspected mastitis following antibiotics, we suggest diagnostic mammography/DBT and <b>US</b> as the initial imaging techniques. (EPc)",
+      "t": "2. In patients with no clinical improvement in suspected mastitis following antibiotics, we suggest diagnostic <b>mammography/DBT</b> and <b>US</b> as the initial imaging techniques. (EPc)",
       "c": "B07"
     },
     {
@@ -4251,7 +4251,7 @@
     {
       "n": "B08_1",
       "v": "Asymptomatic patients with history of breast cancer: surveillance",
-      "t": "1. In asymptomatic patients, with a personal history of breast cancer, we recommend annual surveillance mammography/DBT. (↑↑)",
+      "t": "1. In asymptomatic patients, with a personal history of breast cancer, we recommend annual surveillance <b>mammography/DBT</b>. (↑↑)",
       "c": "B08"
     },
     {
@@ -4263,7 +4263,7 @@
     {
       "n": "B08_2",
       "v": "History of breast cancer: contralateral surveillance",
-      "t": "2. In patients with a history of breast cancer, we recommend contralateral annual surveillance mammography/DBT. (↑↑)",
+      "t": "2. In patients with a history of breast cancer, we recommend contralateral annual surveillance <b>mammography/DBT</b>. (↑↑)",
       "c": "B08"
     },
     {
@@ -4293,7 +4293,7 @@
     {
       "n": "B08_6",
       "v": "History of breast cancer with mastectomy and reconstruction with palpable concern: initial imaging",
-      "t": "6. In patients with therapeutic mastectomy and reconstruction presenting with a palpable area of concern, we recommend mammography/DBT and targeted <b>US</b> as the initial imaging techniques. (↑↑)",
+      "t": "6. In patients with therapeutic mastectomy and reconstruction presenting with a palpable area of concern, we recommend <b>mammography/DBT</b> and targeted <b>US</b> as the initial imaging techniques. (↑↑)",
       "c": "B08"
     },
     {
@@ -4309,7 +4309,7 @@
     {
       "n": "B09_2",
       "v": "Palpable concern after risk-reduction mastectomy with reconstruction: initial imaging",
-      "t": "2. In patients with risk-reduction mastectomy and reconstruction presenting with a palpable area of concern, we recommend mammography/DBT and targeted <b>US</b> as the initial imaging techniques. (↑↑)",
+      "t": "2. In patients with risk-reduction mastectomy and reconstruction presenting with a palpable area of concern, we recommend <b>mammography/DBT</b> and targeted <b>US</b> as the initial imaging techniques. (↑↑)",
       "c": "B09"
     },
     {
