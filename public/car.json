@@ -8,7 +8,7 @@
     {
       "n": "H01A_1",
       "v": "Sinus Disease: X-Ray",
-      "t": "1. In adults with sinus disease, we recommend against XR. (↓↓)",
+      "t": "1. In adults with sinus disease, we recommend against <b>XR</b>. (↓↓)",
       "c": "H01A"
     },
     {
@@ -223,7 +223,7 @@
     {
       "n": "M1_1",
       "v": "Suspected Osteomyelitis / diabetic foot: initial imaging",
-      "t": "1. In adults with suspected osteomyelitis, including the diabetic foot, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with suspected osteomyelitis, including the diabetic foot, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M1"
     },
     {
@@ -257,7 +257,7 @@
     {
       "n": "M2_1",
       "v": "Septic Arthritis: initial imaging",
-      "t": "1. In adults with suspected septic arthritis, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with suspected septic arthritis, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M2"
     },
     {
@@ -281,7 +281,7 @@
     {
       "n": "M2_3",
       "v": "Arthrocentesis Guidance",
-      "t": "3. In adults with suspected septic arthritis, we suggest US or Fluoroscopy to facilitate arthrocentesis, immediately after XR, if bedside arthrocentesis is not feasible. (EPc)",
+      "t": "3. In adults with suspected septic arthritis, we suggest US or Fluoroscopy to facilitate arthrocentesis, immediately after <b>XR</b>, if bedside arthrocentesis is not feasible. (EPc)",
       "c": "M2"
     },
     {
@@ -291,7 +291,7 @@
     {
       "n": "M3_1",
       "v": "Soft Tissue Infection: initial imaging",
-      "t": "1. In adults with suspected soft tissue infection, including necrotizing fasciitis, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with suspected soft tissue infection, including necrotizing fasciitis, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M3"
     },
     {
@@ -332,7 +332,7 @@
     {
       "n": "M4_1",
       "v": "Suspected Primary Bone Tumour: initial imaging",
-      "t": "1. In adults with suspected primary bone tumour, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with suspected primary bone tumour, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M4"
     },
     {
@@ -350,7 +350,7 @@
     {
       "n": "M4_1_3",
       "v": "Equivocal Bone Tumour",
-      "t": "↪ 1.3 If XR, MRI or CT remain equivocal, we suggest NM (bone scan). (EPc)",
+      "t": "↪ 1.3 If <b>XR</b>, MRI or CT remain equivocal, we suggest NM (bone scan). (EPc)",
       "c": "M4"
     },
     {
@@ -367,13 +367,13 @@
     {
       "n": "M5_2",
       "v": "Focal Symptomatic Sites",
-      "t": "2. In adults with suspected bone metastases, we recommend XR as the initial imaging modality for assessment of focal symptomatic sites, or for correlation with a NM, MRI or CT finding. (↑↑)",
+      "t": "2. In adults with suspected bone metastases, we recommend <b>XR</b> as the initial imaging modality for assessment of focal symptomatic sites, or for correlation with a NM, MRI or CT finding. (↑↑)",
       "c": "M5"
     },
     {
       "n": "M5_3",
       "v": "Local Metastasis Assessment",
-      "t": "3. In adults with metastases seen on XR requiring further local assessment or staging, we recommend MRI. (↑↑)",
+      "t": "3. In adults with metastases seen on <b>XR</b> requiring further local assessment or staging, we recommend MRI. (↑↑)",
       "c": "M5"
     },
     {
@@ -385,7 +385,7 @@
     {
       "n": "M5_4",
       "v": "Skeletal Survey",
-      "t": "4. In adults with suspected metastases, we recommend against skeletal survey XR. (↓↓)",
+      "t": "4. In adults with suspected metastases, we recommend against skeletal survey <b>XR</b>. (↓↓)",
       "c": "M5"
     },
     {
@@ -414,13 +414,13 @@
     {
       "n": "M6_1_2",
       "v": "Myeloma staging: alternative imaging",
-      "t": "↪ 1.2 If whole-body CT, PET/CT, and MRI are unavailable or contraindicated, we suggest XR (skeletal survey). (↑)",
+      "t": "↪ 1.2 If whole-body CT, PET/CT, and MRI are unavailable or contraindicated, we suggest <b>XR</b> (skeletal survey). (↑)",
       "c": "M6"
     },
     {
       "n": "M6_2",
       "v": "Known Myeloma﹘focal symptomatic sites: assessment",
-      "t": "2. In adults with known myeloma, we recommend XR for assessment of focal symptomatic sites, or for correlation with an MRI or CT finding. (↑↑)",
+      "t": "2. In adults with known myeloma, we recommend <b>XR</b> for assessment of focal symptomatic sites, or for correlation with an MRI or CT finding. (↑↑)",
       "c": "M6"
     },
     {
@@ -460,7 +460,7 @@
     {
       "n": "M7_3",
       "v": "Superficial Soft Tissue Mass or Tumour: Bone Involvement Assessment",
-      "t": "3. In adults with soft tissue masses, we recommend XR for evaluation of calcification, or if bone/joint involvement is suspected, after US. (↑↑)",
+      "t": "3. In adults with soft tissue masses, we recommend <b>XR</b> for evaluation of calcification, or if bone/joint involvement is suspected, after US. (↑↑)",
       "c": "M7"
     },
     {
@@ -489,7 +489,7 @@
     {
       "n": "M8_2",
       "v": "Regional Bone Assessment",
-      "t": "2. In adults with non-joint soft tissue pain, we suggest XR for evaluation of regional bone pathology. (EPc)",
+      "t": "2. In adults with non-joint soft tissue pain, we suggest <b>XR</b> for evaluation of regional bone pathology. (EPc)",
       "c": "M8"
     },
     {
@@ -500,13 +500,13 @@
     {
       "n": "M9_1",
       "v": "Suspected Arthritis",
-      "t": "1. In adults with suspected osteoarthritis or crystalline arthropathy, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with suspected osteoarthritis or crystalline arthropathy, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M9"
     },
     {
       "n": "M9_2",
       "v": "Gout Assessment",
-      "t": "2. In adults with suspected gout, we suggest US as a complement to XR to identify tophi. (↑)",
+      "t": "2. In adults with suspected gout, we suggest US as a complement to <b>XR</b> to identify tophi. (↑)",
       "c": "M9"
     },
     {
@@ -523,7 +523,7 @@
     {
       "n": "M10_1",
       "v": "Suspected Inflammatory Arthritis",
-      "t": "1. In adults with suspected inflammatory arthropathy, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with suspected inflammatory arthropathy, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M10"
     },
     {
@@ -552,7 +552,7 @@
     {
       "n": "M11_1",
       "v": "Initial Spondyloarthropathy Assessment",
-      "t": "1. In adults with suspected axial spondyloarthropathy, we recommend XR of the sacroiliac joints ± spine as the initial imaging investigation. (↑↑)",
+      "t": "1. In adults with suspected axial spondyloarthropathy, we recommend <b>XR</b> of the sacroiliac joints ± spine as the initial imaging investigation. (↑↑)",
       "c": "M11"
     },
     {
@@ -581,7 +581,7 @@
     {
       "n": "M12_1",
       "v": "Non-traumatic Bone Pain: initial imaging",
-      "t": "1. In adults with non-traumatic, non-joint bone pain, we recommend XR of the symptomatic area(s) as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with non-traumatic, non-joint bone pain, we recommend <b>XR</b> of the symptomatic area(s) as the initial imaging modality. (↑↑)",
       "c": "M12"
     },
     {
@@ -616,7 +616,7 @@
     {
       "n": "M13_2",
       "v": "Focal Metabolic Disease",
-      "t": "2. In adults with suspected metabolic bone disease with pain or focal area of concern, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "2. In adults with suspected metabolic bone disease with pain or focal area of concern, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M13"
     },
     {
@@ -645,7 +645,7 @@
     {
       "n": "M14_1",
       "v": "Stress fracture: initial imaging",
-      "t": "1. In adults with suspected stress (fatigue or insufficiency) fracture, we recommend XR of the area of interest as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with suspected stress (fatigue or insufficiency) fracture, we recommend <b>XR</b> of the area of interest as the initial imaging modality. (↑↑)",
       "c": "M14"
     },
     {
@@ -673,7 +673,7 @@
     {
       "n": "M15_1",
       "v": "Non-traumatic Chest Wall: initial imaging",
-      "t": "1. In adults with non-traumatic chest wall pain, we recommend XR of the chest ± ribs as the initial imaging investigation. (↑↑)",
+      "t": "1. In adults with non-traumatic chest wall pain, we recommend <b>XR</b> of the chest ± ribs as the initial imaging investigation. (↑↑)",
       "c": "M15"
     },
     {
@@ -701,7 +701,7 @@
     {
       "n": "M16_1",
       "v": "Shoulder Assessment: initial imaging",
-      "t": "1. In adults with shoulder pain or instability, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with shoulder pain or instability, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M16"
     },
     {
@@ -723,7 +723,7 @@
     {
       "n": "M17_1",
       "v": "Elbow joint pain: initial imaging",
-      "t": "1. In adults with elbow joint pain of suspected articular origin, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with elbow joint pain of suspected articular origin, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M17"
     },
     {
@@ -735,7 +735,7 @@
     {
       "n": "M17_2",
       "v": "Elbow tendon / nerve compression / effusion / synovitis / bursitis: initial imaging",
-      "t": "2. In adults with elbow pain with suspected tendon pathology, nerve compression, effusion, synovitis, or bursitis, we recommend XR or US as the initial imaging modality. (↑↑)",
+      "t": "2. In adults with elbow pain with suspected tendon pathology, nerve compression, effusion, synovitis, or bursitis, we recommend <b>XR</b> or US as the initial imaging modality. (↑↑)",
       "c": "M17"
     },
     {
@@ -747,7 +747,7 @@
     {
       "n": "M17_3",
       "v": "Elbow bone pre-operative evaluation",
-      "t": "3. In adults with elbow pain, after XR, we suggest CT for evaluation of clinically relevant bone anatomy, in the context of pre-operative planning. (↑)",
+      "t": "3. In adults with elbow pain, after <b>XR</b>, we suggest CT for evaluation of clinically relevant bone anatomy, in the context of pre-operative planning. (↑)",
       "c": "M17"
     },
     {
@@ -757,7 +757,7 @@
     {
       "n": "M18_1",
       "v": "Hand/wrist joint pain: initial imaging",
-      "t": "1. In adults with hand and/or wrist joint pain, we suggest XR as the initial imaging modality. (↑)",
+      "t": "1. In adults with hand and/or wrist joint pain, we suggest <b>XR</b> as the initial imaging modality. (↑)",
       "c": "M18"
     },
     {
@@ -787,7 +787,7 @@
     {
       "n": "M18_3",
       "v": "Hand/wrist pain, Follow-up Imaging for chronic scaphoid fracture or pre-operative evaluation",
-      "t": "3. In adults with hand and/or wrist pain, after XR, we suggest CT for evaluation of bone anatomy, chronic scaphoid fracture OR in the context of pre-operative planning. (↑)",
+      "t": "3. In adults with hand and/or wrist pain, after <b>XR</b>, we suggest CT for evaluation of bone anatomy, chronic scaphoid fracture OR in the context of pre-operative planning. (↑)",
       "c": "M18"
     },
     {
@@ -797,7 +797,7 @@
     {
       "n": "M19_1",
       "v": "Hip pain: initial imaging",
-      "t": "1. In adults with hip pain, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with hip pain, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M19"
     },
     {
@@ -815,13 +815,13 @@
     {
       "n": "M19_3",
       "v": "Deep soft tissue pathology assessment",
-      "t": "3. For evaluation of deep soft tissue pathology, after XR, we recommend MRI as the next imaging modality. (↑↑)",
+      "t": "3. For evaluation of deep soft tissue pathology, after <b>XR</b>, we recommend MRI as the next imaging modality. (↑↑)",
       "c": "M19"
     },
     {
       "n": "M19_4",
       "v": "Superficial soft tissue pathology: follow-up imaging",
-      "t": "4. For evaluation of superficial soft tissue pathology, after XR, we recommend US or MRI as the next imaging modality. (↑↑)",
+      "t": "4. For evaluation of superficial soft tissue pathology, after <b>XR</b>, we recommend US or MRI as the next imaging modality. (↑↑)",
       "c": "M19"
     },
     {
@@ -833,7 +833,7 @@
     {
       "n": "M19_6",
       "v": "Pelvic pain: initial imaging",
-      "t": "6. In adults with musculoskeletal pelvic pain, we suggest XR as the initial imaging modality. (EPc)",
+      "t": "6. In adults with musculoskeletal pelvic pain, we suggest <b>XR</b> as the initial imaging modality. (EPc)",
       "c": "M19"
     },
     {
@@ -861,7 +861,7 @@
     {
       "n": "M20_1",
       "v": "Knee joint pain: initial imaging",
-      "t": "1. In adults with knee joint pain, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with knee joint pain, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M20"
     },
     {
@@ -895,7 +895,7 @@
     {
       "n": "M20_3",
       "v": "Chronic knee joint pain, bone anatomy - Pre-operative evaluation",
-      "t": "3. In adults with chronic knee joint pain, after XR, we suggest CT for evaluation of clinically relevant bone anatomy in scenarios such as patellofemoral maltracking, osteochondral defect, or intraarticular bodies OR in the context of pre-operative planning. (↑ OR EPc)",
+      "t": "3. In adults with chronic knee joint pain, after <b>XR</b>, we suggest CT for evaluation of clinically relevant bone anatomy in scenarios such as patellofemoral maltracking, osteochondral defect, or intraarticular bodies OR in the context of pre-operative planning. (↑ OR EPc)",
       "c": "M20"
     },
     {
@@ -905,7 +905,7 @@
     {
       "n": "M21_1",
       "v": "Ankle pain: initial imaging",
-      "t": "1. In adults with ankle pain, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with ankle pain, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M21"
     },
     {
@@ -923,7 +923,7 @@
     {
       "n": "M21_2",
       "v": "Ankle pain: osteochondral efect, intraarticular bodies, tarsal coalition / pre-operative evaluation",
-      "t": "2. In adults with ankle pain, after XR, we suggest CT for evaluation of clinically significant bone anatomy in scenarios such as osteochondral defect, intraarticular bodies, tarsal coalition OR in the context of pre-operative planning. (↑ OR EPc)",
+      "t": "2. In adults with ankle pain, after <b>XR</b>, we suggest CT for evaluation of clinically significant bone anatomy in scenarios such as osteochondral defect, intraarticular bodies, tarsal coalition OR in the context of pre-operative planning. (↑ OR EPc)",
       "c": "M21"
     },
     {
@@ -933,7 +933,7 @@
     {
       "n": "M22_1",
       "v": "Foot pain: initial imaging",
-      "t": "1. In adults with foot pain, we suggest XR as the initial imaging modality. (↑)",
+      "t": "1. In adults with foot pain, we suggest <b>XR</b> as the initial imaging modality. (↑)",
       "c": "M22"
     },
     {
@@ -951,7 +951,7 @@
     {
       "n": "M22_3",
       "v": "Foot pain: stress fracture, osteochondral defect or pre-operative evaluation",
-      "t": "3. In adults with foot pain, after XR, we suggest CT for evaluation of pathologies such as stress fracture, osteochondral defect OR for evaluation of clinically relevant bone anatomy, typically in the context of pre-operative planning. (↑↑ OR EPc)",
+      "t": "3. In adults with foot pain, after <b>XR</b>, we suggest CT for evaluation of pathologies such as stress fracture, osteochondral defect OR for evaluation of clinically relevant bone anatomy, typically in the context of pre-operative planning. (↑↑ OR EPc)",
       "c": "M22"
     },
     {
@@ -967,7 +967,7 @@
     {
       "n": "M23_1",
       "v": "Orthopedic hardware/arthroplasty pain: initial imaging",
-      "t": "1. In adults with orthopedic hardware/arthroplasty pain or symptoms, we recommend XR as the initial imaging modality, to evaluate for findings such as fracture, dislocation, periprosthetic osteolysis, or hardware fracture/loosening. (↑↑)",
+      "t": "1. In adults with orthopedic hardware/arthroplasty pain or symptoms, we recommend <b>XR</b> as the initial imaging modality, to evaluate for findings such as fracture, dislocation, periprosthetic osteolysis, or hardware fracture/loosening. (↑↑)",
       "c": "M23"
     },
     {
@@ -985,7 +985,7 @@
     {
       "n": "M23_2",
       "v": "Orthopedic hardware/arthroplasty pain, soft tissue evaluation: follow-up imaging",
-      "t": "2. In adults with orthopedic hardware/arthroplasty pain or symptoms suspected to be related to soft tissue pathology, after XR, we recommend MRI as the next imaging modality. Metal artifact reduction sequences should be implemented. (↑↑)",
+      "t": "2. In adults with orthopedic hardware/arthroplasty pain or symptoms suspected to be related to soft tissue pathology, after <b>XR</b>, we recommend MRI as the next imaging modality. Metal artifact reduction sequences should be implemented. (↑↑)",
       "c": "M23"
     },
     {
@@ -1003,7 +1003,7 @@
     {
       "n": "M23_4",
       "v": "Orthopedic hardware/arthroplasty pain, septic arthritis evaluation",
-      "t": "4. In adults with orthopedic hardware/arthroplasty pain or symptoms concerning for septic arthritis, after XR, we suggest US or Fluoroscopy to facilitate arthrocentesis. (EPc)",
+      "t": "4. In adults with orthopedic hardware/arthroplasty pain or symptoms concerning for septic arthritis, after <b>XR</b>, we suggest US or Fluoroscopy to facilitate arthrocentesis. (EPc)",
       "c": "M23"
     },
     {
@@ -1013,7 +1013,7 @@
     {
       "n": "M24_1",
       "v": "Avascular necrosis: initial imaging",
-      "t": "1. In adults with suspected avascular necrosis/bone infarction, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with suspected avascular necrosis/bone infarction, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M24"
     },
     {
@@ -1042,7 +1042,7 @@
     {
       "n": "M25_1",
       "v": "Complex regional pain syndrome (CRPS): initial imaging",
-      "t": "1. In adults with suspected complex regional pain syndrome, we suggest XR as the initial imaging modality. (↑↑)",
+      "t": "1. In adults with suspected complex regional pain syndrome, we suggest <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "M25"
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "n": "CV01A_1_1",
       "v": "STEMI alternative evaluation",
-      "t": "↪ 1.1 In cases of diagnostic uncertainty OR if immediate invasive coronary angiography is unavailable, we suggest chest XR and bedside TTE/POCUS (if available) to evaluate for other potential causes of chest pain, but this should not delay care. (↑)",
+      "t": "↪ 1.1 In cases of diagnostic uncertainty OR if immediate invasive coronary angiography is unavailable, we suggest chest <b>XR</b> and bedside TTE/POCUS (if available) to evaluate for other potential causes of chest pain, but this should not delay care. (↑)",
       "c": "CV01A"
     },
     {
@@ -1086,7 +1086,7 @@
     {
       "n": "CV01B_1",
       "v": "Initial non-STEMI assessment",
-      "t": "1. In patients with suspected non-STEMI, we recommend chest XR (to rule out other causes of chest pain) and bedside TTE/POCUS (if available, to evaluate for ventricular function and rule out pericardial effusion) as the initial imaging modalities. (↑↑)",
+      "t": "1. In patients with suspected non-STEMI, we recommend chest <b>XR</b> (to rule out other causes of chest pain) and bedside TTE/POCUS (if available, to evaluate for ventricular function and rule out pericardial effusion) as the initial imaging modalities. (↑↑)",
       "c": "CV01B"
     },
     {
@@ -1109,7 +1109,7 @@
     {
       "n": "CV01C_1",
       "v": "Initial unstable angina assessment",
-      "t": "1. In patients with suspected unstable angina (i.e., negative cardiac troponin), we recommend chest XR (to rule out other causes of chest pain) and bedside TTE/POCUS (if available, to evaluate for ventricular function and rule out pericardial effusion) as the initial imaging modalities. (↑↑)",
+      "t": "1. In patients with suspected unstable angina (i.e., negative cardiac troponin), we recommend chest <b>XR</b> (to rule out other causes of chest pain) and bedside TTE/POCUS (if available, to evaluate for ventricular function and rule out pericardial effusion) as the initial imaging modalities. (↑↑)",
       "c": "CV01C"
     },
     {
@@ -1161,7 +1161,7 @@
     {
       "n": "CV01E_2_1",
       "v": "Initial PE alternative assessment",
-      "t": "↪ 2.1 If immediate CTPA is not available, we recommend chest XR as the next imaging modality to exclude other causes of chest pain. (↑↑)",
+      "t": "↪ 2.1 If immediate CTPA is not available, we recommend chest <b>XR</b> as the next imaging modality to exclude other causes of chest pain. (↑↑)",
       "c": "CV01E"
     },
     {
@@ -1179,7 +1179,7 @@
     {
       "n": "CV01E_3_1",
       "v": "High risk PE alternative assessment",
-      "t": "↪ 3.1 If immediate CTPA is not available, we recommend chest XR as the next imaging modality to exclude other causes of chest pain. (↑↑)",
+      "t": "↪ 3.1 If immediate CTPA is not available, we recommend chest <b>XR</b> as the next imaging modality to exclude other causes of chest pain. (↑↑)",
       "c": "CV01E"
     },
     {
@@ -1191,13 +1191,13 @@
     {
       "n": "CV01E_4",
       "v": "Pregnancy high risk PE initial assessment",
-      "t": "4. For pregnant patients with high pretest probability (as determined by a structured risk assessment tool) of pulmonary embolism, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "t": "4. For pregnant patients with high pretest probability (as determined by a structured risk assessment tool) of pulmonary embolism, we recommend chest <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "CV01E"
     },
     {
       "n": "CV01E_4_1",
       "v": "Pregnancy PE follow-up assessment",
-      "t": "↪ 4.1 If chest XR does not explain the clinical presentation and further imaging is required, we recommend Doppler US as the next imaging modality. (↑↑)",
+      "t": "↪ 4.1 If chest <b>XR</b> does not explain the clinical presentation and further imaging is required, we recommend Doppler US as the next imaging modality. (↑↑)",
       "c": "CV01E"
     },
     {
@@ -1509,7 +1509,7 @@
     {
       "n": "CV06A_1_2",
       "v": "Aortic stenosis complications assessment",
-      "t": "↪ 1.2 In patients with suspected aortic valve stenosis where pulmonary edema is suspected, we recommend chest XR as the next imaging modality. (↑↑)",
+      "t": "↪ 1.2 In patients with suspected aortic valve stenosis where pulmonary edema is suspected, we recommend chest <b>XR</b> as the next imaging modality. (↑↑)",
       "c": "CV06A"
     },
     {
@@ -1533,7 +1533,7 @@
     {
       "n": "CV06A_2_3",
       "v": "Aortic valve regurgitation - Suspected pulmonary edema",
-      "t": "↪ 2.3 In patients with suspected aortic valve regurgitation where pulmonary edema is suspected, we recommend chest XR as the next imaging modality. (↑↑)",
+      "t": "↪ 2.3 In patients with suspected aortic valve regurgitation where pulmonary edema is suspected, we recommend chest <b>XR</b> as the next imaging modality. (↑↑)",
       "c": "CV06A"
     },
     {
@@ -1580,7 +1580,7 @@
     {
       "n": "CV06B_2",
       "v": "Mitral valve stenosis - Suspected pulmonary edema",
-      "t": "2. In patients with suspected mitral valve stenosis where pulmonary edema is suspected, we recommend chest XR as the next imaging modality. (↑↑)",
+      "t": "2. In patients with suspected mitral valve stenosis where pulmonary edema is suspected, we recommend chest <b>XR</b> as the next imaging modality. (↑↑)",
       "c": "CV06B"
     },
     {
@@ -1604,7 +1604,7 @@
     {
       "n": "CV06B_4",
       "v": "Mitral valve regurgitation - Suspected pulmonary edema",
-      "t": "4. In patients with suspected mitral valve regurgitation where pulmonary edema is suspected, we recommend chest XR as the next imaging modality. (↑↑)",
+      "t": "4. In patients with suspected mitral valve regurgitation where pulmonary edema is suspected, we recommend chest <b>XR</b> as the next imaging modality. (↑↑)",
       "c": "CV06B"
     },
     {
@@ -2013,19 +2013,19 @@
     {
       "n": "TH01A_1",
       "v": "Pre-employment screening - Routine chest X-ray not recommended",
-      "t": "1. For most individuals we recommend against routine chest XR for pre-employment screening, except in specific circumstances (see Recommendation 2). (↓↓)",
+      "t": "1. For most individuals we recommend against routine chest <b>XR</b> for pre-employment screening, except in specific circumstances (see Recommendation 2). (↓↓)",
       "c": "TH01A"
     },
     {
       "n": "TH01A_2",
       "v": "Pre-employment screening - Chest X-ray for high-risk or certain occupations",
-      "t": "2. In individuals at high-risk for tuberculosis or in certain occupations (e.g., deep water divers), we recommend routine chest XR if one has not been done recently. (↑↑)",
+      "t": "2. In individuals at high-risk for tuberculosis or in certain occupations (e.g., deep water divers), we recommend routine chest <b>XR</b> if one has not been done recently. (↑↑)",
       "c": "TH01A"
     },
     {
       "n": "TH01A_3",
       "v": "Pre-employment screening - Chest X-ray for positive TB test",
-      "t": "3. In individuals with positive latent tuberculosis testing, we recommend chest XR to exclude active tuberculosis. (↑↑)",
+      "t": "3. In individuals with positive latent tuberculosis testing, we recommend chest <b>XR</b> to exclude active tuberculosis. (↑↑)",
       "c": "TH01A"
     },
     {
@@ -2036,13 +2036,13 @@
     {
       "n": "TH01B_1",
       "v": "Asymptomatic asbestos exposure - Chest X-ray",
-      "t": "1. In asymptomatic individuals who have had occupational exposure to asbestos and require imaging for documentation or confirmation of injury, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "t": "1. In asymptomatic individuals who have had occupational exposure to asbestos and require imaging for documentation or confirmation of injury, we recommend chest <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "TH01B"
     },
     {
       "n": "TH01B_1_1",
       "v": "Asbestos exposure - High-resolution CT if chest X-ray equivocal",
-      "t": "↪ 1.1 In individuals with equivocal chest XR and/or a high clinical suspicion for occupational lung disease, we recommend high-resolution CT as the next imaging modality. (EPc)",
+      "t": "↪ 1.1 In individuals with equivocal chest <b>XR</b> and/or a high clinical suspicion for occupational lung disease, we recommend high-resolution CT as the next imaging modality. (EPc)",
       "c": "TH01B"
     },
     {
@@ -2052,7 +2052,7 @@
     {
       "n": "TH01C_1",
       "v": "Inpatients - Routine chest X-ray not recommended",
-      "t": "1. In in-patients, we recommend against routine chest XR. (EPc)",
+      "t": "1. In in-patients, we recommend against routine chest <b>XR</b>. (EPc)",
       "c": "TH01C"
     },
     {
@@ -2062,13 +2062,13 @@
     {
       "n": "TH02_1",
       "v": "Non-specific chest pain - Chest X-ray as initial imaging",
-      "t": "1. In stable patients where imaging is clinically or biochemically indicated, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "t": "1. In stable patients where imaging is clinically or biochemically indicated, we recommend chest <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "TH02"
     },
     {
       "n": "TH02_1_1",
       "v": "Non-specific chest pain - Further investigation guided by clinical evaluation",
-      "t": "↪ 1.1 If the chest XR is normal or equivocal, we suggest that further investigations should be guided after clinical consideration of etiology. (꙳)",
+      "t": "↪ 1.1 If the chest <b>XR</b> is normal or equivocal, we suggest that further investigations should be guided after clinical consideration of etiology. (꙳)",
       "c": "TH02"
     },
     {
@@ -2078,7 +2078,7 @@
     {
       "n": "TH03_1",
       "v": "Admitted for non-thoracic conditions - Routine chest X-ray not recommended",
-      "t": "1. In patients being admitted to hospital for non-thoracic conditions, we recommend against routine chest XR. (↓↓)",
+      "t": "1. In patients being admitted to hospital for non-thoracic conditions, we recommend against routine chest <b>XR</b>. (↓↓)",
       "c": "TH03"
     },
     {
@@ -2098,19 +2098,19 @@
     {
       "n": "TH05_1",
       "v": "Pre-op non-cardiothoracic surgery - Routine chest X-ray not suggested",
-      "t": "1. In patients undergoing non-cardiothoracic surgery, we suggest against routine pre-operative chest XR. (↓)",
+      "t": "1. In patients undergoing non-cardiothoracic surgery, we suggest against routine pre-operative chest <b>XR</b>. (↓)",
       "c": "TH05"
     },
     {
       "n": "TH05_2",
       "v": "Pre-op cardiothoracic surgery - Routine chest X-ray suggested",
-      "t": "2. In patients undergoing cardiothoracic surgery, we suggest routine pre-operative chest XR. (↑)",
+      "t": "2. In patients undergoing cardiothoracic surgery, we suggest routine pre-operative chest <b>XR</b>. (↑)",
       "c": "TH05"
     },
     {
       "n": "TH05_3",
       "v": "Pre-op for frail elderly or cardiorespiratory disease - Routine chest X-ray suggested",
-      "t": "3. In frail elderly patients and in those with significant cardiorespiratory disease, we suggest routine pre-operative chest XR. (↑)",
+      "t": "3. In frail elderly patients and in those with significant cardiorespiratory disease, we suggest routine pre-operative chest <b>XR</b>. (↑)",
       "c": "TH05"
     },
     {
@@ -2120,7 +2120,7 @@
     {
       "n": "TH06_1",
       "v": "Post-chest procedure - Routine chest X-ray suggested in some situations",
-      "t": "1. In patients who have undergone a chest procedure, including cardiothoracic surgery, we suggest routine post-interventional chest XR in situations where clinical judgement may not be sensitive to potential complications, including post transthoracic interventions (e.g., lung biopsy, central line, nasogastric tube, endotracheal tube placement, thoracentesis, chest tube, etc.). (↑)",
+      "t": "1. In patients who have undergone a chest procedure, including cardiothoracic surgery, we suggest routine post-interventional chest <b>XR</b> in situations where clinical judgement may not be sensitive to potential complications, including post transthoracic interventions (e.g., lung biopsy, central line, nasogastric tube, endotracheal tube placement, thoracentesis, chest tube, etc.). (↑)",
       "c": "TH06"
     },
     {
@@ -2130,13 +2130,13 @@
     {
       "n": "TH07_1",
       "v": "Uncomplicated upper respiratory infection - Chest X-ray not recommended",
-      "t": "1. In patients with uncomplicated upper respiratory tract infection, we recommend against chest XR. (↓↓)",
+      "t": "1. In patients with uncomplicated upper respiratory tract infection, we recommend against chest <b>XR</b>. (↓↓)",
       "c": "TH07"
     },
     {
       "n": "TH07_2",
       "v": "Chest X-Ray",
-      "t": "2. In patients with clinical suspicion of pneumonia, acute tracheobronchitis with other comorbid conditions, we suggest chest XR as the initial imaging modality. (↑)",
+      "t": "2. In patients with clinical suspicion of pneumonia, acute tracheobronchitis with other comorbid conditions, we suggest chest <b>XR</b> as the initial imaging modality. (↑)",
       "c": "TH07"
     },
     {
@@ -2146,13 +2146,13 @@
     {
       "n": "TH08_1",
       "v": "Acute asthma exacerbation without complications",
-      "t": "1. In patients with acute asthma exacerbation without clinical concern for complications, we suggest against chest XR. (↓)",
+      "t": "1. In patients with acute asthma exacerbation without clinical concern for complications, we suggest against chest <b>XR</b>. (↓)",
       "c": "TH08"
     },
     {
       "n": "TH08_2",
       "v": "Acute asthma exacerbation with complications",
-      "t": "2. In patients with acute asthma exacerbation with clinical concern for complications꙳, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "t": "2. In patients with acute asthma exacerbation with clinical concern for complications꙳, we recommend chest <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "TH08"
     },
     {
@@ -2162,19 +2162,19 @@
     {
       "n": "TH09_1",
       "v": "Acute COPD exacerbation without hospital referral",
-      "t": "1. In patients with acute exacerbation of COPD who do not need a referral to hospital, we suggest against routine chest XR. (↓)",
+      "t": "1. In patients with acute exacerbation of COPD who do not need a referral to hospital, we suggest against routine chest <b>XR</b>. (↓)",
       "c": "TH09"
     },
     {
       "n": "TH09_2",
       "v": "Acute COPD exacerbation with hospital referral",
-      "t": "2. In patients with acute exacerbation of COPD who are referred to hospital, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "t": "2. In patients with acute exacerbation of COPD who are referred to hospital, we recommend chest <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "TH09"
     },
     {
       "n": "TH09_2_1",
       "v": "Acute COPD exacerbation with negative or indeterminate X-Ray",
-      "t": "↪ 2.1 In situations where chest XR is negative or indeterminate where there is persistent clinical concern or management might be altered, we suggest chest CT as the next imaging modality. (↑)",
+      "t": "↪ 2.1 In situations where chest <b>XR</b> is negative or indeterminate where there is persistent clinical concern or management might be altered, we suggest chest CT as the next imaging modality. (↑)",
       "c": "TH09"
     },
     {
@@ -2184,13 +2184,13 @@
     {
       "n": "TH10_1",
       "v": "Suspected pneumonia with high pre-test probability",
-      "t": "1. In stable outpatients with suspected pneumonia with a very high pre-test probability of pneumonia and when a chest XR would not alter management, we suggest against chest XR. (↓)",
+      "t": "1. In stable outpatients with suspected pneumonia with a very high pre-test probability of pneumonia and when a chest <b>XR</b> would not alter management, we suggest against chest <b>XR</b>. (↓)",
       "c": "TH10"
     },
     {
       "n": "TH10_2",
       "v": "Suspected pneumonia with abnormal vital signs",
-      "t": "2. In patients with abnormal vital signs secondary to suspected pneumonia, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "t": "2. In patients with abnormal vital signs secondary to suspected pneumonia, we recommend chest <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "TH10"
     },
     {
@@ -2206,13 +2206,13 @@
     {
       "n": "TH11_1",
       "v": "Pneumonia with clinical recovery",
-      "t": "1. In patients with clinical recovery of pneumonia, we do not recommend follow-up chest XR. (↓↓)",
+      "t": "1. In patients with clinical recovery of pneumonia, we do not recommend follow-up chest <b>XR</b>. (↓↓)",
       "c": "TH11"
     },
     {
       "n": "TH11_2",
       "v": "Pneumonia with persistent symptoms or risk factors",
-      "t": "2. In patients with persistent symptoms or physical signs of pneumonia or in those at higher risk of malignancy꙳, we suggest follow-up chest XR at least six weeks after treatment. (↑)",
+      "t": "2. In patients with persistent symptoms or physical signs of pneumonia or in those at higher risk of malignancy꙳, we suggest follow-up chest <b>XR</b> at least six weeks after treatment. (↑)",
       "c": "TH11"
     },
     {
@@ -2228,13 +2228,13 @@
     {
       "n": "TH12_1",
       "v": "Immunosuppressed with respiratory symptoms/febrile neutropenia",
-      "t": "1. In immunosuppressed patients with respiratory symptoms/febrile neutropenia, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "t": "1. In immunosuppressed patients with respiratory symptoms/febrile neutropenia, we recommend chest <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "TH12"
     },
     {
       "n": "TH12_1_1",
       "v": "Immunosuppressed with normal X-Ray and high clinical suspicion",
-      "t": "↪ 1.1 If chest XR is normal, equivocal, or inconclusive and there remains high clinical suspicion for pulmonary infection, we recommend low-dose chest CT as the next imaging modality. (↑↑)",
+      "t": "↪ 1.1 If chest <b>XR</b> is normal, equivocal, or inconclusive and there remains high clinical suspicion for pulmonary infection, we recommend low-dose chest CT as the next imaging modality. (↑↑)",
       "c": "TH12"
     },
     {
@@ -2244,19 +2244,19 @@
     {
       "n": "TH13_1",
       "v": "Chronic cough with normal exam and X-Ray",
-      "t": "1. In patients with chronic cough, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "t": "1. In patients with chronic cough, we recommend chest <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "TH13"
     },
     {
       "n": "TH13_1_1",
       "v": "Chronic cough with normal exam and X-Ray, no cause identified",
-      "t": "↪ 1.1 In patients with normal physical exam and chest XR, we suggest against routine chest CT. (↓)",
+      "t": "↪ 1.1 In patients with normal physical exam and chest <b>XR</b>, we suggest against routine chest CT. (↓)",
       "c": "TH13"
     },
     {
       "n": "TH13_1_2",
       "v": "Chronic cough with normal exam and X-Ray, suspected underlying condition",
-      "t": "↪ 1.2 In patients with normal physical exam and chest XR and common causes of chronic cough have been excluded but there is ongoing clinical concern for etiology such as bronchiectasis, early interstitial lung disease, or lung cancer, we suggest chest CT as the next imaging modality. (↑)",
+      "t": "↪ 1.2 In patients with normal physical exam and chest <b>XR</b> and common causes of chronic cough have been excluded but there is ongoing clinical concern for etiology such as bronchiectasis, early interstitial lung disease, or lung cancer, we suggest chest CT as the next imaging modality. (↑)",
       "c": "TH13"
     },
     {
@@ -2266,13 +2266,13 @@
     {
       "n": "TH14_1",
       "v": "Suspected pneumothorax",
-      "t": "1. In patients with suspected pneumothorax, we recommend erect inspiratory chest XR as the initial imaging modality. (↑↑)",
+      "t": "1. In patients with suspected pneumothorax, we recommend erect inspiratory chest <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "TH14"
     },
     {
       "n": "TH14_1_1",
       "v": "Pneumothorax with equivocal or indeterminate X-Ray",
-      "t": "↪ 1.1 If chest XR findings are equivocal or indeterminate and further imaging is required, we suggest chest CT as the next imaging modality. (↑)",
+      "t": "↪ 1.1 If chest <b>XR</b> findings are equivocal or indeterminate and further imaging is required, we suggest chest CT as the next imaging modality. (↑)",
       "c": "TH14"
     },
     {
@@ -2282,7 +2282,7 @@
     {
       "n": "TH15_1",
       "v": "Clinically suspected pleural effusion",
-      "t": "1. In patients with clinically suspected pleural effusion, we recommend chest XR or bedside US (if available) as the initial imaging modality. (↑↑)",
+      "t": "1. In patients with clinically suspected pleural effusion, we recommend chest <b>XR</b> or bedside US (if available) as the initial imaging modality. (↑↑)",
       "c": "TH15"
     },
     {
@@ -2298,7 +2298,7 @@
     {
       "n": "TH16_1",
       "v": "Trace hemoptysis",
-      "t": "1. In patients with trace hemoptysis, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "t": "1. In patients with trace hemoptysis, we recommend chest <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "TH16"
     },
     {
@@ -2310,7 +2310,7 @@
     {
       "n": "TH16_2",
       "v": "Clinically significant hemoptysis",
-      "t": "2. In patients with clinically significant hemoptysis, we recommend chest XR* and chest CT as the initial imaging modalities. (↑↑)",
+      "t": "2. In patients with clinically significant hemoptysis, we recommend chest <b>XR</b>* and chest CT as the initial imaging modalities. (↑↑)",
       "c": "TH16"
     },
     {
@@ -2320,13 +2320,13 @@
     {
       "n": "TH17_1",
       "v": "Chronic dyspnea of non-cardiovascular origin",
-      "t": "1. In patients with chronic dyspnea of non-cardiovascular origin, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "t": "1. In patients with chronic dyspnea of non-cardiovascular origin, we recommend chest <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "TH17"
     },
     {
       "n": "TH17_1_1",
       "v": "Chronic dyspnea with normal X-Ray and ongoing clinical concern",
-      "t": "↪ 1.1 If chest XR is normal and clinical concern remains, any decision for further imaging should be based on clinical grounds. (EPc)",
+      "t": "↪ 1.1 If chest <b>XR</b> is normal and clinical concern remains, any decision for further imaging should be based on clinical grounds. (EPc)",
       "c": "TH17"
     },
     {
@@ -2336,13 +2336,13 @@
     {
       "n": "TH18_1",
       "v": "Suspected interstitial lung disease",
-      "t": "1. In patients with suspected interstitial lung disease, we recommend chest XR as the initial imaging modality. (↑↑)",
+      "t": "1. In patients with suspected interstitial lung disease, we recommend chest <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "TH18"
     },
     {
       "n": "TH18_1_1",
       "v": "Suspected interstitial lung disease, further imaging required",
-      "t": "↪ 1.1 If further imaging is required, given that chest XR do not rule out interstitial lung disease, we recommend high-resolution CT (HRCT) as the next imaging modality. (↑↑)",
+      "t": "↪ 1.1 If further imaging is required, given that chest <b>XR</b> do not rule out interstitial lung disease, we recommend high-resolution CT (HRCT) as the next imaging modality. (↑↑)",
       "c": "TH18"
     },
     {
@@ -2383,12 +2383,12 @@
     },
     {
       "n": "TH22",
-      "v": "Elevated diaphragm on chest radiograph (CXR)"
+      "v": "Elevated diaphragm on chest radiograph (C<b>XR</b>)"
     },
     {
       "n": "TH22_1",
-      "v": "Elevated diaphragm on CXR, suspected phrenic nerve palsy",
-      "t": "1. In patients with elevated diaphragm on chest XR and suspected phrenic nerve palsy, we suggest fluoroscopy or US as the initial imaging modality. The imaging modality may vary based on regional practice preferences and resource availability. (↑)",
+      "v": "Elevated diaphragm on C<b>XR</b>, suspected phrenic nerve palsy",
+      "t": "1. In patients with elevated diaphragm on chest <b>XR</b> and suspected phrenic nerve palsy, we suggest fluoroscopy or US as the initial imaging modality. The imaging modality may vary based on regional practice preferences and resource availability. (↑)",
       "c": "TH22"
     },
     {
@@ -2426,13 +2426,13 @@
     {
       "n": "GI02_2",
       "v": "Acute nonlocalized abdominal pain in non-pregnant patients",
-      "t": "2. In non-pregnant patients with acute nonlocalized abdominal pain and/or bowel obstruction, we suggest <b>XR</b> as the initial imaging modality. (↑)",
+      "t": "2. In non-pregnant patients with acute nonlocalized abdominal pain and/or bowel obstruction, we suggest <b><b>XR</b></b> as the initial imaging modality. (↑)",
       "c": "GI02"
     },
     {
       "n": "GI02_2_1",
       "v": "Acute nonlocalized abdominal pain, equivocal or inconclusive X-Ray",
-      "t": "↪ 2.1 If XR is equivocal and/or further investigation is required, we recommend <b>CT abdomen and pelvis</b> as the next imaging modality. (↑↑)",
+      "t": "↪ 2.1 If <b>XR</b> is equivocal and/or further investigation is required, we recommend <b>CT abdomen and pelvis</b> as the next imaging modality. (↑↑)",
       "c": "GI02"
     },
     {
@@ -2476,7 +2476,7 @@
     {
       "n": "GI03B_1",
       "v": "Right upper quadrant pain, suspected hepatobiliary disease",
-      "t": "1. In patients with right upper quadrant pain (suspected hepatobiliary disease), we recommend against <b>XR</b>. (↓↓)",
+      "t": "1. In patients with right upper quadrant pain (suspected hepatobiliary disease), we recommend against <b><b>XR</b></b>. (↓↓)",
       "c": "GI03B"
     },
     {
@@ -2512,7 +2512,7 @@
     {
       "n": "GI03B_3_2",
       "v": "Right upper quadrant pain, non-hepatobiliary disease, ultrasound and CT unavailable",
-      "t": "↪ 3.2 If US and CT are not immediately available, we suggest <b>XR</b> as the initial imaging modality. (EPc)",
+      "t": "↪ 3.2 If US and CT are not immediately available, we suggest <b><b>XR</b></b> as the initial imaging modality. (EPc)",
       "c": "GI03B"
     },
     {
@@ -2570,7 +2570,7 @@
     {
       "n": "GI03D_2_2",
       "v": "Left upper quadrant pain, unknown etiology, ultrasound and CT unavailable",
-      "t": "↪ 2.2 If US and CT are not immediately available, we suggest <b>XR</b> as the initial imaging modality. (EPc)",
+      "t": "↪ 2.2 If US and CT are not immediately available, we suggest <b><b>XR</b></b> as the initial imaging modality. (EPc)",
       "c": "GI03D"
     },
     {
@@ -2587,13 +2587,13 @@
     {
       "n": "GI03E_2",
       "v": "Left lower quadrant pain, other intraabdominal cause",
-      "t": "2. In patients with left lower quadrant pain (other intraabdominal cause), we recommend <b>XR</b> as the initial imaging modality. (EPc)",
+      "t": "2. In patients with left lower quadrant pain (other intraabdominal cause), we recommend <b><b>XR</b></b> as the initial imaging modality. (EPc)",
       "c": "GI03E"
     },
     {
       "n": "GI03E_2_1",
       "v": "Left lower quadrant pain, other cause, negative or inconclusive X-Ray",
-      "t": "↪ 2.1 If XR is negative or indeterminate and further imaging is required, we suggest <b>CT abdomen and pelvis</b> as the next imaging modality. (EPc)",
+      "t": "↪ 2.1 If <b>XR</b> is negative or indeterminate and further imaging is required, we suggest <b>CT abdomen and pelvis</b> as the next imaging modality. (EPc)",
       "c": "GI03E"
     },
     {
@@ -2907,13 +2907,13 @@
     {
       "n": "GI11_2",
       "v": "Diarrhea of unknown cause, X-Ray",
-      "t": "2. In patients with diarrhea (unknown cause), we suggest XR as the initial imaging modality. (↑)",
+      "t": "2. In patients with diarrhea (unknown cause), we suggest <b>XR</b> as the initial imaging modality. (↑)",
       "c": "GI11"
     },
     {
       "n": "GI11_2_1",
       "v": "Diarrhea, CT if X-Ray inconclusive",
-      "t": "↪ 2.1 If XR is inconclusive, we suggest specialist consultation (e.g., gastroenterology, general surgery) and/or CT abdomen and pelvis. (↑)",
+      "t": "↪ 2.1 If <b>XR</b> is inconclusive, we suggest specialist consultation (e.g., gastroenterology, general surgery) and/or CT abdomen and pelvis. (↑)",
       "c": "GI11"
     },
     {
@@ -2925,7 +2925,7 @@
     {
       "n": "GI12_2",
       "v": "Fecal incontinence, X-Ray",
-      "t": "2. In patients with fecal incontinence (clinically indeterminate for constipation), we suggest XR as the initial imaging modality. (↑)",
+      "t": "2. In patients with fecal incontinence (clinically indeterminate for constipation), we suggest <b>XR</b> as the initial imaging modality. (↑)",
       "c": "GI12"
     },
     {
@@ -2949,19 +2949,19 @@
     {
       "n": "GI13_1",
       "v": "Suspected/known foreign body ingestion, X-Ray",
-      "t": "1. In patients with suspected or known foreign body ingestion, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In patients with suspected or known foreign body ingestion, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "GI13"
     },
     {
       "n": "GI13_1_1",
       "v": "Foreign body ingestion, CT if X-Ray concerning",
-      "t": "↪ 1.1 If XR is suspicious for obstruction or perforation, we suggest CT abdomen and pelvis as the next imaging modality. (↑)",
+      "t": "↪ 1.1 If <b>XR</b> is suspicious for obstruction or perforation, we suggest CT abdomen and pelvis as the next imaging modality. (↑)",
       "c": "GI13"
     },
     {
       "n": "GI13_1_2",
       "v": "Foreign body ingestion, CT if X-Ray negative and further management needed",
-      "t": "↪ 1.2 If XR is negative and additional management is being considered, we suggest CT abdomen and pelvis as the next imaging modality. (↑)",
+      "t": "↪ 1.2 If <b>XR</b> is negative and additional management is being considered, we suggest CT abdomen and pelvis as the next imaging modality. (↑)",
       "c": "GI13"
     },
     {
@@ -3418,7 +3418,7 @@
     {
       "n": "OG12_1_2",
       "v": "X-Ray if IUCD not seen on ultrasound",
-      "t": "↪ 1.2 If IUCD is not seen in the uterus on US, we recommend XR of the abdomen and pelvis as the next imaging technique. (↑↑)",
+      "t": "↪ 1.2 If IUCD is not seen in the uterus on US, we recommend <b>XR</b> of the abdomen and pelvis as the next imaging technique. (↑↑)",
       "c": "OG12"
     },
     {
@@ -3435,7 +3435,7 @@
     {
       "n": "T01_2",
       "v": "Acute head injury: No X-Ray except as problem-solving tool",
-      "t": "2. In adults who have sustained an acute head injury, we recommend against <b>XR</b>, except as a problem-solving tool (e.g., gunshot wounds). (↓↓)",
+      "t": "2. In adults who have sustained an acute head injury, we recommend against <b><b>XR</b></b>, except as a problem-solving tool (e.g., gunshot wounds). (↓↓)",
       "c": "T01"
     },
     {
@@ -3451,7 +3451,7 @@
     {
       "n": "T02_2",
       "v": "Acute head trauma in children: No X-Ray except as problem-solving tool",
-      "t": "2. In children who have sustained an acute head injury, we recommend against <b>XR</b>, except as a problem-solving tool (e.g., gunshot wounds, non-accidental trauma) (↓↓)",
+      "t": "2. In children who have sustained an acute head injury, we recommend against <b><b>XR</b></b>, except as a problem-solving tool (e.g., gunshot wounds, non-accidental trauma) (↓↓)",
       "c": "T02"
     },
     {
@@ -3467,7 +3467,7 @@
     {
       "n": "T03_2",
       "v": "Acute facial trauma: No X-Ray for isolated facial trauma",
-      "t": "2. In patients with isolated facial trauma*, we recommend against <b>XR</b>. (↓↓)",
+      "t": "2. In patients with isolated facial trauma*, we recommend against <b><b>XR</b></b>. (↓↓)",
       "c": "T03"
     },
     {
@@ -3489,7 +3489,7 @@
     {
       "n": "T04_2",
       "v": "Acute orbital trauma: No x-ray unless query metallic foreign body",
-      "t": "2. In patients with orbital trauma, we recommend against <b>XR</b>, except when the clinical question is exclusion of retained metallic foreign body. (↓↓)",
+      "t": "2. In patients with orbital trauma, we recommend against <b><b>XR</b></b>, except when the clinical question is exclusion of retained metallic foreign body. (↓↓)",
       "c": "T04"
     },
     {
@@ -3509,7 +3509,7 @@
     {
       "n": "T05_1_1",
       "v": "X-Ray if CT is not readily available for low-risk patients",
-      "t": "↪ 1.1 In low-risk patients, in settings where CT is not readily available, we suggest <b>XR</b> as the initial imaging modality. (↑)",
+      "t": "↪ 1.1 In low-risk patients, in settings where CT is not readily available, we suggest <b><b>XR</b></b> as the initial imaging modality. (↑)",
       "c": "T05"
     },
     {
@@ -3531,13 +3531,13 @@
     {
       "n": "T06_2",
       "v": "Suspected cervical spine trauma in children: Lower risk: initial imaging",
-      "t": "2. In children with cervical spine trauma who do not meet the patient population in recommendation 1, but may require imaging (e.g., failed a clinical decision rule like PECARN), we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
+      "t": "2. In children with cervical spine trauma who do not meet the patient population in recommendation 1, but may require imaging (e.g., failed a clinical decision rule like PECARN), we recommend <b><b>XR</b></b> as the initial imaging modality. (↑↑)",
       "c": "T06"
     },
     {
       "n": "T06_2_1",
       "v": "CT if X-Ray is non-diagnostic or abnormal",
-      "t": "↪ 2.1 In situations where XR is non-diagnostic and there is persistent clinical concern for cervical spine injury, OR if XR is abnormal, OR if there is clinical-radiologic discrepancy, we recommend <b>CT</b> as the next imaging modality. (↑↑)",
+      "t": "↪ 2.1 In situations where <b>XR</b> is non-diagnostic and there is persistent clinical concern for cervical spine injury, OR if <b>XR</b> is abnormal, OR if there is clinical-radiologic discrepancy, we recommend <b>CT</b> as the next imaging modality. (↑↑)",
       "c": "T06"
     },
     {
@@ -3565,13 +3565,13 @@
     {
       "n": "T08_1",
       "v": "Suspected thoracolumbar fracture: initial imaging",
-      "t": "1. In patients with suspected thoracolumbar spine fracture without neurological deficits, we recommend <b>XR</b>* as the initial imaging modality. (↑↑)",
+      "t": "1. In patients with suspected thoracolumbar spine fracture without neurological deficits, we recommend <b><b>XR</b></b>* as the initial imaging modality. (↑↑)",
       "c": "T08"
     },
     {
       "n": "T08_1_1",
       "v": "Suspected thoracolumbar fracture: No X-Ray needed if CT of chest/abdomen/pelvis has been done",
-      "t": "↪ 1.1 *If <b>CT</b> of the chest, abdomen, and pelvis has been performed for other indications, given that the thoracic and lumbar spine have been included, XR are not recommended for initial spine assessment. (EPc)",
+      "t": "↪ 1.1 *If <b>CT</b> of the chest, abdomen, and pelvis has been performed for other indications, given that the thoracic and lumbar spine have been included, <b>XR</b> are not recommended for initial spine assessment. (EPc)",
       "c": "T08"
     },
     {
@@ -3588,7 +3588,7 @@
     {
       "n": "T09_1_1",
       "v": "CT if X-Ray is negative but clinical concern persists",
-      "t": "↪ 1.1 In situations where XR is negative and there is persistent clinical concern for hip and/or pelvic fracture, we recommend <b>CT</b> as the next imaging modality. (↑↑)",
+      "t": "↪ 1.1 In situations where <b>XR</b> is negative and there is persistent clinical concern for hip and/or pelvic fracture, we recommend <b>CT</b> as the next imaging modality. (↑↑)",
       "c": "T09"
     },
     {
@@ -3599,7 +3599,7 @@
     {
       "n": "T10_1_1",
       "v": "Acute shoulder trauma: CT if X-Ray is negative or non-diagnostic",
-      "t": "↪ 1.1 In situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest <b>CT</b> as the next imaging modality. (↑)",
+      "t": "↪ 1.1 In situations where <b>XR</b> is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest <b>CT</b> as the next imaging modality. (↑)",
       "c": "T10"
     },
     {
@@ -3610,7 +3610,7 @@
     {
       "n": "T11_1_1",
       "v": "Acute elbow trauma: CT if X-Ray is negative or non-diagnostic in skeletally mature patients",
-      "t": "↪ 1.1 In skeletally mature patients, in situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT as the next imaging modality. (↑)",
+      "t": "↪ 1.1 In skeletally mature patients, in situations where <b>XR</b> is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT as the next imaging modality. (↑)",
       "c": "T11"
     },
     {
@@ -3620,19 +3620,19 @@
     {
       "n": "T12_1",
       "v": "Acute hand and wrist trauma: initial imaging",
-      "t": "1. In patients with acute hand and/or wrist trauma, we recommend XR* as the initial imaging modality. If a dislocation is identified, post-reduction XR should also be performed. (↑↑)",
+      "t": "1. In patients with acute hand and/or wrist trauma, we recommend <b>XR</b>* as the initial imaging modality. If a dislocation is identified, post-reduction <b>XR</b> should also be performed. (↑↑)",
       "c": "T12"
     },
     {
       "n": "T12_1_1",
       "v": "Acute hand and wrist trauma: next imaging",
-      "t": "↪ 1.1 In skeletally mature patients, in situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT or MRI as the next imaging modality. (↑)",
+      "t": "↪ 1.1 In skeletally mature patients, in situations where <b>XR</b> is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT or MRI as the next imaging modality. (↑)",
       "c": "T12"
     },
     {
       "n": "T12_1_2",
       "v": "Acute hand and wrist trauma: scaphoid fracture suspected or CT/MR unavailable",
-      "t": "↪ 1.2 If scaphoid fracture is suspected and CT or MR is not available, we recommend immobilization and repeat XR in 10-14 days. (↑↑)",
+      "t": "↪ 1.2 If scaphoid fracture is suspected and CT or MR is not available, we recommend immobilization and repeat <b>XR</b> in 10-14 days. (↑↑)",
       "c": "T12"
     },
     {
@@ -3642,13 +3642,13 @@
     {
       "n": "T13_1",
       "v": "Acute knee trauma (Ottawa knee rule): initial imaging",
-      "t": "1. In patients with acute knee trauma who meet the criteria in the Ottawa Knee Rule, we recommend XR* as the initial imaging modality. (EPc/↑↑)",
+      "t": "1. In patients with acute knee trauma who meet the criteria in the Ottawa Knee Rule, we recommend <b>XR</b>* as the initial imaging modality. (EPc/↑↑)",
       "c": "T13"
     },
     {
       "n": "T13_1_1",
       "v": "Acute knee trauma: next imaging",
-      "t": "↪ 1.1 In situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT as the next imaging modality. (↑)",
+      "t": "↪ 1.1 In situations where <b>XR</b> is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT as the next imaging modality. (↑)",
       "c": "T13"
     },
     {
@@ -3658,13 +3658,13 @@
     {
       "n": "T14_1",
       "v": "Acute ankle trauma (Ottawa ankle rule): initial imaging",
-      "t": "1. In patients with acute ankle trauma who meet the Ottawa Ankle Rule, we recommend ankle XR as the initial imaging modality. (↑↑)",
+      "t": "1. In patients with acute ankle trauma who meet the Ottawa Ankle Rule, we recommend ankle <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "T14"
     },
     {
       "n": "T14_1_1",
       "v": "Acute ankle trauma: next imaging",
-      "t": "↪ 1.1 In situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT as the next imaging modality. (↑)",
+      "t": "↪ 1.1 In situations where <b>XR</b> is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT as the next imaging modality. (↑)",
       "c": "T14"
     },
     {
@@ -3674,13 +3674,13 @@
     {
       "n": "T15_1",
       "v": "Acute foot trauma: initial imaging",
-      "t": "1. In patients with acute foot trauma in whom fracture is suspected, we recommend foot XR as the initial imaging modality. (↑↑)",
+      "t": "1. In patients with acute foot trauma in whom fracture is suspected, we recommend foot <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "T15"
     },
     {
       "n": "T15_1_1",
       "v": "Acute foot trauma: next imaging",
-      "t": "↪ 1.1 In situations where XR is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT as the next imaging modality. (↑)",
+      "t": "↪ 1.1 In situations where <b>XR</b> is negative or non-diagnostic and there is persistent clinical concern for bony injury, we suggest CT as the next imaging modality. (↑)",
       "c": "T15"
     },
     {
@@ -3690,13 +3690,13 @@
     {
       "n": "T16_1",
       "v": "Superficial soft tissue injury foreign body: initial imaging",
-      "t": "1. In patients with suspected superficial soft tissue foreign body, we recommend XR as the initial imaging modality. (↑↑)",
+      "t": "1. In patients with suspected superficial soft tissue foreign body, we recommend <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "T16"
     },
     {
       "n": "T16_1_1",
       "v": "Superficial soft tissue injury foreign body: next imaging",
-      "t": "↪ 1.1 In situations where no foreign body is detected on XR and there is persistent clinical concern for foreign body, we recommend US as the next imaging modality. (↑↑)",
+      "t": "↪ 1.1 In situations where no foreign body is detected on <b>XR</b> and there is persistent clinical concern for foreign body, we recommend US as the next imaging modality. (↑↑)",
       "c": "T16"
     },
     {
@@ -3712,7 +3712,7 @@
     {
       "n": "T17_2",
       "v": "Moderate to severe adult chest trauma: assessment",
-      "t": "2. In adults with moderate to severe chest trauma, we recommend XR as the initial imaging modality, proceeding to CT if there is any clinical or radiological concern. (↑↑)",
+      "t": "2. In adults with moderate to severe chest trauma, we recommend <b>XR</b> as the initial imaging modality, proceeding to CT if there is any clinical or radiological concern. (↑↑)",
       "c": "T17"
     },
     {
@@ -3728,7 +3728,7 @@
     {
       "n": "T18_2",
       "v": "Pediatric moderate ot severe chest trauma: assessment",
-      "t": "2. In children with moderate to severe chest trauma, we recommend XR as the initial imaging modality, proceeding to CT if there is any clinical or radiological concern. (↑↑)",
+      "t": "2. In children with moderate to severe chest trauma, we recommend <b>XR</b> as the initial imaging modality, proceeding to CT if there is any clinical or radiological concern. (↑↑)",
       "c": "T18"
     },
     {
@@ -3782,7 +3782,7 @@
     {
       "n": "T21_1",
       "v": "Skeletal survey X-Ray as initial imaging for suspected non-accidental trauma in children",
-      "t": "1. In children with suspected non-accidental trauma, we recommend skeletal survey XR as the initial imaging modality. (↑↑)",
+      "t": "1. In children with suspected non-accidental trauma, we recommend skeletal survey <b>XR</b> as the initial imaging modality. (↑↑)",
       "c": "T21"
     },
     {
