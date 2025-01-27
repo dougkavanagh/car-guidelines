@@ -7,7 +7,7 @@
     },
     {
       "n": "H01A_1",
-      "v": "Sinus Disease: X-Ray",
+      "v": "Sinus Disease: No x-ray",
       "t": "1. In adults with sinus disease, we recommend against <b>XR</b>. (↓↓)",
       "c": "H01A"
     },
@@ -53,7 +53,8 @@
     },
     {
       "n": "H02",
-      "v": "Tinnitus"
+      "v": "Tinnitus",
+      "t": "See 'Pulsatile Tinnitus' vs 'Non-pulsatile tinnitus'"
     },
     {
       "n": "H02A",
@@ -1067,7 +1068,12 @@
     },
     {
       "n": "CV01",
-      "v": "Acute chest pain syndromes"
+      "v": "Acute chest pain syndromes / ACS",
+      "t": "Acute chest pain syndromes: See ACS subtypes (STEMI, non-STEMI, unstable angina, etc.)"
+    },
+    {
+      "a": "CV01",
+      "v": "Myocardial infarction"
     },
     {
       "n": "CV01A",
@@ -1269,7 +1275,7 @@
     {
       "n": "CV01H",
       "v": "Non-cardiac chest pain",
-      "t": "See CAR Thoracic Diagnostic Imaging Referral Guideline [39]\n- TH02. Non-specific chest pain\n- TH14. Suspected pneumothorax (non-traumatic)\n- TH15. Clinically suspected pleural effusion",
+      "t": "Non-cardiac chest pain: See CAR Thoracic Diagnostic Imaging Referral Guideline [39]\n- TH02. Non-specific chest pain\n- TH14. Suspected pneumothorax (non-traumatic)\n- TH15. Clinically suspected pleural effusion",
       "c": "CV01"
     },
     {
@@ -3459,8 +3465,12 @@
     },
     {
       "n": "T01",
-      "v": "Acute head trauma / head injury",
+      "v": "Acute head trauma in adults",
       "t": "Acute head trauma in adults"
+    },
+    {
+      "a": "T01",
+      "v": "Acute concussion / mild traumatic brain injury / MTBI in adults"
     },
     {
       "n": "T01_1",
